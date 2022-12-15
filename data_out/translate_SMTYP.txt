@@ -1,0 +1,107 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+sampler_type_code		AQU	AQU	Vattenkikare	Aquascope	AQSC		translate_SMTYP
+sampler_type_code		AD	AD	Anchor dredge	Anchor dredge			translate_SMTYP
+sampler_type_code		AGT	AGT	Agassiz-trål	Agassiz trawl			translate_SMTYP
+sampler_type_code		ASK	ASK	Askö gravitationshuggare	Askö gravity corer			translate_SMTYP
+sampler_type_code		ASV	ASV	Flygövervakning	Aerial surveillance			translate_SMTYP
+sampler_type_code		BC	BC	Box-corer	Box-corer			translate_SMTYP
+sampler_type_code		BGN	BGN	Bongonät	Bongo net			translate_SMTYP
+sampler_type_code		BO	BO	Boillot dredge	Boillot dredge			translate_SMTYP
+sampler_type_code		BOT	BOT	Bottentrål	Bottom trawl			translate_SMTYP
+sampler_type_code		BR	BR	Bogorov-Rass-nät	Bogorov-Rass net			translate_SMTYP
+sampler_type_code		CH	CH	Charcot dredge	Charcot dredge			translate_SMTYP
+sampler_type_code		CPOD	CPOD	C-POD	C-POD			translate_SMTYP
+sampler_type_code		CM	CM	Kameramonterad corer	Camera mounted corer			translate_SMTYP
+sampler_type_code		DA	DA	Day grab	Day grab			translate_SMTYP
+sampler_type_code		DC	DC	Dykardriven corer	Diver-operated corer			translate_SMTYP
+sampler_type_code		DD	DD	Borranordning	Drilling device			translate_SMTYP
+sampler_type_code		DIV	DIV	Dykare-samlad	Diver collected			translate_SMTYP
+sampler_type_code		DROP	DROP	Fallfälla	Drop trap			translate_SMTYP
+sampler_type_code		DTR	DTR	Dyktransekt	Diving transects			translate_SMTYP
+sampler_type_code		EK	EK	Ekmanhuggare	Ekman grab			translate_SMTYP
+sampler_type_code		EN	EN	Endoume-muddra	Endoume dredge			translate_SMTYP
+sampler_type_code		FBW	FBW	Ferry box vattenprovtagare	Ferry box water sampler			translate_SMTYP
+sampler_type_code		FRAMENET	FRAMENET	Ram med nätuppsamlare för epibentiska prover	Frame with net collector for epibenthic samples	RamSkrap<or>RSKRAP<or>RAMSKRAP		translate_SMTYP
+sampler_type_code		GC	GC	Gravitationshuggare	Gravity corer			translate_SMTYP
+sampler_type_code		GE	GE	Gemini-huggare	Gemini corer			translate_SMTYP
+sampler_type_code		GFL	GFL	Go-Flo havsvattenprovtagare	Go-Flo seawater sampler			translate_SMTYP
+sampler_type_code		GIL	GIL	Gill nät	Gill net			translate_SMTYP
+sampler_type_code		GOV	GOV	GOV-trål	GOV trawl			translate_SMTYP
+sampler_type_code		GRT	GRT	Granton-trål	Granton trawl			translate_SMTYP
+sampler_type_code		GS	GS	Bottenhuggare	Grab sampler			translate_SMTYP
+sampler_type_code		Gulf3	Gulf3	Viken III	Gulf III			translate_SMTYP
+sampler_type_code		Gulf7	Gulf7	Viken VII	Gulf VII			translate_SMTYP
+sampler_type_code		GX	GX	Gemax corer (for recent gyttja-clays)	Gemax corer (for recent gyttja-clays)			translate_SMTYP
+sampler_type_code		HAN	HAN	Samlas in för hand	Collected by hand			translate_SMTYP
+sampler_type_code		HM	HM	Hamon grab	Hamon grab			translate_SMTYP
+sampler_type_code		HOS	HOS	Slang	Hose	HOSE<or>Hos<or>Hose		translate_SMTYP
+sampler_type_code		HP	HP	Haps corer	Haps corer	HAPS		translate_SMTYP
+sampler_type_code		HYB-TPN	HYB-TPN	Hydro-Bios transparent plast-Nansen-provtagare	Hydro-Bios transparent plastic Nansen sampler			translate_SMTYP
+sampler_type_code		HYD-MPD	HYD-MPD	Hydro-Bios Multi Plankton provtagare - Midi	Hydro-Bios Multi Plankton sampler - Midi			translate_SMTYP
+sampler_type_code		HYD-MPN	HYD-MPN	Hydro-Bios Multi Plankton provtagare - Mini	Hydro-Bios Multi Plankton sampler - Mini			translate_SMTYP
+sampler_type_code		HYD-MPX	HYD-MPX	Hydro-Bios Multi Plankton provtagare - Maxi	Hydro-Bios Multi Plankton sampler - Maxi			translate_SMTYP
+sampler_type_code		IFCB	IFCB	Imaging Flow Cytobot 	Imaging Flow Cytobot 			translate_SMTYP
+sampler_type_code		IW	IW	Iskilskärna	Ice wedge corer			translate_SMTYP
+sampler_type_code		JUDAY	JUDAY	Juday nät	Juday net			translate_SMTYP
+sampler_type_code		KA	KA	Kajak corer	Kajak corer			translate_SMTYP
+sampler_type_code		LM	LM	Limnos sediment corer	Limnos sediment corer			translate_SMTYP
+sampler_type_code		LS	LS	Lister dredge	Lister dredge			translate_SMTYP
+sampler_type_code		LW	LW	Limnos vattenprovtagare	Limnos water sampler			translate_SMTYP
+sampler_type_code		MKS	MKS	Modifierad Knudsen sampler	Modified Knudsen sampler			translate_SMTYP
+sampler_type_code		MOCNESS	MOCNESS	Flera öppnings-/stängningsnät och miljöprovtagningssystem	Multiple Opening/ Closing Net and Environmental Sampling System			translate_SMTYP
+sampler_type_code		MU	MU	Multi corer	Multi corer			translate_SMTYP
+sampler_type_code		MESHB	MESHB	Nätkasse	Mesh bag	Mesh bag		translate_SMTYP
+sampler_type_code		NAN	NAN	Nansen-flaska	Nansen sampler			translate_SMTYP
+sampler_type_code		NC	NC	Niemistö corer	Niemistö corer			translate_SMTYP
+sampler_type_code		ND	ND	Nodules dredge	Nodules dredge			translate_SMTYP
+sampler_type_code		NET	NET	Nät	Net			translate_SMTYP
+sampler_type_code		NSK	NSK	Niskinflaska	Niskin bottle			translate_SMTYP
+sampler_type_code		NT	NT	Naturalists dredge	Naturalists dredge			translate_SMTYP
+sampler_type_code		NZ	NZ	NIOZ core	NIOZ core			translate_SMTYP
+sampler_type_code		OBS-DM	OBS-DM	Observationsdiameter	Observation diametre			translate_SMTYP
+sampler_type_code		OC	OC	Annan core-utrustning (begärandekod från ICES)	Other core device (request code from ICES)			translate_SMTYP
+sampler_type_code		OCU	OCU	Okulär inspektion ovanifrån havsytan	Ocular inspection from above the sea surface			translate_SMTYP
+sampler_type_code		OD	OD	Annan muddringsutrustning (begärandekod från Ices)	Other dredge device (request code from ICES)			translate_SMTYP
+sampler_type_code		OL	OL	Jonasson-Olausen Boxcorer	Jonasson-Olausen Boxcorer			translate_SMTYP
+sampler_type_code		OR	OR	Oscor corer (corer för sandiga sediment)	Oscor corer (corer for sandy sediments)			translate_SMTYP
+sampler_type_code		OS	OS	Annan hugg-provtagningsutrustning (begärandekod från ICES)	Other grab sampling device (request code from ICES)			translate_SMTYP
+sampler_type_code		OXS	OXS	Syresensor	Oxygen sensor			translate_SMTYP
+sampler_type_code		PAR	PAR	Partrål	Pair trawl			translate_SMTYP
+sampler_type_code		PEL	PEL	Pelagisk trål	Pelagic trawl			translate_SMTYP
+sampler_type_code		PHOTO	PHOTO	Fotobaserad bestämning	Photo-based determination	Foto		translate_SMTYP
+sampler_type_code		PMP	PMP	Pump	Pump			translate_SMTYP
+sampler_type_code		PRS	PRS	Ringnot	Purse seines			translate_SMTYP
+sampler_type_code		PS	PS	Ponar core provtagare	Ponar core sampler			translate_SMTYP
+sampler_type_code		PT	PT	Petersen-huggare	Petersen grab			translate_SMTYP
+sampler_type_code		QSM	QSM	Kvantitativ provtagning	Quantitative sampling			translate_SMTYP
+sampler_type_code		RA	RA	Rallier dredge	Rallier dredge			translate_SMTYP
+sampler_type_code		RAK	RAK	Kratta	Rake			translate_SMTYP
+sampler_type_code		RB	RB	Rambergprovtagare	Ramberg sampler	Ramberg Sampler-aclst<or>Rambergrör<or>Ramberg Sampler		translate_SMTYP
+sampler_type_code		RD	RD	Rock dredge	Rock dredge			translate_SMTYP
+sampler_type_code		RN	RN	Rieneck box corer	Rieneck box corer			translate_SMTYP
+sampler_type_code		ROS	ROS	Rosettprovtagare	Rosette sampler			translate_SMTYP
+sampler_type_code		RU	RU	Ruttner provtagare	Ruttner sampler			translate_SMTYP
+sampler_type_code		RUTA	RUTA	Ruta	Square	Ruta		translate_SMTYP
+sampler_type_code		SC	SC	Scripps box corer	Scripps box corer			translate_SMTYP
+sampler_type_code		CTD	CTD	CTD sond	CTD sonde			translate_SMTYP
+sampler_type_code		SCT	SCT	Skrapverktyg	Scraping tool			translate_SMTYP
+sampler_type_code		SHUGG	SHUGG	Specialhuggare med en provtagningsarea på 450 cm2, utformad av fiskeriverket för stationerna 60A2 och 60A3	Special grab with a samling area of 450 cm2	HUGGARE		translate_SMTYP
+sampler_type_code		SL	SL	Selena corer (for recent gyttja-clays)	Selena corer (for recent gyttja-clays)			translate_SMTYP
+sampler_type_code		SM	SM	Smith McIntyre-huggare	Smith McIntyre Grab			translate_SMTYP
+sampler_type_code		SQR	SQR	Areadefinierad kvadrat för epibentisk övervakning	Area defined square for epibenthic monitoring			translate_SMTYP
+sampler_type_code		SRN	SRN	Not och ringnät	Seines and ring net			translate_SMTYP
+sampler_type_code		SNO	SNO	Snorkling	Snorkling			translate_SMTYP
+sampler_type_code		STR	STR	Snorklingstransekt	Snorkling transect			translate_SMTYP
+sampler_type_code		SUSE_TS	SUSE_TS	Rörprovtagare för djurplankton, används av SUSE	Tube sampler for zooplankton used by SUSE			translate_SMTYP
+sampler_type_code		UD	UD	Okänd muddring	Unknown dredge			translate_SMTYP
+sampler_type_code		US	US	Usnel corer	Usnel corer			translate_SMTYP
+sampler_type_code		VC	VC	Vibro-corer	Vibro-corer			translate_SMTYP
+sampler_type_code		WD	WD	Warren-muddring	Warren dredge			translate_SMTYP
+sampler_type_code		VID	VID	Videobaserad bestämning av täckning	Video-based determination of coverage			translate_SMTYP
+sampler_type_code		VIDEO-NET	VIDEO-NET	En kombinerad nät- och videoram som används för visuella observationer	A combined net and video-frame used for visual observations			translate_SMTYP
+sampler_type_code		WAT	WAT	Okänd vattenprovtagare	Unknown water sampler			translate_SMTYP
+sampler_type_code		WP-2	WP-2	WP-2 håv	WP-2 net	WP2		translate_SMTYP
+sampler_type_code		WP-3	WP-3	WP-3 håv	WP-3 net			translate_SMTYP
+sampler_type_code		VS	VS	Valter core provtagare	Valter core sampler			translate_SMTYP
+sampler_type_code		VV	VV	Van Veen-huggare	Van Veen grab			translate_SMTYP
+sampler_type_code		HC	HC	Hand corer	Hand corer			translate_SMTYP

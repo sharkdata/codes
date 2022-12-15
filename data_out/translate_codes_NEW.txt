@@ -1,0 +1,650 @@
+field	filter	public_value	code	swedish	english	synonyms	ices_biology	ices_physical_and_chemical	bodc_nerc	darwincore	comments	source
+laboratory		AB Svensk Laboratoriet	SLKS	AB Svensk Laboratoriet	AB Svensk Laboratoriet							translate_LABO
+laboratory		ABB	ABB	ABB	ABB							translate_LABO
+laboratory		Airicole AB	AIRI	Airicole AB	Airicole AB							translate_LABO
+laboratory		Akvaplan-NIVA A/S	APNN	Akvaplan-NIVA A/S	Akvaplan NIVA group							translate_LABO
+laboratory		Norsk institutt for vannforskning	NIVA	Norsk institutt for vannforskning	Norwegian Institute for Water Research							translate_LABO
+laboratory		Alcontrol AB	ALCON	Alcontrol AB	Alcontrol laboratories	ALcontrol Söderhamn<or>ALcontrol Uddevalla<or>Alcontrol AB Umeå Sweden<or>Alcontrol<or>Alcontrol AB Linköping Sweden Alcontrol AB Sweden<or>ALCON<or>ALcontrol AB<or>ALUS<or>ALSH<or>ALLS<or>						translate_LABO
+laboratory		Alleco Oy	ALLECO	Alleco Oy	ALLECO Oy (Finland)							translate_LABO
+laboratory		ALS Scandinavia	ALSSCA	ALS Scandinavia	ALS Scandinavia							translate_LABO
+laboratory		Analycen AB	ANALYC	Analycen AB	Analycen AB	Analycen Göteborg<or>Analycen Lidköping						translate_LABO
+laboratory		ANSAB	ANBF	ANSAB	ANSAB							translate_LABO
+laboratory		Aquaanalys	AQUAAN	Aquaanalys	Aquaanalys							translate_LABO
+laboratory		AquaBiota	AQBI	AquaBiota	AquaBiota Water Research							translate_LABO
+laboratory		Aquatic Systems Group	ASUK	Aquatic Systems Group	Aquatic Systems Group							translate_LABO
+laboratory		Artdatabanken	ADB	Artdatabanken	Swedish Species Information Centre							translate_LABO
+laboratory		BalticSea2020	BALSEA2020	BalticSea2020	BalticSea2020	Baltic Sea 2020 Kungliga vetenskapsakademien						translate_LABO
+laboratory		Barsebäck Kraft AB	BARSE	Barsebäck Kraft AB	Barsebäck Kraft AB							translate_LABO
+laboratory		BillerudKorsnäs Karlsborg	BILKBG	BillerudKorsnäs Karlsborg	BillerudKorsnas Karlsborg	Billerud Kosrsnäs Karlsborg AB<or>Billerud Korsnäs Karlsborg AB<or>BillerudKorsnäs Karlsborgsverken<or>Billerud Karlsborg AB<or>BillerudKorsnäs AB						translate_LABO
+laboratory		Blekingekustens vattenvårdsförbund	BKVF	Blekingekustens vattenvårdsförbund	Blekingekusten Coalition of Water Conservation	Blekingekustens VVF<or>Blekingekustens Vattenvårdsförbund<or>Blekingekustens vvf<or>Blekinge kustvatten- och luftvårdsförbund<or>Blekinge Kustvatten och Luftvårdsförbund						translate_LABO
+laboratory		Bohuskustens vattenvårdsförbund	BVVF	Bohuskustens vattenvårdsförbund	Bohuskusten Coalition of Water Conservation	Bohuskustens Vattenvårdsförbund<or>Bohuskustens vattenvårds förbund<or>Västkusten vattenvårds förbund<or>Bohusläns vattenvårdsförbund<or>BOS<or>REG Bohuskustens KKP SRK						translate_LABO
+laboratory		BONUS EU-projekt	BON	BONUS EU-projekt	BONUS EU-project							translate_LABO
+laboratory		Boliden Group	BOLIDEN	Boliden Group	Boliden Group	Boliden<or>Boliden Mineral						translate_LABO
+laboratory		Borgholms kommun	BHMKOM	Borgholms kommun	Borgholm Municipality							translate_LABO
+laboratory		Calluna AB	CALLUN	Calluna AB	Calluna AB	CALLUNA AB<or>Calluna						translate_LABO
+laboratory		Castor & Pollux	CASPOL	Castor & Pollux	Castor & Pollux							translate_LABO
+laboratory		Dalälvens vattenvårdsförbund	DVVF	Dalälvens vattenvårdsförbund	Dalälven Coalition of Water Conservation							translate_LABO
+laboratory		Danish Centre for Environment and Energy	DMU	Danish Centre for Environment and Energy	Danish Centre for Environment and Energy	Danmarks Miljøundersøgelser						translate_LABO
+laboratory		Danska Hydrauliska Institutet	DHI	Danska Hydrauliska Institutet	Danish hydraulic institute	VKID<or>DHI Water and Environment						translate_LABO
+laboratory		Domsjö fabriker AB	DOMFAB	Domsjö fabriker AB	Domsjö fabriker AB	Domsjö fabriker						translate_LABO
+laboratory		Edsviken vattensamverkan	EDSVVS	Edsviken vattensamverkan	Edsviken watercollaboration	EDVIK						translate_LABO
+laboratory		Ekologigruppen AB	EKOGRP	Ekologigruppen AB	Ekologigruppen AB							translate_LABO
+laboratory		Europeiska havs- och fiskerifonden	EHFF	Europeiska havs- och fiskerifonden	European Maritime and Fisheries Fund							translate_LABO
+laboratory		Miljöbyrå	AWUK	Miljöbyrå	Environment Agency							translate_LABO
+laboratory		Miljöbyrå Syd	SWUK	Miljöbyrå Syd	Environment Agency Southern							translate_LABO
+laboratory		Envix Nord AB	ENVIX	Envix Nord AB	Envix Nord AB							translate_LABO
+laboratory		Estlands Marina Institut	IMRE	Estlands Marina Institut	Estonian Marine Institute							translate_LABO
+laboratory		EU-kommissionen Horizon 2020	EUKOM	EU-kommissionen Horizon 2020	European Commission Horizon 2020							translate_LABO
+laboratory		Eurofins Ahma Rovaniemi	EFAR	Eurofins Ahma Rovaniemi	Eurofins Ahma Rovaniemi							translate_LABO
+laboratory		Eurofins Danmark A/S	EFDK	Eurofins Danmark A/S	Eurofins Denmark A/S	Eurofins Danmark A/S Albertslund						translate_LABO
+laboratory		Eurofins Environment Sweden AB	EFSW	Eurofins Environment Sweden AB	Eurofins Environment Sweden AB	Eurofins Lidköping<or>Eurofins Stockholm<or>EULD<or>EUSHOLM<or>Eurofins						translate_LABO
+laboratory		Eurofins-Pelagia	EUPE	Eurofins-Pelagia	Eurofins-Pelagia							translate_LABO
+laboratory		Europeiska kommisionen LIFE programmet	LIFE	Europeiska kommisionen LIFE programmet	European comission LIFE programme	EU-kommissionen						translate_LABO
+laboratory		Falma Provtagning	FALMA	Falma Provtagning	Falma Sampling							translate_LABO
+laboratory		Finlands miljöcentral	SYKE	Finlands miljöcentral	Finnish Environment Institute	Finska Miljöinstitutet<or>FEIF						translate_LABO
+laboratory		Fiskeriverket	FIV	Fiskeriverket	Swedish National Board of Fisheries	National Board of Fisheries<or>HRFS Swedish National Board of Fisheries<or>IMRS<or>Fiskeriverket Sverige						translate_LABO
+laboratory		Fiskeriverket Havsfiskelaboratoriet	FIVHL	Fiskeriverket Havsfiskelaboratoriet	Swedish National Board of Fisheries							translate_LABO
+laboratory		Fiskeriverket Kustfiskelaboratoriet	FIVKL	Fiskeriverket Kustfiskelaboratoriet	Swedish National Board of Fisheries							translate_LABO
+laboratory		FITO-Lab	SFIP	FITO-Lab	FITO-Lab	FOLB<or>FITO						translate_LABO
+laboratory		FORMAS	FORMAS	FORMAS	FORMAS							translate_LABO
+laboratory		Forsmarks kraftgrupp AB	FORS	Forsmarks kraftgrupp AB	Forsmarks kraftgrupp AB							translate_LABO
+laboratory		Föreningen Nenningesund	NENNINGE	Föreningen Nenningesund	Nenningesund association							translate_LABO
+laboratory		Gästrike Vatten AB	GASTVAAB	Gästrike Vatten AB	Gästrike Vatten AB							translate_LABO
+laboratory		Gästriklands vattenvårdsförbund	GVVF	Gästriklands vattenvårdsförbund	Gästrikland Coalition of Water Conservation	Gästriklands vattenvårdsförening						translate_LABO
+laboratory		Göteborgs Stad	GBGKOM	Göteborgs Stad	Gothenburg Municipality	Göteborg kommun<or>Göteborgs kommun						translate_LABO
+laboratory		Göteborgs universitet	GU	Göteborgs universitet	University of Gothenburg	IAMK<or>Göteborg Universitet<or>Göteborg University Maringeologiska institutet<or>GUMI						translate_LABO
+laboratory		Hafok AB	HAFOK	Hafok AB	Hafok AB	hafok<or>Hafok						translate_LABO
+laboratory		Haninge kommun	HANKOM	Haninge kommun	Haninge Municipality							translate_LABO
+laboratory		Havs- och vattenmyndigheten	HAV	Havs- och vattenmyndigheten	Swedish Agency for Marine and Water Management	Havs och vattenmyndigheten<or>Havs och Vattenmyndigheten<or>Havs- och Vattenmyndigheten<or>havs och Vattenmyndigheten<or>HaV<or> Hav_extra<or> Hav- och vattenmyndigheten<or>SWAM<or>Hav och Vattenmyndigheten<or>SAMWM<or>Hav						translate_LABO
+laboratory		Havsforskningsinstitutet Finland	IMRF	Havsforskningsinstitutet Finland	Finnish Institute of Marine Research	Finska institutet för Marina vetenskaper						translate_LABO
+laboratory		Helsingsborgs miljöförvaltning	HBGMILJO	Helsingsborgs miljöförvaltning	Helsingborg environmental management	Helsingsborg miljökontor<or>Helsingborgs miljöförvaltning<or>Miljönämnden i Helsingborg						translate_LABO
+laboratory		Hillevik marina fältstation	HILMAR	Hillevik marina fältstation	Hillevik Marine Field Station	Hillevik Marina Fältstation						translate_LABO
+laboratory		Holmen Paper	HOLMPAP	Holmen Paper	Holmen Paper	Holmen Paper AB Hallsta Pappersbruk<or>Holmen Paper AB						translate_LABO
+laboratory		Hushållningssällskapet	HUSH	Hushållningssällskapet	Swedish Rural Economy and Agricultural Societies 	Hushållningssällskapet Rådgivning Nord<or> HUSHRN						translate_LABO
+laboratory		Hydroconsult AB	HYDCON	Hydroconsult AB	Hydroconsult AB							translate_LABO
+laboratory		HydroGIS AB	HYD	HydroGIS AB	HydroGIS AB							translate_LABO
+laboratory		Höga kusten Limnologkonsult	HKLIM	Höga kusten Limnologkonsult	High coast Limnologist consultant							translate_LABO
+laboratory		Höganäs kommun	HOGKOM	Höganäs kommun	Höganäs Municipality							translate_LABO
+laboratory		Intresseföreningen för Nordöstra Hälsinglands SRK	IFNHR	Intresseföreningen för Nordöstra Hälsinglands SRK	Committee of North Eastern Hälsingland Coordinated Recipient Monitoring	Intresseföreningen för Nord Östra Hälsinglands samordnade recipientkontroll<or>Gruppen för samordnad recipientkontroll i NÖ Hälsingland<or>Intresseföreningen för Nordöstra Hälsinglands samordnade recipientkontroll						translate_LABO
+laboratory		IVL Svenska Miljöinstitutet 	SERI	IVL Svenska Miljöinstitutet 	Swedish Environmental Research Institute	Swedish Environmental Research Institute						translate_LABO
+laboratory		JP Aquakonsult KB	JPAQUA	JP Aquakonsult KB	JP Aquakonsult KB							translate_LABO
+laboratory		JP Sedimentkonsult HB	JPSED	JP Sedimentkonsult HB	JP Sedimentkonsult HB							translate_LABO
+laboratory		Kalix kommun	KLXKOM	Kalix kommun	Kalix Municipality							translate_LABO
+laboratory		Kalmar kommun	KALKOM	Kalmar kommun	Kalmar Municipality							translate_LABO
+laboratory		Kalvö Ostron	KALOS	Kalvö Ostron	Kalvö Oyster							translate_LABO
+laboratory		Kalmar läns kustvattenkommitté	KLKK	Kalmar läns kustvattenkommitté	Coastal Committee of Kalmar County	Kalmar läns kustvattenkommitte<or>Kalmar Läns kustvattenkommitté						translate_LABO
+laboratory		Karlshamns hamn AB	KARHAM	Karlshamns hamn AB	Karlshamns Port AB							translate_LABO
+laboratory		Karlskrona kommun	KARKOM	Karlskrona kommun	Karlskrona Municipality							translate_LABO
+laboratory		Kiviks Musteri	KIVI	Kiviks Musteri	Kiviks Musteri							translate_LABO
+laboratory		KM Lab AB	KMLB	KM Lab AB	KM Lab AB							translate_LABO
+laboratory		Kristineberg marina forskningsstation	KMRS	Kristineberg marina forskningsstation	Kristineberg marine research station							translate_LABO
+laboratory		Kolmården	KOLM	Kolmården	Kolmården							translate_LABO
+laboratory		Kristianstads kommun	KRIKOM	Kristianstads kommun	Kristianstads Municipality	Kristianstad kommun						translate_LABO
+laboratory		Kungliga Vetenskapsakademin	KVA	Kungliga Vetenskapsakademin	The Royal Swedish Academy of Sciense	Kungliga vetenskapsakademien						translate_LABO
+laboratory		Kustfilm Nord AB	KUFI	Kustfilm Nord AB	Kustfilm Nord AB							translate_LABO
+laboratory		Lapland Regional Environment Centre	LAPF	Lapland Regional Environment Centre	Lapland Regional Environment Centre							translate_LABO
+laboratory		LeCa Marin	LECA	LeCa Marin	LeCa Marin							translate_LABO
+laboratory		Lidingö Stad	LIDINGO	Lidingö Stad	Lidingö Municipality	Lidingö stad Miljö- och stadsbyggnadskontoret						translate_LABO
+laboratory		Linnéuniversitetet	LNU	Linnéuniversitetet	Linnaeus University	Linneuniversitetet<or>UCKS<or>Kalmar Universitet						translate_LABO
+laboratory		Litoralis Natur AB	LITORALIS	Litoralis Natur AB	Litoralis Nature AB	Litoralis<or>ESJE						translate_LABO
+laboratory		Ljunggren Fiske & Vattenvård AB	LJUNGGREN	Ljunggren Fiske & Vattenvård AB	Ljunggren Fiske & Vattenvård AB	Ljunggren Fiske & Vattenvård AB 						translate_LABO
+laboratory		Livsmedelsverket	SLV	Livsmedelsverket	National Food Agency	Svenska Livsmedelsverket						translate_LABO
+laboratory		Ljusnan-Voxnans vattenvårdsförbund	LVVVF	Ljusnan-Voxnans vattenvårdsförbund	Ljusnan-Voxnan Coalition of Water Conservation	LVVF<or>Ljusnan-Voxnans Vattenvårdsförbund<or>Ljusnan Voxnan						translate_LABO
+laboratory		Ljusterö vatten och fiskevårdsförening	LVFVF	Ljusterö vatten och fiskevårdsförening	Ljusterö Water and Fish Conservation Association							translate_LABO
+laboratory		Lunds Universitet	LUUN	Lunds Universitet	Lund University							translate_LABO
+laboratory		LV-lab	LVLAB	LV-lab	LV-lab							translate_LABO
+laboratory		Lysekils Ostron och Musslor	LYOSMU	Lysekils Ostron och Musslor	Lysekils Oysters and Mussels							translate_LABO
+laboratory		Länsstyrelsen Blekinge	KLST	Länsstyrelsen Blekinge	County Administrative Board of Blekinge	Länsstyrelsen i Blekinge län<or>Länsstyrelsen i Blekinge<or>Länsstyresen i Blekinge						translate_LABO
+laboratory		Länsstyrelsen Gotland	ILST	Länsstyrelsen Gotland	County Administrative Board of Gotland	Länsstyrelsen i Gotlands län<or>Länsstyrelsen i Gotland						translate_LABO
+laboratory		Länsstyrelsen Gävleborg	XLST	Länsstyrelsen Gävleborg	County Administrative Board of Gävleborg	Länsstyrelsen i Gävleborgs län<or>Länsstyrelsen i Gävleborg<or>LST Gävleborg<or> Länsstyrelsen Gävleborgs län						translate_LABO
+laboratory		Länsstyrelsen Halland	NLST	Länsstyrelsen Halland	County Administrative Board of Halland	Länsstyrelsen i Hallands län<or>Länsstyrelsen i Halland<or>länsstyrelsen i Halland<or>Nlst<or>Hallands kustkontroll<or>nlst<or>Länsstyrelsen i halland<or>N lst<or>n lst						translate_LABO
+laboratory		Länsstyrelsen Kalmar	HLST	Länsstyrelsen Kalmar	County Administrative Board of Kalmar	Länsstyrelsen i Kalmar län<or>Länsstyrelsen H län<or>Länsstyrelsen i Kalmar<or>Länsstyrelsen Kalmar län						translate_LABO
+laboratory		Länsstyrelsen Norrbotten	BDLST	Länsstyrelsen Norrbotten	County Administrative Board of Norrbotten	Länsstyrelsen i Norrbottens län<or>BDLAN<or>Länsstyrelsen i Norrbotten<or>LST Norrbotten						translate_LABO
+laboratory		Länsstyrelsen ospecificerad	LST	Länsstyrelsen ospecificerad	County Administrative Board unspecified							translate_LABO
+laboratory		Länsstyrelsen Skåne	MLST	Länsstyrelsen Skåne	County Administrative Board of Skåne	Länsstyrelsen i Skåne<or>Lst Skåne<or>Lst  Skåne<or>Länsstyrelsen i Skåne län<or>Lst I Skåne län<or>Länsstyrelsen skåne						translate_LABO
+laboratory		Länsstyrelsen Stockholm	BLST	Länsstyrelsen Stockholm	County Administrative Board of Stockholm							translate_LABO
+laboratory		Länsstyrelsen Stockholm	ABLST	Länsstyrelsen Stockholm	County Administrative Board of Stockholm	Länsstyrelsen i Stockholms län<or>Länsstyrelsen i Stockholm<or>Länstyrelsen i Stockholm<or>Stockholms län						translate_LABO
+laboratory		Länsstyrelsen Södermanland	DLST	Länsstyrelsen Södermanland	County Administrative Board of Södermanland	Länsstyrelsen i Södermanlands län<or>Länsstyrelsen i Södermanland<or>Länsstyrelsen Södermanlands län						translate_LABO
+laboratory		Länsstyrelsen Uppsala	CLST	Länsstyrelsen Uppsala	County Administrative Board of Uppsala	Länsstyrelsen i Uppsala län<or>Länsstyrelsen i Uppsala<or>Länsstyrelsen Uppsala län<or>LST Uppsala län<or>LST Uppsala						translate_LABO
+laboratory		Länsstyrelsen Västerbotten	ACLST	Länsstyrelsen Västerbotten	County Administrative Board of Västerbotten	Länsstyrelsen i Västerbottens län<or>ACLAN<or>Länsstyrelsen i Västerbotten<or> LST Västerbotten<or>Lst Västerbotten						translate_LABO
+laboratory		Länsstyrelsen Västernorrland	YLST	Länsstyrelsen Västernorrland	County Administrative Board of Västernorrland	Länsstyrelsen i Västernorrlands län<or>Nedre Ångermanälvens SRK<or>Y-LAN<or>Länsstyrelsen i Västernorrland<or>LST Västernorrland<or>Lst Västernorrland<or>Ylst<or>ylst						translate_LABO
+laboratory		Länsstyrelsen Västra Götaland	OLST	Länsstyrelsen Västra Götaland	County Administrative Board of Västra Götaland	Länsstyrelsen i Västra Götalands län<or>Länsstyrelsen i Västra Götaland<or>Länstyrelsen Västra götaland<or>Länstyrelsen Västra Götland<or> Länsstyrelsen Göteborg och Bohuslän<or>Lst_O_Kampanj<or>Lst_O_Koster <or>Lst_O_RMÖ<or>LST_O<or>Koster nationalpark (Lst_O)<or>Koster nationalpark, Lst_O<or>Länstyrelsen Västra Götaland<or>Lst_O						translate_LABO
+laboratory		Länsstyrelsen Östergötland	ELST	Länsstyrelsen Östergötland	County Administrative Board of Östergotland	Länsstyrelsen i Östergötlands län<or>Länsstyrelsen i Östergötland län<or>Länsstyrelsen i Östergötland<or>Länstyrelsen Östergötland						translate_LABO
+laboratory		Marietorps naturskola	MTNS	Marietorps naturskola	Marietorps Environmental school							translate_LABO
+laboratory		Marin Miljöanalys AB	MARMIL	Marin Miljöanalys AB	Marin Miljöanalys AB							translate_LABO
+laboratory		Marin Mätteknik	MMT	Marin Mätteknik	MMT							translate_LABO
+laboratory		Marina läroverket i Stocksund	MARLAR	Marina läroverket i Stocksund	Marina läroverket i Stocksund							translate_LABO
+laboratory		Marine Monitoring AB	MMAB	Marine Monitoring AB	Marine Monitoring AB	MAB						translate_LABO
+laboratory		MeAna konsult Uppsala	MEANA	MeAna konsult Uppsala	MeAna konsult Uppsala							translate_LABO
+laboratory		Medins Havs och Vattenkonsulter	MEDINS	Medins Havs och Vattenkonsulter	MEDINS AB	Medins<or>Medins Biologi AB<or>Medins Havs och Vattenkonsulter AB<or>Medins Havs- och Vattenkonsulter AB						translate_LABO
+laboratory		Metsä Board Sverige AB	METSA	Metsä Board Sverige AB	Metsa Board	Metsä Board Sverige AB Husums Fabrik						translate_LABO
+laboratory		Miljö & Natur Mats Notini AB	MNMN	Miljö & Natur Mats Notini AB	Miljö & Natur Mats Notini AB	Tronerud Miljö och Natur						translate_LABO
+laboratory		Miljölaboratorierna i Norrland	MILANO	Miljölaboratorierna i Norrland	Miljölaboratorierna i Norrland							translate_LABO
+laboratory		Miljölaboratorierna Umeå	MILUME	Miljölaboratorierna Umeå	Miljölaboratorierna Umeå	Miljölaboratorierna - Umeå						translate_LABO
+laboratory		Motala Ströms vattenvårdsförbund	MSVVF	Motala Ströms vattenvårdsförbund	Motala ström Coalition of Water Conservation	MSV<or>Motala Ströms Vattenvårdsförbund						translate_LABO
+laboratory		Mönsterås kommun	MONKOM	Mönsterås kommun	Mönsterås Municipality							translate_LABO
+laboratory		Marine Phytoplankton Consulting	MPC	Marine Phytoplankton Consulting	Marine Phytoplankton Consulting							translate_LABO
+laboratory		Nacka kommun	NACKAKOM	Nacka kommun	Nacka Municipality							translate_LABO
+laboratory		National Marine Fisheries Research Institute (NMFRI)	NMFRI	National Marine Fisheries Research Institute (NMFRI)	National Marine Fisheries Research Institute (NMFRI)							translate_LABO
+laboratory		Nationell datavärd Oceanografi	NODC	Nationell datavärd Oceanografi	National Oceanographic Data Center							translate_LABO
+laboratory		Naturhistoriska riksmuseet	MNHS	Naturhistoriska riksmuseet	Swedish Museum of Natural History	MHNS						translate_LABO
+laboratory		Naturvatten i Roslagen AB	NATVAT	Naturvatten i Roslagen AB	Naturvatten i Roslagen AB							translate_LABO
+laboratory		Naturvårdsverket	SEPA	Naturvårdsverket	Swedish Environmental Protection Agency	NV						translate_LABO
+laboratory		Naturvårdsverket Kustlaboratorium 	LCRS	Naturvårdsverket Kustlaboratorium 	Swedish Environmental Protection Agency Laboratory for Coastal Research 							translate_LABO
+laboratory		Naturvårdsverket Vattenkvalitetslaboratorium	NWLS	Naturvårdsverket Vattenkvalitetslaboratorium	Swedish Environmental Protection Agency Water Quality Laboratory 	Swedish Environmental Protection Agency Naturvårdsverkets Water Quality Laboratory 						translate_LABO
+laboratory		NIRAS Sweden AB	NIRAS	NIRAS Sweden AB	NIRAS Sweden AB	Niras						translate_LABO
+laboratory		Nordisk Analyse Center	NACE	Nordisk Analyse Center	Nordisk Analyse Center							translate_LABO
+laboratory		Nordmalings kommun	NORKOM	Nordmalings kommun	Nordmaling Municipality	Nordmalingskommun						translate_LABO
+laboratory		Nordvästskånes kustvattenkommitté	NVSKK	Nordvästskånes kustvattenkommitté	Coastal Committee of Nordvästra skåne	Nordvästskånes Kustvattenkommitté<or>Nordvästskånes Kustvattenkomitté (NVSKK)<or>Nordvässkånes Kustvattenkommitté (NVSKK)<or>Nordvästskånes Kustvattenkomitté<or>Nordvästra Skånes Kustvattenkommitté<or>Nordvästskånes kustvattenkommitté (NVSKK) 2000 och framåt<or>Nordvästskånes kustvattenkommitte<or> Nordvästskånes Kustvattenkommitte						translate_LABO
+laboratory		Norrköpings kommun	NRKKOM	Norrköpings kommun	Norrköping Municipality							translate_LABO
+laboratory		Norrtälje Energi	NORTENER	Norrtälje Energi	Norrtälje Energy							translate_LABO
+laboratory		Norrtälje kommun	NORRKOM	Norrtälje kommun	Norrtälje Municipality	Norrtälje kommun Vatten- och avloppsavdelningen<or>NORRTA						translate_LABO
+laboratory		Nyköping kommun	NYKOM	Nyköping kommun	Nyköping Municipality							translate_LABO
+laboratory		Nynäshamn kommun	NYNAKOM	Nynäshamn kommun	Nynäshamn Municipality							translate_LABO
+laboratory		Orust Shellfish AB	ORSHEL	Orust Shellfish AB	Orust Shellfish AB							translate_LABO
+laboratory		Oskarshamns kommun	OSKKOM	Oskarshamns kommun	Oskarshamns Municipality							translate_LABO
+laboratory		Oskarshamns Kraftgrupp AB	OKGAB	Oskarshamns Kraftgrupp AB	Oskarshamn Nuclear Power Plant							translate_LABO
+laboratory		Oxelö Energi	OXEN	Oxelö Energi	Oxelö Energy							translate_LABO
+laboratory		Oxelösund hamn	OXHAMN	Oxelösund hamn	Oxelösund Harbor							translate_LABO
+laboratory		PAG Miljöundersökningar	PAG	PAG Miljöundersökningar	PAG Environmental Studies							translate_LABO
+laboratory		Pelagia Miljökonsult AB	PELA	Pelagia Miljökonsult AB	Pelagia Environmental consulting AB	Pelagia Nature & Environment AB						translate_LABO
+laboratory		Piteå Renhållning och Vatten	PIREVA	Piteå Renhållning och Vatten	Piteå Sanitation and Water	PITREV<or>Piteå Renhållning och Vatten AB 						translate_LABO
+laboratory		Piteå kommun	PITKOM	Piteå kommun	Piteå Municipality							translate_LABO
+laboratory		Ringhals AB kärnkraftverk	RINGHALS	Ringhals AB kärnkraftverk	Ringhals nuclear power plant							translate_LABO
+laboratory		Robertsfors kommun	ROBKOM	Robertsfors kommun	Robertsfors Municipality							translate_LABO
+laboratory		SCA Packaging	SCAP	SCA Packaging	SCA Packaging	SCA Packaging Munksund Piteå<or>SCA Munksund<or>SCA Munksund AB						translate_LABO
+laboratory		Scanfjord	SCFJ	Scanfjord	Scanfjord							translate_LABO
+laboratory		Science for Life Laboratory	SCILIFELAB	Science for Life Laboratory	Science for Life Laboratory							translate_LABO
+laboratory		Schweden Splitt AB	SPLITT	Schweden Splitt AB	Schweden Splitt AB							translate_LABO
+laboratory		Sero A/S	SERO	Sero A/S	Sero A/S							translate_LABO
+laboratory		SGS Analytics Sweden	SGS	SGS Analytics Sweden	SGS Analytics Sweden							translate_LABO
+laboratory		Sveriges geologiska undersökning	SGUS	Sveriges geologiska undersökning	Geological Survey of Sweden							translate_LABO
+laboratory		Skellefteå kommun	SKEKOM	Skellefteå kommun	Skellefteå Municipality							translate_LABO
+laboratory		Skog & Sjö i Dalarna	SKSJDA	Skog & Sjö i Dalarna	Skog & Sjö i Dalarna							translate_LABO
+laboratory		Skärgårdsstiftelsen	SKS	Skärgårdsstiftelsen	The Archipelago Foundation							translate_LABO
+laboratory		Smurfit Kappa Kraftliner AB	SKKP	Smurfit Kappa Kraftliner AB	Smurfit Kappa Kraftliner AB	Smurfit Kappa Kraftliner<or>Smurfit Kappa Kraftliner Piteå						translate_LABO
+laboratory		Sollentuna kommun	SOLLKOM	Sollentuna kommun	Sollentuna Municipality	Kommunledningskontoret, Sollentuna kommun<or>Kommunledningskontoret Sollentuna kommun						translate_LABO
+laboratory		SSAB	SSAB	SSAB	SSAB							translate_LABO
+laboratory		Stockholm Vatten AB	SVAB	Stockholm Vatten AB	Stockholm Vatten AB							translate_LABO
+laboratory		Stockholms stad	STHS	Stockholms stad	The city of Stockholm	Stockholm stad						translate_LABO
+laboratory		Stockholms universitet	DEEP	Stockholms universitet	Stockholm University Department of Ecology Environment and Plant Sciences	Stockholm University Systems Ecology<or>SUSE<or>IGSS<or>NSLS<or>Stockholm Universitet						translate_LABO
+laboratory		Stockholms universitets marina forskningscentrum	SMRC	Stockholms universitets marina forskningscentrum	Stockholm University Marine Research Center	Stockholm University Marina Forsknings center						translate_LABO
+laboratory		Sundsvallsbuktens vattenvårdsförening	SVVF	Sundsvallsbuktens vattenvårdsförening	Sundsvallsbukten Coalition of Water Conservation	SBVV<or>Sundsvallsbuktens Vattenvårdsförbund						translate_LABO
+laboratory		Svealands kustvattenvårdsförbund	SKVVF	Svealands kustvattenvårdsförbund	Coastal Committee of Svealand	Svealands Kustvattenvårdsförbund<or>Svealands Kustvattenkommitté						translate_LABO
+laboratory		SWECO	SWECO	SWECO	SWECO	VBB Viak<or>VBB-V<or>VBB						translate_LABO
+laboratory		Svelab Miljölaboratorier AB	SVELAB	Svelab Miljölaboratorier AB	Svelab Miljölaboratorier AB							translate_LABO
+laboratory		Sven Lovén centrum för marina vetenskaper-Kristineberg	SLCK	Sven Lovén centrum för marina vetenskaper-Kristineberg	The Sven Lovén Centre for Marine Sciences-Kristineberg	SLC-K<or>KMRS<or>KMFS						translate_LABO
+laboratory		Sven Lovén centrum för marina vetenskaper-Tjärnö	SLCT	Sven Lovén centrum för marina vetenskaper-Tjärnö	The Sven Lovén Centre for Marine Sciences-Tjärnö	SLC-T<or>University of Gutenburg Marine ecology Tjärnö<or>UGMET<or>UGBEST<or>TMBL<or>Sven lovén centrum för marina vetenskaper-Tjärnö<or>GUMET<or>IAMK						translate_LABO
+laboratory		Svensk Kärnbränslehantering AB	SKB	Svensk Kärnbränslehantering AB	SKB – Swedish Nuclear Fuel and Waste Management Co	SKBAB						translate_LABO
+laboratory		Svensk Ekologikonsult AB	SEK	Svensk Ekologikonsult AB	Swedish Ecological Consultancy AB							translate_LABO
+laboratory		Sveriges lantbruksuniversitet 	SLU	Sveriges lantbruksuniversitet 	Swedish University of Agricultural Sciences	SLU Uppsala Miljöanalys<or>SLUUPP						translate_LABO
+laboratory		Sveriges lantbruksuniversitet Institutionen för akvatiska resurser	SLUA	Sveriges lantbruksuniversitet Institutionen för akvatiska resurser	Swedish University of Agricultural Sciences Department of Aquatic Resources							translate_LABO
+laboratory		Sveriges lantbruksuniversitet - Havsfiskelaboratoriet	SLUHL	Sveriges lantbruksuniversitet - Havsfiskelaboratoriet	Swedish University of Agricultural Sciences - Marine fisheries laboratory							translate_LABO
+laboratory		Sveriges meteorologiska och hydrologiska institut	SMHI	Sveriges meteorologiska och hydrologiska institut	Swedish Meteorological and Hydrological Institute	SMHG						translate_LABO
+laboratory		Sveriges Vattenekologer AB	SVVAEK	Sveriges Vattenekologer AB	Sveriges Vattenekologer AB							translate_LABO
+laboratory		Sydkustens vattenvårdsförbund	SYDVVF	Sydkustens vattenvårdsförbund	Sydkusten Coalition of Water Conservation	Sydkustens Vattenvårdsförbund						translate_LABO
+laboratory		SYNLAB Analytics & Services Sweden AB	SYNLAB	SYNLAB Analytics & Services Sweden AB	SYNLAB Analytics & Services Sweden AB							translate_LABO
+laboratory		Sydvästra stockholmsregionens va-verk AB	SYVAB	Sydvästra stockholmsregionens va-verk AB	Southwest Stockholm region waterwork							translate_LABO
+laboratory		Statens veterinärmedicinska anstalt	SVA	Statens veterinärmedicinska anstalt	National Veterinary Institute	NVI						translate_LABO
+laboratory		Södra Cell Värö massafabrik	VARO	Södra Cell Värö massafabrik	Sodra Pulp Labs							translate_LABO
+laboratory		Sölvesborgs kommun	SOLVKOM	Sölvesborgs kommun	Sölvesborgs Municipality							translate_LABO
+laboratory		Toxicon AB	TOXICO	Toxicon AB	Toxicon AB							translate_LABO
+laboratory		Trelleborgs Kommun	TRELKOM	Trelleborgs Kommun	Trelleborg Municipality							translate_LABO
+laboratory		Tyresö Fiskevårdsförening	TYRFISK	Tyresö Fiskevårdsförening	Tyresö Fiskevårdsförening							translate_LABO
+laboratory		Tyréns AB	TYRENS	Tyréns AB	Tyréns AB	Tyréns						translate_LABO
+laboratory		Tång och Sånt	TASA	Tång och Sånt	Tång och Sånt							translate_LABO
+laboratory		Täby kommun	TABYKOM	Täby kommun	Täby Municipality	Täby kommun Tekniska kontoret<or>Täby kommun, Tekniska kontoret						translate_LABO
+laboratory		Ume- och Vindelälvens vattenvårdsförbund	UVVVF	Ume- och Vindelälvens vattenvårdsförbund	Ume- and Vindelälven Coalition of Water Conservation	Ume/Vindelälvens vattenvårdsförbund<or>Ume/Vindelälvens Vattenvårdsförbund						translate_LABO
+laboratory		Umeå kommun	UMEKOM	Umeå kommun	Umeå Municipality	Umeå kommun (UMEVA)						translate_LABO
+laboratory		Umeå Universitet	UMSC	Umeå Universitet	Umeå University	UMF						translate_LABO
+laboratory		Upplandsstiftelsen	UPPSTIFT	Upplandsstiftelsen	The Uppland Foundation							translate_LABO
+laboratory		Uppsala universitet Campus Gotland	HGOT	Uppsala universitet Campus Gotland	Uppsala University Campus Gotland	Högskolan på Gotland<or>Gotland Högskola						translate_LABO
+laboratory		Uppsala universitet Erkenlab	ERKEN	Uppsala universitet Erkenlab	Uppsala University, Erken laboratory	Erkenlab<or>Erkenlaboratoriet						translate_LABO
+laboratory		WATERS	WATERS	WATERS	WATERS	WATERS - Marine Monitoring						translate_LABO
+laboratory		Vattenfall	VAFALL	Vattenfall	Vattenfall	Vattenfall AB						translate_LABO
+laboratory		Värmdö kommun	VARMKOM	Värmdö kommun	Värmdö Municipality	Värmdö Kommun						translate_LABO
+laboratory		Västkustmusslor	VASTMU	Västkustmusslor	West Coast Mussels							translate_LABO
+laboratory		Vattenlaboratoriet Malmö	VLABMA	Vattenlaboratoriet Malmö	Waterlaboratory Malmö							translate_LABO
+laboratory		Vattenmyndigheten i Bottenviken	VMBOT	Vattenmyndigheten i Bottenviken	Bothnian Bay Water District Authority							translate_LABO
+laboratory		Vattenvårdsförbundet för västra Hanöbukten	VHVVF	Vattenvårdsförbundet för västra Hanöbukten	Västra hanöbukten Coalition of Water Conservation	VVFVHB<or>Västra Hanöbuktens VVF<or>Västra Hanöbuktens vattenvårdsförbund<or>Västra hanöbuktens vattenvårdsförbund<or>VHVF<or>VVFVHB<or>Västra Hanöbuktens VVF<or>Västra Hanöbuktens vattenvårdsförbund<or>Västra hanöbuktens vattenvårdsförbund<or>Vvf för västra Hanöbukten<or>Vattenvårdsförbundet för Västra Hanöbukten						translate_LABO
+laboratory		WEAQ AB	WEAQ	WEAQ AB	WEAQ AB	WEAQ HB						translate_LABO
+laboratory		VA SYD	VASYD	VA SYD	VA SYD							translate_LABO
+laboratory		Veolia	VEOLIA	Veolia	Veolia	Veolia Water AB<or>Veolia Vatten AB						translate_LABO
+laboratory		WSP Environmental	WSP	WSP Environmental	WSP Environmental							translate_LABO
+laboratory		Västerviks kommun	VASKOM	Västerviks kommun	Västerviks Municipality							translate_LABO
+laboratory		Yoldia Environmental Consulting AB	YOLDIA	Yoldia Environmental Consulting AB	Yoldia Environmental Consulting AB	Yoldia Environmental Consulting AB (http://www.yoldia.se/)						translate_LABO
+laboratory		Ålands Fiskförädling AB	ALFISK	Ålands Fiskförädling AB	Ålands fiskförädling							translate_LABO
+laboratory		Öresunds vattenvårdsförbund	OVVF	Öresunds vattenvårdsförbund	Öresund Coalition of Water Conservation	OVF<or>Öresunds Vattenvårdsförbund<or>Ötesunds Vattenvårdsförbund<or>ÖVF<or>Öresunds Vattenvårdsförbund 2016 och framåt<or>Öresund Vattenvårdsförbund<or>Öresunds Vattenvårdsförbund 2021 och framåt<or>Öresunda Vattenvårdsförbund						translate_LABO
+laboratory		Öresundsbrokonsortiet	OKONS	Öresundsbrokonsortiet	Øresundsbro Konsortiet							translate_LABO
+laboratory		Österåkers kommun	OAKOM	Österåkers kommun	Österåkers Municipality							translate_LABO
+laboratory		Östhammars kommun	OSTKOM	Östhammars kommun	Östhammar Municipality							translate_LABO
+laboratory		Halmstad hamn AB	HALHAM	Halmstad hamn AB	Halmstad hamn AB	Halmnstad hamn AB<or>Halmstad hamn						translate_LABO
+laboratory		Dannes Firma	DANNF	Dannes Firma	Dannes Firma	Dannes Firma (Dan Evander)<or>Dannes firma (Dan Evander)						translate_LABO
+laboratory		Ospecificerat	XXX	Ospecificerat	Unspecified							translate_LABO
+laboratory		Ospecificerat forskningsdata	XXF	Ospecificerat forskningsdata	Unspecified research data	Forskningsdata						translate_LABO
+laboratory		Kungsbacka kommun	KUNGKOM	Kungsbacka kommun	Kungsbacka Municipality							translate_LABO
+sample_project_code		HIST Bornö hängbro	BNO	HIST Bornö hängbro	Bornö bridge sampling 	BORNÖ<or>HIST_Bornö_hängbro						translate_PROJ
+sample_project_code		HIST Fyrskepp	FYR	HIST Fyrskepp	Lightship	HIST_Fyrskepp						translate_PROJ
+sample_project_code		HIST Havsfiskelaboratoriet Lysekil	LYS	HIST Havsfiskelaboratoriet Lysekil	Marine fisheries laboratory in Lysekil	HIST_Havsfiskelaboratoriet_Lysekil						translate_PROJ
+sample_project_code		NAT Algövervakning	ALG	NAT Algövervakning	NAT Algae monitoring							translate_PROJ
+sample_project_code		NAT Artikel_8	AR8	NAT Artikel_8	NAT Article_8							translate_PROJ
+sample_project_code		NAT Atlant-Skandinavisk Sill	ASH	NAT Atlant-Skandinavisk Sill	NAT Atlanto-Scandian Herring	ATL.-SCA. HERRING<or>PROJ_Atlanto_Scandian_Herring						translate_PROJ
+sample_project_code		NAT Baltiska Internationella Akustiska Undersökningar BIAS	EKO	NAT Baltiska Internationella Akustiska Undersökningar BIAS	NAT Baltic International Acustic Survey (BIAS)	EKOINTEG.<or>PROJ_Baltic_International_Acoustic_Surveys_BIAS						translate_PROJ
+sample_project_code		NAT Baltiska Internationella Trål Undersökning BITS	COD	NAT Baltiska Internationella Trål Undersökning BITS	NAT Baltic International Trawl Survey (BITS)	TORSKUNDERS.<or>PROJ_Baltic International_Trawl_Survey_BITS						translate_PROJ
+sample_project_code		NAT Gavik KKP	GAV	NAT Gavik KKP	NAT Coordinated recipient monitoring of Gavik							translate_PROJ
+sample_project_code		NAT GOV kalibrering Argos Ancylus	GOV	NAT GOV kalibrering Argos Ancylus	NAT GOV-calibration R/V Argos- R/V Ancylus	GOV-KALIBR. AR-NC<or>PROJ_GOV_kalibrering_Argos_Ancylus						translate_PROJ
+sample_project_code		NAT Internationell bottentrålsundersökning IBTS	IBT	NAT Internationell bottentrålsundersökning IBTS	NAT International Bottom Trawl Survey (IBTS)	INT. BOTTOM TRAWL SURV.<or>PROJ_International_Bottom_Trawl_Survey_IBTS						translate_PROJ
+sample_project_code		NAT Internationell undersökning av unga fiskar IYFS	IYF	NAT Internationell undersökning av unga fiskar IYFS	NAT International Young Fish Survey	INT. YOUNG FISH SURV.<or>IYF<or>PROJ_International_Young_Fish_Survey_IYFS						translate_PROJ
+sample_project_code		NAT Nationell miljöövervakning	NAT	NAT Nationell miljöövervakning	National marine monitoring	Nationella programmet Egentliga Östersjön<or>Nationella programmet Bottniska Viken från 2015<or>Nationella programmet Egentliga Östersjön<or>Nationell provtagning<or>MÖP<or>BALTIC MON. PROG.<or>MAKROF. MJUKB. BOTTN. VIK.<or>NATL. PROG. BOTTN. VIK. 1998<or>Nationella programmet Bottniska Viken från 1998<or>PELAG. KEMI+BIOL. BOTTN. VIK.<or>PELAG. KEMI+BIOL. BOTTN. VIK.<or>PELAG. KEMI+BIOL. EG. ÖSTERSJ.<or>MAKROF. MJUKB. EG. ÖSTERSJ.<or>PELAG EG ÖSTERSJ<or>PELAG. KEMI+BIOL. EG. ÖSJ.+VÄSTERHAV.<or>PELAG. KEMI+BIOL.EG.ÖSJ.+VÄSTERHAV<or>PELAG. KEMI+BIOL.EG.ÖSJ.+VÄSTERHAV.<or>GRÅSÄL<or>VEG.KLÄDDA BOTTNAR KATTEG.<or>SVENSKA KUSTBV.<or>NATL MARBIO MILJÖÖV<or>VEG.KLÄDDA BOTTNAR SKAGER.<or>SMHI BASVERK.<or>SÄL-PATOLOGI<or>VIKARE<or>MAKROF. MJUKB. VÄSTERHAV.<or>PELAG. KEMI+BIOL. VÄSTERHAV.<or>PELAG. KEMI+BIOL. VÄSTERHAVET<or>PELAG.KEMI+BIOL. VÄSTERHAVET<or>Nationellt och regionalt program Västerhavet från 2002<or>VEG.KLÄDDA BOTTNAR ÖSTERSJ.<or>GAVIK. KUSTK.PROG.<or>RÅNEÅF. KUSTK.PROG.<or>Nationell miljöövervakning<or>Baltic Monitoring Program<or>Baltic_Monitoring_Program<or>Baltic Monitoring Program, 1989<or>Nationella programmet Bottniska Viken från 2015<or>Nationella programmet Egentliga Östersjön, Utsjön 2007-<or> Nationell miljöövervakning -Kust och hav -Vegetationsklädda bottnar, trend- och områdesövervakning - Västerhavet-Kattegatt<or> Nationell miljöövervakning -Kust och hav -Vegetationsklädda bottnar - Västerhavet-Kattegatt<or> Nationell trendövervakning av vegetationsklädda bottnar i Blekinge<or> Nationell övervakning vid Askö<or>Nationell övervakning vid Gotland<or>NAT Nationell miljöövervakning, NAT Nationell miljöövervakning<or>NAT Nationell miljöövervakning, Utsjön 2007-<or>Nationell miljöövervakning -Kust och hav -Vegetationsklädda bottnar - Västerhavet-Kattegatt<or>Nationell miljöövervakning -Kust och hav -Vegetationsklädda bottnar, trend- och områdesövervakning - Västerhavet-Kattegatt<or>Nationell trendövervakning av vegetationsklädda bottnar i Blekinge<or>Nationell övervakning vid Askö<or>Nationell övervakning vid Gotland<or>Nationella programmet Bottniska Viken från 2015<or>Vikare<or>NAT Askö<or>Nationellt program Egentliga Östersjön, Utsjöområden, 2016-<or>Manetövervakning_Släggö_Gullmarsfjorden<or>NAT Manetövervakning<or>KNUBBSÄL<or>NAT Nationell miljöövervakning Knubbsäl<or> kNUBBSÄL<or>Askö, Nationell-Regional övervakning, 2007-<or>Nationella programmet Egentliga Östersjön, regional<or>Pelagial biologi Bottniska viken<or>NATL<or>Nationell marin miljöövervakning<or>a_Nationell miljöövervakning mjukbotten, 2016-<or>Regional och Nationell marin miljöövervakning i Västernorrlands län<or>Askö, Nationella programmet Egentliga Östersjön, intensiv Askö. 1971-2006<or>Nationella Baltic Monitoring Programme, BMP, 1979-2006<or>Nationella programmet Egentliga Östersjön, 1971/76-2006<or>Vikare <or>Gräsö-Singö, Mats Waerns lokaler<or>Nationellt program Egentliga Östersjön, Utsjöområden<or> Askö, Nationell-Regional övervakning<or> Samordnad regional och nationell miljöövervakning på västkusten<or>Nationell miljöövervakning på Västkusten<or>Nationell MÖ mjukbotten sydostsverige, 2016-<or>Pmk extra 2011<or>NAT Nationell övervakning vid Askö<or>NAT Nationell övervakning vid Gotland<or>Samordnad regional och nationell miljöövervakning på västkusten från 2017<or>Nationella programmet Bottniska Viken stationsurvalsundersökning 1995 - 1997<or>Nationella programmet Bottniska Viken, intensivprogram i Norrbyområdet fram till 1997<or>NAT Nationell miljöövervakning,						translate_PROJ
+sample_project_code		NAT Nationell marin kartering	NMK	NAT Nationell marin kartering	NAT National marine mapping							translate_PROJ
+sample_project_code		NAT Nationell miljöövervakning extra provtagning	EXT	NAT Nationell miljöövervakning extra provtagning	National monitoring extra sampling	Nationell miljöövervakning extra provtagning						translate_PROJ
+sample_project_code		NAT Oslo-Paris-kommissionen	OPC	NAT Oslo-Paris-kommissionen	NAT Oslo-Paris Commission							translate_PROJ
+sample_project_code		NAT Nationell BasVerksamhet	BAS	NAT Nationell BasVerksamhet	NAT National Base Activity							translate_PROJ
+sample_project_code		NAT SYKEs BasVerksamhet	SYK	NAT SYKEs BasVerksamhet	NAT SYKEs Base Activity							translate_PROJ
+sample_project_code		NAT Östersjöns övervakningsprogram	BMP	NAT Östersjöns övervakningsprogram	NAT Baltic Monitoring Progr	Baltic Monitoring Program BMP Bottniska viken						translate_PROJ
+sample_project_code		PROJ Alsbäck forskningsdata	ALF	PROJ Alsbäck forskningsdata	Research data from the Gullmars fjord,  Alsbäck	FORSKNING ALSBÄCK<or>PROJ_Alsbäck_forskningsdata						translate_PROJ
+sample_project_code		PROJ Automatisk Kasun Boj	AUT	PROJ Automatisk Kasun Boj	Automatic Kasun/Buoy	AUTOM. KASUN/BOJ<or>PROJ_Automatisk_Kasun_Boj						translate_PROJ
+sample_project_code		PROJ Östersjöns Öppet Hav Experiment	BEX	PROJ Östersjöns Öppet Hav Experiment	Baltic Open Sea Experiment	BALT O. SEA EXPMNT.<or>PROJ_Baltic_Open_Sea_Experiment 						translate_PROJ
+sample_project_code		PROJ Bank kartering vindkraft	BNK	PROJ Bank kartering vindkraft	Survey of offshore bank, wind turbines.	KART. VINDK.<or>PROJ_Bank_kartering_vindkraft						translate_PROJ
+sample_project_code		PROJ Basinventering	BAI	PROJ Basinventering	Base inventory	Basinventering av Fjärdlångs och Huvudskärs Natura 2000 områden<or>Basinventering av Natura 2000 områden i Västerbottens län<or>Basinventering av Sundby naturreservat<or><or>Basinventering i Stockholms län<or>Basinventering i Västernorrlands län<or>Basinventeringen i Kalmar Län<or>Basinventeringen i Östergötland <or>Marin basinventering 2007, Västernorrlands län<or>Södermanland naturvärdesinventering och basinventering<or>Marin basinventering i Skåne Län<or>Hjälmö-Lådna naturreservat, Stockholms län - basinventering<or>Hälsingeholmarna, Stockholms län: Basinventering.<or>Basinventering i Kalmar län						translate_PROJ
+sample_project_code		PROJ Bottenhavet pelagisk verifikation	PBX	PROJ Bottenhavet pelagisk verifikation	Pelagic verification Bothnian Sea	PELAG. VERIF. BOTTENH.<or>Lst X<or>PROJ_Bottenhavet_pelagisk_verifikation<or>PROJ Bottenhavet Pelagisk verifikation						translate_PROJ
+sample_project_code		PROJ Bottenviken pelagial mätkampanj	PBH	PROJ Bottenviken pelagial mätkampanj	Sampling campaign pelagic 2010  Bothnian Bay	MÄTKAMP. PELAG. 2010 BOTTENV.<or>Lst Norrland<or>PROJ_Bottenviken_pelagial_mätkampanj						translate_PROJ
+sample_project_code		PROJ Bottenviken pelagisk verifikation	PBV	PROJ Bottenviken pelagisk verifikation	Pelagic verification Bothnian Bay	PELAG. VERIF. BOTTENV.<or>Lst X<or>PROJ_Bottenviken_pelagisk_verifikation						translate_PROJ
+sample_project_code		PROJ Västernorrland mätkampanjen	PYM	PROJ Västernorrland mätkampanjen	Sampling campaign pelagic Västernorrland	Mätkampanjen i Västernorrland 2018<or>Mätkampanjen i Västernorrland 2015						translate_PROJ
+sample_project_code		PROJ Bottniska viken året	BVO	PROJ Bottniska viken året	Gulf of Bothnia year (1991)	BOTTNV. ÅRET<or>PROJ_Bottniska_viken_året						translate_PROJ
+sample_project_code		PROJ Bottniska viken överenskommelsen 	BVI	PROJ Bottniska viken överenskommelsen 	Gulf of Bothnia agreement 	BOTTNV. ÖVEREK.<or>PROJ_Bottniska_viken_överenskommelsen 						translate_PROJ
+sample_project_code		PROJ Brofjorden	BRO	PROJ Brofjorden	The Brofjorden project 	BROFJ.PROJ.<or>PROJ_Brofjorden						translate_PROJ
+sample_project_code		PROJ Byfjorden BOX	GUB	PROJ Byfjorden BOX	Byfjorden BOX-project	PROJ_Byfjorden_BOX<or>Forskningsdata BOX-projektet 2009-2012						translate_PROJ
+sample_project_code		PROJ DIAMIX	DMX	PROJ DIAMIX	DIAMIX	DIAMIX-PROJ.<or>DMX<or>PROJ_DIAMIX						translate_PROJ
+sample_project_code		PROJ DNA-streckkodning av marina växtplankton	DNA	PROJ DNA-streckkodning av marina växtplankton	DNA-metabarcoding of marine phytoplankton	DNA-streckkodning<or>PROJ_DNA						translate_PROJ
+sample_project_code		PROJ Eg östersjön pelagial mätkampanj	OPM	PROJ Eg östersjön pelagial mätkampanj	Sampling campaign pelagic 2010  Baltic Proper	MÄTKAMP. PELAG. 2010 NORRA ÖSTERSJ.<or>PROJ_Eg_östersjön_pelagial_mätkampanj						translate_PROJ
+sample_project_code		PROJ Enningsdalsälven INTERREG	ENN	PROJ Enningsdalsälven INTERREG	Interregproject Enningdalsälven	INTERREG ENNINGDALSÄLVEN<or>PROJ_Enningsdalsälven_INTERREG						translate_PROJ
+sample_project_code		PROJ Ferrybox Transpaper och Color Fantasy	TRA	PROJ Ferrybox Transpaper och Color Fantasy	Ferrybox Transpaper and Color Fantasy	VÄXTPL. FERRYB.<or>PROJ_Ferrybox_Transpaper<or>PROJ Transpaper<or>TRANSPAPER<or>Transpaper<or>PROJ_Transpaper<or>PROJ Ferrybox Transpaper<or>PROJ Ferrybox ColorFantasy						translate_PROJ
+sample_project_code		PROJ Gotland pelagial mätkampanj	GPM	PROJ Gotland pelagial mätkampanj	Sampling campaign pelagic 2010  County Administration Board of Gotland	MÄTKAMP. PELAG. 2010<or>PROJ_Gotland_pelagial_mätkampanj						translate_PROJ
+sample_project_code		PROJ Gotlands grunda vikar	GGV	PROJ Gotlands grunda vikar	Gotlands shallow bays	Lst Gotland & NV<or>PROJ_Gotlands_grunda_vikar						translate_PROJ
+sample_project_code		PROJ Grunda vikar	GVI	PROJ Grunda vikar	Shallow bays	Basinventering av skyddade grunda marina miljöer, Västerbottens län<or>Basinventering i Blekinge Län<or>Basinventering av grunda marina områden i AB län<or>Basinventering av grunda marina områden i AB län 2008<or>Basinventering_BD<or>Naturvärdesinventering_BD<or>Regional miljöövervakning D-län 2004<or>Regional miljöövervakning D-län 2006<or>Regional miljöövervakning D-län 2007<or>Regional miljöövervakning D-län 2008<or>Regional miljöövervakning D-län 2005<or>Basinventeringen i Östergötlands län 2008<or>Basinventeringen i Östergötland 2005<or>Basinventering Gotlands län<or>Mellanårsvariationer av undervattensvegetation i Blekinge<or>Inventering av vegetation i grunda vikar i Blekinge<or>Uppföljningstest i Blekinge 2007<or>Basinventering i Skåne län<or>Interreg IIIA<or>Utvecklingsprojekt RegMÖ<or>Tidsserie Forsmark och Furusund<or>Basinventering C-län<or>Naturvärden vid Gårdskärskusten och Slada<or>Gräsö marina reservat<or>Lövstabukten, Tierps kommun<or>Regional MÖ X-län (X21)<or>Basinventering X-län<or>Regional MÖ X-län<or>Undersökning av mellansårsvariation i undervattensvegetation i grunda vikar<or>Basinventeringen i Kalmar Län<or>Mellanårsvariationer i undervattensvegetation och fiskyngelförekomst i grunda havsvikar längs den svenska kusten<or>Marin basinventering Västernorrland						translate_PROJ
+sample_project_code		PROJ Gårdskärskusten	GSK	PROJ Gårdskärskusten	Inventory of epibenthic fauna in the Uppsala county coast of Gårdskär							translate_PROJ
+sample_project_code		PROJ Göteborg säkrare farled	GSF	PROJ Göteborg säkrare farled	Gothenburg Port safe fairway	GÖTEB. SÄK. FARLED.<or>PROJ_Göteborg_säkrare_farled						translate_PROJ
+sample_project_code		PROJ HABILE	HAB	PROJ HABILE	Harmful Algae Bloom Initiation in Large European Marine Ecosystems (HABILE)	HABILE<or>PROJ_HABILE						translate_PROJ
+sample_project_code		PROJ Haparanda dykinventering	HAP	PROJ Haparanda dykinventering	Dive transect inventories in Haparanda							translate_PROJ
+sample_project_code		PROJ Inventering av marin epibentisk fauna i grunda vikar i Höga kusten	IEH	PROJ Inventering av marin epibentisk fauna i grunda vikar i Höga kusten	Inventory marine epibenthic fauna in shallow bays in Höga kusten	Inventering av marin epibentisk fauna i grunda vikar i Höga kusten<or>PROJ grunda vikar Höga kusten						translate_PROJ
+sample_project_code		PROJ Inventering av makrofyter på havsbottnar i Västerbotten 	IMV	PROJ Inventering av makrofyter på havsbottnar i Västerbotten 	Inventory of bottom-living macrophytes in Västerbotten county							translate_PROJ
+sample_project_code		PROJ Inventering Gävleborg	IGA	PROJ Inventering Gävleborg	Inventory Gävleborg	Hårdbotteninventering Gävleborg 2000<or>Hårdbotteninventering Gävleborg 2005<or>Hårdbotteninventering Gävleborg 2006<or>Hårdbotteninventering Gävleborg 2007						translate_PROJ
+sample_project_code		PROJ Inventering av marin epibentisk fauna på djupa bottnar	IME	PROJ Inventering av marin epibentisk fauna på djupa bottnar	Inventory deep marine epibenthic fauna							translate_PROJ
+sample_project_code		PROJ Inventering av epibentiska fauna i Västerhavet	IEV	PROJ Inventering av epibentiska fauna i Västerhavet	Inventory of epibenthic fauna in the Kattegatt and Skagerrak seas							translate_PROJ
+sample_project_code		PROJ Inventering naturvärden Flakskär- Kållefjärden	NFK	PROJ Inventering naturvärden Flakskär- Kållefjärden	Inventory Flakskar-Kallefjarden							translate_PROJ
+sample_project_code		PROJ Inventering  naturvärden  Järkö-Ornö och Uttorp	JOU	PROJ Inventering  naturvärden  Järkö-Ornö och Uttorp	Inventory Jarko-Orno and Uttorp							translate_PROJ
+sample_project_code		PROJ Inventering ROV Koster-Väderöfjorden	IKV	PROJ Inventering ROV Koster-Väderöfjorden	Inventory Koster	Inventering med ROV av epibottenfauna i nya bottenskyddsområden i Koster-Väderöfjorden<or>Inventering med ROV av epibottenfauna för uppföljning av effekterna av trålskyddsområden i Koster-Väderöfjorden<or>RKO						translate_PROJ
+sample_project_code		PROJ JERICO	JCO	PROJ JERICO	Joint European research infrastructure network for coastal observatories (JERICO)	PROJ_JERICO						translate_PROJ
+sample_project_code		PROJ Kartering Hoburgs bank	KHB	PROJ Kartering Hoburgs bank	Mapping Hoburgs bank							translate_PROJ
+sample_project_code		PROJ Kartering rev sandbankar Skåne	KRS	PROJ Kartering rev sandbankar Skåne	Mapping_reef_sandbanks_Skåne	Kartering marin miljö Skånes Län / Kartering Rev sandbankar del1<or>Kartering_rev_sandbankar_Skåne<or>Kartering rev sandbankar Skåne<or>MMSB, Lst Skåne, kartering av bottenfauna och -flora i Skåne Län, Kartering Rev+Sandbankar						translate_PROJ
+sample_project_code		PROJ Kontrollprogram SLV musselodlingar	KSL	PROJ Kontrollprogram SLV musselodlingar	Monitoring program SLV mussel farms	SLV<or>SLV. KONT. PROG						translate_PROJ
+sample_project_code		PROJ Kyrkviken ekologisk status	KES	PROJ Kyrkviken ekologisk status	Kyrkviken ecological status	Kyrkviken ekologisk status<or>Kyrkviken ekologisk status 2021						translate_PROJ
+sample_project_code		PROJ Laholm eutrofieringsprojekt	LEP	PROJ Laholm eutrofieringsprojekt	Laholm Eutrophication Project	LAH. EUTR. STU.<or>PROJ_Laholm_eutrophication_project						translate_PROJ
+sample_project_code		PROJ Levande kust Baltic2020	BAL	PROJ Levande kust Baltic2020	Living coast Balticsea2020	Baltic Sea 2020 - Björnöfjärden, Stockholms län år 2011 - Marin vegetationsinventering<or>Baltic Sea 2020 - Björnöfjärden, Stockholms län år 2012 - Marin vegetationsinventering<or>Baltic Sea 2020 - Fjällsviksviken, Stockholms län år 2012 - Marin vegetationsinventering<or>Baltic Sea 2020 - Skarpösundet, Stockholms län år 2012 - Marin vegetationsinventering<or>BalticSea2020 - Björnöfjärden, Stockholms län år 2013 - Marin vegetationsinventering<or>BalticSea2020 - Fjällsviksviken, Stockholms län år 2013 - Marin vegetationsinventering<or>BalticSea2020 - Skarpösundet, Stockholms län år 2013 - Marin vegetationsinventering<or>Vattenprovtagning i Skarpösundet, Fjällsviksviken och Björnösundet 2013<or>Vattenprovtagning i Skarpösundet, Fjällsviksviken och Björnösundet 2012-2017<or>Vattenprovtagning i Skarpösundet, Fjällsviksviken och Björnösundet 2014<or>Biologiska undersökningar BalticSea2020						translate_PROJ
+sample_project_code		PROJ Läsö sektion	LSE	PROJ Läsö sektion	Läsö section	LÄSÖ SEKTION<or>PROJ_Läsö_sektion						translate_PROJ
+sample_project_code		PROJ Marin Modellering Skåne Blekinge	MSB	PROJ Marin Modellering Skåne Blekinge	Marine_Modeling_Skåne_Blekinge	MMSB<or>Marin_Modellering_Skåne_Blekinge<or>Marin Modellering Skåne Blekinge						translate_PROJ
+sample_project_code		PROJ Marin Modellering Stockholm Södermanland	MSS	PROJ Marin Modellering Stockholm Södermanland	Marine_Modeling_Stockholm_Södermanland	MMSS_Södermanland<or>MMSS<or>MMSS_Stockholm<or>Marin_Modellering_Stockholm_Södermanland<or>Marin Modellering Stockholm Södermanland						translate_PROJ
+sample_project_code		PROJ Marin Naturvärdes kartering	MNK	PROJ Marin Naturvärdes kartering	Marine mapping	Kartering av naturvärden i Bottniska viken<or>PROJ Marin naturvärdes kartering						translate_PROJ
+sample_project_code		PROJ MARMONI	MAR	PROJ MARMONI	MARMONI	MARMONI						translate_PROJ
+sample_project_code		PROJ Norrlands grunda vikar	NGV	PROJ Norrlands grunda vikar	Norrland shallow bays	Lst Norrbotten<or>PROJ_Norrlands_grunda_vikar						translate_PROJ
+sample_project_code		PROJ Nya varvet	NYV	PROJ Nya varvet	Bridge sampling, Nya Varvet  Göteborg	PROVT.NYVARV<or>Nya Varvet<or>PROJ_Nya_varvet						translate_PROJ
+sample_project_code		PROJ Ospecificerat	XXX	PROJ Ospecificerat	Unspecified project	xxx						translate_PROJ
+sample_project_code		PROJ Operativ miljöövervakning av övergödning vid Gävleborgskusten	XOM	PROJ Operativ miljöövervakning av övergödning vid Gävleborgskusten	Operational environmental monitoring of eutrophication on the coast of Gävleborg							translate_PROJ
+sample_project_code		PROJ Fläckighetsexperiment PEX	PEX	PROJ Fläckighetsexperiment PEX	Patchiness Experiment	PATCH. EXPMNT.<or>PROJ_Patchiness_experiment_PEX						translate_PROJ
+sample_project_code		PROJ Fläckighetsexperiment före PEX	PPX	PROJ Fläckighetsexperiment före PEX	Pre-Patchiness Experiment	PRE. PATCH. EXPMNT.<or>PROJ_Patchiness_experiment_pre_PEX						translate_PROJ
+sample_project_code		PROJ Råneå och Kalix dykinventering	RKA	PROJ Råneå och Kalix dykinventering	Dive transect inventories in Råneå and Kalix							translate_PROJ
+sample_project_code		PROJ Sambah	SAM	PROJ Sambah	Sambah							translate_PROJ
+sample_project_code		PROJ Hydrografi, närsalter och pelagial biologi  i Skagerrak	SHN	PROJ Hydrografi, närsalter och pelagial biologi  i Skagerrak	PROJ Hydrography, nutrients and pelagic biology in the Skagerrak							translate_PROJ
+sample_project_code		PROJ SEAmBOTH	SMB	PROJ SEAmBOTH	SEAmBOTH							translate_PROJ
+sample_project_code		PROJ Skagerrak närsaltstransport	SNT	PROJ Skagerrak närsaltstransport	Skagerrak nutrient transport	SKAGER. NÄRS.TRANSP.<or>PROJ_Skagerrak_närsaltstransport						translate_PROJ
+sample_project_code		PROJ SKAGEX	SKX	PROJ SKAGEX	SKAGEX	PROJ_SKAGEX						translate_PROJ
+sample_project_code		PROJ Slussen	PSL	PROJ Slussen	Slussen	SLUSSEN<or>PROJ_Slussen						translate_PROJ
+sample_project_code		PROJ Miljötillstånd	SOE	PROJ Miljötillstånd	PROJ State Of Environment							translate_PROJ
+sample_project_code		PROJ Svenska Offentliga Data	OFF	PROJ Svenska Offentliga Data	Swedish Public Data							translate_PROJ
+sample_project_code		PROJ Transp sec hansth Kristand	THK	PROJ Transp sec hansth Kristand	Transport Hanstholm-Kristsand	TRANSP. SEC. HANST-KRIST.<or>PROJ_Transp_sec_hansth_Kristand						translate_PROJ
+sample_project_code		PROJ Undersökning av epibentisk fauna i Västerhavet	UEV	PROJ Undersökning av epibentisk fauna i Västerhavet	Monitoring of epibenthic fauna in the Skagerrak and Kattegatt seas							translate_PROJ
+sample_project_code		PROJ Naturtypsbestämning enligt HUB	HUB	PROJ Naturtypsbestämning enligt HUB	Habitat determination Helcom Underwater Biotopes and habitats classification system HUB	Naturtypsbestämning kustvatten 2017						translate_PROJ
+sample_project_code		PROJ Uppföljning naturtyper	UPP	PROJ Uppföljning naturtyper	Monitoring follow up habitats							translate_PROJ
+sample_project_code		PROJ Utsjöbanksinventeringen	UTS	PROJ Utsjöbanksinventeringen	Outer sea bank mapping	U2 Dykinventering av utsjöbankar vid västkusten 2009-2010<or>U2 Dyktransektinventering på Svalan och Falkens grund i Bottenviken<or>U2 Hanöbukten Utklippan<or>U2 Svenska Björn<or>U2 UMF Dyk<or>U2 UMF Video<or>U2 Utgrundsinventeringen 2 Bottenhavet<or>U2 Video Sval Falk<or>U2 västkusten ROV<or>Utsjöbanksinventeringen<or>U2 Utgrundsinventeringen 2  Bottenhavet						translate_PROJ
+sample_project_code		PROJ Vegetationsdata från yngelprovfiske	VEG	PROJ Vegetationsdata från yngelprovfiske	Vegetation data from spawn test fishing							translate_PROJ
+sample_project_code		PROJ WATERS	WAT	PROJ WATERS	Waterbody Assessment Tools for Ecological Reference conditions and status in Sweden (WATERS)	Waters gradientstudie Östergötland kust vegetation<or>Waters<or>PROJ_WATERS<or>Mätkampanjen 2012 gradientstudier Östergötland Bottenfauna<or>Mätkampanjen 2012 gradientstudier Orust-Tjörn Bottenfauna<or>Waters gradientstudie Orust-Tjörn kust vegetation<or>Forskningsdata Waters Orust-Tjörn 2012<or>WATERS						translate_PROJ
+sample_project_code		PROJ Världshavets Cirkulationsexperiment	WOC	PROJ Världshavets Cirkulationsexperiment	World Ocean Circulation Experiment	W. OCE. CIRC. PROJ.<or>PROJ_World_Ocean_Circulation_Experiment 						translate_PROJ
+sample_project_code		PROJ Västra götaland pelagial mätkampanj	PMV	PROJ Västra götaland pelagial mätkampanj	Sampling campaign pelagic 2011 County Administration Board of Västra Götland	MÄTKAMP. PELAG. 2011<or>PROJ_Västra_götaland_pelagial_mätkampanj						translate_PROJ
+sample_project_code		PROJ Östergötland Inre Kärrö	OST	PROJ Östergötland Inre Kärrö	Benthic survey of mussel cultivation effects							translate_PROJ
+sample_project_code		PROJ Etableringsprogram Haparanda-Torneås kustvatten 2018-2019 BDK	HTX	PROJ Etableringsprogram Haparanda-Torneås kustvatten 2018-2019 BDK	Verification of recipient monitoring Haparanda-Torneå recipient monitoring Municipality of Norrbotten 2018-2019	Undersökning för programetablering i Haparanda-Torneås kustvatten 2018-2019						translate_PROJ
+sample_project_code		PROJ Fiskeregleringar i marina skyddsområden	FMS	PROJ Fiskeregleringar i marina skyddsområden	Fisheries regulations in marine protected areas	Bratten SLU						translate_PROJ
+sample_project_code		PROJ Återhämtning efter nedläggning av fiskodlingar vid Höga Kusten	FHK	PROJ Återhämtning efter nedläggning av fiskodlingar vid Höga Kusten	Recovery after closure of fish farms at Höga Kusten	Studie av återhämtning efter nedläggning av fiskodlingar vid Höga Kusten från 2020						translate_PROJ
+sample_project_code		REG Askö	RAS	REG Askö	Regional monitoring Askö	intensiv Askö<or>REG. ÖVERV. ASKÖ<or>Regional övervakning i  Asköområdet, 2007-<or>Regional övervakning i Asköområdet						translate_PROJ
+sample_project_code		REG Billerud RK	BIL	REG Billerud RK	Recipient monitoring of Billerud	BOTTENF. BILLERUD<or>REG_Billerud_RK						translate_PROJ
+sample_project_code		REG Blekinge län	KLS	REG Blekinge län	Regional monitoring, The County Administration Board of Blekinge							translate_PROJ
+sample_project_code		REG Blekinge SRK	BLK	REG Blekinge SRK	Coordinated recipient monitoring of Blekingekusten	REG. TRENDÖV. MJUKB. BLEKINGE<or>BLEK. KUSTK.PROG.<or>REG_Blekinge_SRK<or>RMÖ_Trendövervakning_Torhamn<or>Blekingekustens Vattenvårdsförbund<or>Blekingekustens Vattenvårdsförbund - test av enhuggsmetod 1997<or>BKVF<or>SRK Blekinge 2017-2022<or>SRK Blekinge 1989-2010						translate_PROJ
+sample_project_code		REG Bohuskustens extra vårprovtagning	BEV	REG Bohuskustens extra vårprovtagning	Coordinated recipient monitoring of Bohuskusten,  extra spring sampling	Lst V G”taland<or>REG_Bohuskustens_extra_vårprovtagning						translate_PROJ
+sample_project_code		REG Bohuskustens grunda vikar	BGV	REG Bohuskustens grunda vikar	Bohuskusten shallow bays	BOHUSK. G. VIK.<or>REG_Bohuskustens_grunda_vikar						translate_PROJ
+sample_project_code		REG Bohuskustens KKP SRK	BOS	REG Bohuskustens KKP SRK	Coordinated recipient monitoring of Bohuskusten	BOHUSK.KONT.PROG.<or>BOHUSK. KONT. PROG.<or>BVVF<or>BOHUSK.KONT.PROG<or>REG_Bohuskustens_KKP_SRK<or>REG_OLST						translate_PROJ
+sample_project_code		REG Bohuskustens KKP SRK fjordmodell 96	BOX	REG Bohuskustens KKP SRK fjordmodell 96	Coordinated recipient monitoring of Bohuskustens, extra fjord model -96	BOSAM EXT. FJORDM.<or>REG_Bohuskustens_KKP_SRK_fjordmodell_96 						translate_PROJ
+sample_project_code		REG Bohuskustens KKP SRK götaälv extremflöde	BOG	REG Bohuskustens KKP SRK götaälv extremflöde	Coordinated recipient monitoring of Bohuskusten, extreme flows in the Göta älv.	GÖTAÄLV EXTR.FLÖDE<or>REG_Bohuskustens_KKP_SRK_götaälv_extremflöde						translate_PROJ
+sample_project_code		REG Boliden RK	BOL	REG Boliden RK	Recipient monitoring of Boliden	Recipientkontroll Boliden<or>Recipientkontroll Boliden från 2015						translate_PROJ
+sample_project_code		REG Bottniska viken	BOV	REG Bottniska viken	Bothnian bay	REG. BOTT.FAUNA BOTTN. VIK 1998<or>REG_Bottniska_viken<or>Regional Bottenfauna, Bottniska Viken från 1998<or>Regionala programmet Bottniska Viken från 2015						translate_PROJ
+sample_project_code		REG Bureå RK	ACB	REG Bureå RK	Recipient monitoring of Bureå waste water plant	KONT. PROG. BUREÅ<or>REG_Bureå_RK						translate_PROJ
+sample_project_code		REG Byske RK	ACY	REG Byske RK	Recipient monitoring of Byske waste water plant	KONT. PROG. BYSKE<or>REG_Byske_RK						translate_PROJ
+sample_project_code		REG Dalälven SRK	DVF	REG Dalälven SRK	Coordinated recipient monitoring of Dalälven	SRK DALÄLV.VVF<or>DVVF<or>REG_Dalälven_SRK						translate_PROJ
+sample_project_code		REG Domsjö RK	YDR	REG Domsjö RK	Recipient monitoring of Domsjö Factory AB	DOMSJÖ<or>RECIP.KONT. DOMSJÖ<or>REG_Domsjö_RK<or>Domsjö recipientkontr.						translate_PROJ
+sample_project_code		REG Edsvikens miljökontrollprogram	EDV	REG Edsvikens miljökontrollprogram	The Edsviken monitoring program	EDSVIKEN MILJO KP<or>Edsviken marininventering 2014<or>REG_Edsvikens miljökontrollprogram<or>EDSVIKEN_MILJO_KP<or>Edsvikens miljökontrollprogram<or>Miljökontrollprogram för Edsviken						translate_PROJ
+sample_project_code		REG Elleholm RK	ELL	REG Elleholm RK	Recipient monitoring of Elleholm	Elleholm_RK<or>Recipientkontroll Elleholm						translate_PROJ
+sample_project_code		REG Figeholm RK	FIG	REG Figeholm RK	Recipient monitoring of Figeholm	Figeholm_RK						translate_PROJ
+sample_project_code		REG Fiskodling Kalmar RK	FIK	REG Fiskodling Kalmar RK	Recipient monitoring of fishfarms in Kalmar	Fiskodlingar_Kalmar_RK<or>Recipientkontroll kring fiskodlingar, Kalmar						translate_PROJ
+sample_project_code		REG Fiskodling Nätrafjärden RK	YNR	REG Fiskodling Nätrafjärden RK	Recipient monitoring of Nätrafjärden fishfarm	RECIP. KONT. NÄTRAFJÄRDEN<or>RECIP.KONT. NÄTRAFJÄRDEN<or>RECIP. KONT. OMNEFJÄRDEN<or>RECIP. KONT. ULLÅNGERSFJÄRDEN<or>YNR<or>YOF<or>YUF<or>REG_Fiskodling_Omne_Ullånger_Nätrafjärden_RK						translate_PROJ
+sample_project_code		REG Fiskodling Omne RK	YOF	REG Fiskodling Omne RK	Recipient monitoring of Omne fishfarm	RECIP. KONT. NÄTRAFJÄRDEN<or>RECIP.KONT. NÄTRAFJÄRDEN<or>RECIP. KONT. OMNEFJÄRDEN<or>RECIP. KONT. ULLÅNGERSFJÄRDEN<or>YNR<or>YOF<or>YUF<or>REG_Fiskodling_Omne_Ullånger_Nätrafjärden_RK						translate_PROJ
+sample_project_code		REG Fiskodling Omne Ullånger Nätrafjärden RK	OUN	REG Fiskodling Omne Ullånger Nätrafjärden RK	Recipient monitoring of Omne, Ullånger- and Nätrafjärden fishfarms							translate_PROJ
+sample_project_code		REG Fiskodling Ullånger RK	YUF	REG Fiskodling Ullånger RK	Recipient monitoring of Ullånger fishfarm	RECIP. KONT. NÄTRAFJÄRDEN<or>RECIP.KONT. NÄTRAFJÄRDEN<or>RECIP. KONT. OMNEFJÄRDEN<or>RECIP. KONT. ULLÅNGERSFJÄRDEN<or>YNR<or>YOF<or>YUF<or>REG_Fiskodling_Omne_Ullånger_Nätrafjärden_RK						translate_PROJ
+sample_project_code		REG Forsmark RK 	FOR	REG Forsmark RK 	Recipient monitoring of Forsmark nuclear power plant							translate_PROJ
+sample_project_code		REG Fållnäsviken RK	ABF	REG Fållnäsviken RK	Recipient monitoring, Fållnäsviken							translate_PROJ
+sample_project_code		REG Gotland	ILS	REG Gotland	Regional monitoring Gotland	REG. ÖVERV. GOTLAND<or>REG_Gotland<or>Regionalt kluster Gotland, 2007-<or>Regional övervakning Gotland-<or>Regional övervakning Gotland: Slite, Fårösund och Klintehamn, 2016-<or>Regional övervakning Gotland						translate_PROJ
+sample_project_code		REG Granfjärden	ABG	REG Granfjärden	Monitoring program for Granfjärden 							translate_PROJ
+sample_project_code		REG Gullmarns KP	GKP	REG Gullmarns KP	The Gullmarsfjord monitoring program	GULLM. KONT.PROG.<or>REG_Gullmarns_KP						translate_PROJ
+sample_project_code		REG Gästriklands kustvatten SRK	GBU	REG Gästriklands kustvatten SRK	Coordinated recipient monitoring of Gästrikland	BOTTENF. GÄVLEBORG<or>SRK GÄSTR. VVF<or>GÄVLEB. KUSTK.PROG.<or>RECIP.KONT GÄVLE FJÄRDAR<or>RECIP.KONT NORRSUNDS BRUK<or>RECIP.KONT YTTRE FJ.<or>REG_Gästriklands_kustvatten_SRK						translate_PROJ
+sample_project_code		REG Gästriklands kustvatten SRK pelagisk verifikation	GAK	REG Gästriklands kustvatten SRK pelagisk verifikation	Coordinated recipient monitoring of Gästrikland, pelagic verification	PELAG. VERIF. XLST<or>REG_Gästriklands_kustvatten_SRK_pelagisk_verifikation						translate_PROJ
+sample_project_code		REG Gävleborgs län	XLS	REG Gävleborgs län	Regional monitoring, The County Administration Board of Gävleborg	Miljöövervakning X-län 2014<or>Vegetationsklädda bottnar i Gävleborgs läns kustvatten - Trendövervakning 2016						translate_PROJ
+sample_project_code		REG Hallands KVK	HAL	REG Hallands KVK	Coordinated recipient monitoring of Halland	HAL, MAKROF. MJUKB. VÄSTERHAV.<or>HAL. KUSTK. PROG.<or>HAL BOTTENF.<or>SÖDRA MELLERSTA HALLANDS KUSTVATTEN<or>NORRA MELLERSTA HALLANDS KUSTVATTEN<or>KLOSTERFJORDEN<or>Hallands_KVK<or>KYRKEFJÄLLS SUND<or>RISÖ-SÄRÖARKIPELAGEN<or>VARREN<or>ÖCKERÖSUND<or>REG_Hallands_KVK<or>Hallands kuskontrollprogram<or>REG Hallands KVK, REG Hallands KVK<or>Hallands kustkontrollprogram<or>Övervakning av vegetationsklädda hårdbottnar längs hallandskusten, Hallands kustvattenkontroll 2010-2012<or>Övervakning av vegetationsklädda hårdbottnar längs hallandskusten, Hallands kustvattenkontroll 2010-2013<or>Halmstad tipplats						translate_PROJ
+sample_project_code		REG Halland Lilla Middelgrund	MID	REG Halland Lilla Middelgrund	Coordinated recipient monitoring of Halland Lilla Middelgrund	Lilla Middelgrund 2013						translate_PROJ
+sample_project_code		REG Hallands län	NLS	REG Hallands län	Regional monitoring, The County Administration Board of Halland	Inventering i Halland 2008<or>Halland kustinventering 2007<or>Undersökning av marin bottenfauna i 11 st vattenförekomster längs Hallandskusten 2012<or>Undersökning av marin bottenfauna i naturreservatet Kungsbackafjorden<or>Inventering Halland augusti 2006<or>LAHOLMSBUKTEN<or>Undersökning av marin bottenfauna i naturreservatet Kungsbackafjorden 2012<or>Fladen 2013<or>Nidingen 2013<or>VENDELSÖARKIPELAGEN<or>REG Halland Vändelsöarna<or>REG Halland Vendelsöarna<or>Norra Halland Utsjö<or>Inventering Halland augusti 2006<or>Lerkil<or>Ringhals kärnkraftverk						translate_PROJ
+sample_project_code		REG Hallsta RK	HAR	REG Hallsta RK	Recipient monitoring of Hallsta	Recipientunderökning Hallsta Pappersbruk 2011<or>Recipientkontroll Hallsta Pappersbruk<or>Analystjänster Hallsta Pappersbruk 2021						translate_PROJ
+sample_project_code		REG Helsingborg KKP	HEL	REG Helsingborg KKP	Coordinated recipient monitoring of Helsingborg	Helsingborgs kustkontrollprogram - bottenfauna						translate_PROJ
+sample_project_code		REG Hammarviken RK	ABU	REG Hammarviken RK	Recipient monitoring, Hammarviken							translate_PROJ
+sample_project_code		REG Holmen	ABH	REG Holmen	Recipient monitoring of Holmen							translate_PROJ
+sample_project_code		REG Himmerfjärden	HIM	REG Himmerfjärden	Recipient monitoring of Himmerfjärden							translate_PROJ
+sample_project_code		REG Holmöreservatet	HOL	REG Holmöreservatet	Monitoring program for the Holmö Sanctuary	AC-Län<or>kontrollprogram Holmöreservatet<or>ACLAN KONTPROG HOLMÖ<or>REG_Holmö_reservatet<or>REG Holmö reservatet<or>Linjetaxering av akvatisk makrovegetation vid Holmöarnas naturreservat 2010<or>Holmöarna<or>Trendövervakning vid Holmöarna i Västerbottens län<or>Trendövervakning av fastsittande vegetation vid Holmöarna 2012<or>Trendövervakning Holmöarna 2008<or>Linjetaxering av akvatisk makrovegetation vid Holmöarnas naturreservat 2009<or>REG Holmöreservatet, 2004, 2007.<or>Trendövervakning vid Holmöarna i Västerbottens län, 2004, 2007.<or>Holmöarna, Västerbottens län, 2011 - Marin vegetationsinventering<or>Holmöarna, Västerbottens län, 2013 - Marin vegetationsinventering						translate_PROJ
+sample_project_code		REG Husum RK	YHR	REG Husum RK	Recipient monitoring of Husum	HUSUM<or>RECIP. KONT. HUSUM<or>REG_Humus_RK						translate_PROJ
+sample_project_code		REG Höganäs kommun RK	HKRK	REG Höganäs kommun RK	Recipient monitoring Höganäs municipality 							translate_PROJ
+sample_project_code		REG Hörnefors RK	ACH	REG Hörnefors RK	Recipient monitoring of Hörnefors waste water plant	KONT. PROG. HÖRNEFORS<or>REG_Hörnefors_RK						translate_PROJ
+sample_project_code		REG Västra Hanöbukten RK	VHRK	REG Västra Hanöbukten RK	Recipient monitoring of Västra Hanöbukten	Bottenfaunaundersökningar i Västra Hanöbukten 2017-2022<or>SRK Västra Hanöbukten 2017-2022						translate_PROJ
+sample_project_code		REG Iggesund RK	IGG	REG Iggesund RK	Recipient monitoring of Iggesunds factory	RECIP.KONT IGGESUND<or>REG_Iggesund_RK						translate_PROJ
+sample_project_code		REG Kalmar KVK	KAL	REG Kalmar KVK	Coordinated recipient monitoring of Kalmar	REG. TRENDÖV. MJUKB. KALMAR<or>KALMAR KUSTK. PROG.<or>REG_Kalmar_KVK<or>Samordnad kustvattenkontroll i Kalmar län<or>Samordnad kustvattenkontroll i Kalmar län, utökad provtagning 2010<or>Kalmar_läns_kustvatten_SRK<or>Recipientkontroll i Kalmar län<or>a_Samordnad kustvattenkontroll i Kalmar län, mjukbottenkluster 2016-<or>SRK Kalmar län, mjukbottenkluster 2016-						translate_PROJ
+sample_project_code		REG Kalmar län	HLS	REG Kalmar län	Regional monitoring, The County Administration Board of Kalmar	a_Regional miljöövervakning mjukbotten Kalmar län, 2016- <or> Regional MÖ Kalmar län, 2016-						translate_PROJ
+sample_project_code		REG Kiviks Musteri RK	KMRK	REG Kiviks Musteri RK	Recipient monitoring Kiviks Musteri							translate_PROJ
+sample_project_code		REG Kungsbackafjorden	KFJ	REG Kungsbackafjorden	Monitoring program for Kungsbackafjorden 	Bottenfaunaundersökningar i Kungsbackafjorden<or>KUNGSBACKAFJ<or>UPPFÖLJ. KUNGSB. FJORD.<or>Bottenfaunaundersökningar i Kungsbackafjorden						translate_PROJ
+sample_project_code		REG Kåge RK	ACK	REG Kåge RK	Recipient monitoring of Kåge waste water plant	KONT. PROG. KÅGE<or>REG_Kåge_RK						translate_PROJ
+sample_project_code		REG Laholmsbukten	LAH	REG Laholmsbukten	Monitoring program for Laholmsbukten							translate_PROJ
+sample_project_code		REG Länsstyrelsernas särskilda åtgärdsprojekt	SAP	REG Länsstyrelsernas särskilda åtgärdsprojekt	The County boards special action project							translate_PROJ
+sample_project_code		REG Marum och Ösbyfjärden	ABM	REG Marum och Ösbyfjärden	Recipient monitoring of Marum and Ösbyfjärden							translate_PROJ
+sample_project_code		REG Motala ströms SRK	MSV	REG Motala ströms SRK	Coordinated recipient monitoring of Motala ström	RECIP. KONT. MOTALA<or>MOTALA STR. VATTENVF.<or>REG_Motala_ströms_SRK<or>MSVVF						translate_PROJ
+sample_project_code		REG Mätkampanj	MAT	REG Mätkampanj	Measurement campaign	Mätkampanj 2009, Gävleborgs län, Gävlebukten<or>Mätkampanj 2009, Uppsala län, Östhammar<or>Mätkampanj Askeröfjorden till Marstrandsskärgården<or>Mätkampanj Gullmarsfjorden<or>Mätkampanj Karlskrona 2009<or>Mätkampanj makroalger i Skåne 2009<or>Mätkampanj makrofyter 2009 i Hallands län<or>Mätkampanj vegetationsklädda bottnar i Östergötland 2009<or>Mätkampanjen 2012 gradientstudier Orust-Tjörn Bottenfauna<or>Västra_götaland_pelagial_mätkampanj<or>Mätkampanjen 2012 gradientstudier Östergötland Bottenfauna<or>NV mätkampanj i pelagialen						translate_PROJ
+sample_project_code		REG Nedre ångermanälven SRK	YNA	REG Nedre ångermanälven SRK	Coordinated recipient monitoring of Nedre Ångermanälven	NEDR. ÅNGERMAN. SRK<or>ÅNGERMANÄLVEN 2007<or>REG_Nedre_ångermanälven_SRK						translate_PROJ
+sample_project_code		REG Nacka Lokal miljöövervakning	ABK	REG Nacka Lokal miljöövervakning	Regional monitoring Nacka							translate_PROJ
+sample_project_code		REG Nordmalingsfjärden SRK	ACN	REG Nordmalingsfjärden SRK	Coordinated recipient monitoring of Nordmalingsfjärden	SRK NORDMALING<or>REG_Nordmalingsfjärden_SRK						translate_PROJ
+sample_project_code		REG Nordvästskånes kustvattenkommitté SRK	SKL	REG Nordvästskånes kustvattenkommitté SRK	Coordinated recipient monitoring of Nordvästra skåne	SKÄL.-LAH. KUSTK.PROG.<or>REG_Nordvästskånes_kustvattenkommitté_SRK<or>Nordvästskånes kustvattenkommitté (NVSKK) 2000 och framåt<or>Nordvästskånes kustvattenkommitté (NVSKK) t o m 1999						translate_PROJ
+sample_project_code		REG Nordöstra Hälsinglands kustvatten SRK	NHV	REG Nordöstra Hälsinglands kustvatten SRK	Coordinated recipient monitoring of NE Hälsingland	SRK NÖ. HÄLS. VVF<or>RECIP.KONT HUDIK. GÅRDSFJ.<or>NHV<or>REG_Nordöstra_Hälsinglands_kustvatten_SRK<or>X-län - NO Hälsingland 2012 - Recipientkontroll kustvatten makrofyter						translate_PROJ
+sample_project_code		REG Norrbottens län	BDK	REG Norrbottens län	Coordinated recipient monitoring of Norrbotten	SAM. SRK BD<or>Kompletterande program Norrbotten från 2010<or>REG_Norrbottens_län<or>BD-län 2016<or>PROJ Vegetationsinventering Sandskär och Seskar-Furö, Haparanda<or>PROJ Dykinventering i Råneå och Haparanda						translate_PROJ
+sample_project_code		REG Norrbottenkusten Kalix SRK	NKS	REG Norrbottenkusten Kalix SRK	Coordinated recipient monitoring of Norrbotten (Kalix)	Samordnat recipientkontrollprogram för Norrbottenskusten - Kalix<or>REG Norrbottenskusten Kalix						translate_PROJ
+sample_project_code		REG Norrbottenkusten Luleå SRK	NKL	REG Norrbottenkusten Luleå SRK	Coordinated recipient monitoring of Norrbotten (Luleå)	MÖ Makrovegetation Råneå skärgård<or>MÖ Makrovegetation Råneå skärgård 2007<or>Recipientkontroll SSAB<or>REG Norrbottenskusten Luleå						translate_PROJ
+sample_project_code		REG Norrbottenkusten Piteå SRK	NKP	REG Norrbottenkusten Piteå SRK	Coordinated recipient monitoring of Norrbotten (Piteå)	BOTTENF. PITEÅ<or>Samordnat recipientkontrollprogram för Norrbottenskusten - Piteå<or>REG Norrbottenskusten Piteå						translate_PROJ
+sample_project_code		REG Norrsundetsbruk RK	NOB	REG Norrsundetsbruk RK	Recipient monitoring of Norrsundetsbruk	Linjetaxering av akvatisk makrovegetation i recipienten till Norrsundets Bruk						translate_PROJ
+sample_project_code		REG Norrtäljes kommun RK	ABN	REG Norrtäljes kommun RK	Recipient monitoring of the Municipality of Norrtälje	Årlig recipientkontroll i Norrtälje kommun 2014<or>Årlig recipientkontroll i Norrtälje kommun 2013<or>Norrtäljeviken som recipient åt Lindhomlens ARV?<or>Recipientkontroll Norrtälje kommun						translate_PROJ
+sample_project_code		REG Norviksfjärden RK	ABA	REG Norviksfjärden RK	Recipient monitoring, Norviksfjärden							translate_PROJ
+sample_project_code		REG Nyköpings fjärdar RK	DNF	REG Nyköpings fjärdar RK	Recipient monitoring in the bays of Nyköping							translate_PROJ
+sample_project_code		REG Ospecificerat	RXX	REG Ospecificerat	Unspecified regional monitoring 	RMÖ_Kartering_referensområden						translate_PROJ
+sample_project_code		REG Ospecificerad RK	XRK	REG Ospecificerad RK	Unspecified recipient monitoring 	Lerkil utsläppspunkt reningsverk<or>Inventering, uppföljning reningsverk						translate_PROJ
+sample_project_code		REG Oxelösund SRK	DOX	REG Oxelösund SRK	Coordinated recipient monitoring of Oxelösund							translate_PROJ
+sample_project_code		REG Råneåfjärden KK BDlän	RNE	REG Råneåfjärden KK BDlän	Regional monitoring Råneåfjärden KK BDlän							translate_PROJ
+sample_project_code		REG Skatan RK	YSR	REG Skatan RK	Recipient monitoring of Skatan	REG_Skatan_RK						translate_PROJ
+sample_project_code		REG Skellefteälven SRK	ACS	REG Skellefteälven SRK	Coordinated recipient monitoring of Skellefteälven	SRK SKELLEFT. ÄLV<or>URS<or>REG_Skellefteälven_SRK<or>Statusbedömning av Skelleftehamnsfjärden 2007						translate_PROJ
+sample_project_code		REG Skåne län	MLS	REG Skåne län	Regional monitoring, The County Administration Board of Skåne	Nord Helsingborg 2022						translate_PROJ
+sample_project_code		REG Stockholm vatten SRK	STV	REG Stockholm vatten SRK	Recipient monitoring of Stockholm	Stockholm Vatten<or>REG. ÖVERV. STOCKHOLM<or>REG_Stockholm_vatten_SRK						translate_PROJ
+sample_project_code		REG Stockholms län	ALS	REG Stockholms län	Regional monitoring, The County Administration Board of Stockholm	Regional övervakning Stockholms län, 2007-<or>Regional övervakning Stockholm län, 2016-<or>Regional övervakning Stockholms län 2016-<or> Regional övervakning Stockholms län						translate_PROJ
+sample_project_code		REG Sundsvallsbuktens SRK	YSB	REG Sundsvallsbuktens SRK	Coordinated recipient monitoring of Sundsvallsbukten	SRK SUNDSVALLSB. VVF<or>REG_Sundsvallsbuktens_SRK						translate_PROJ
+sample_project_code		REG Svealands KKP synoptiska karteringar	SVF	REG Svealands KKP synoptiska karteringar	Coordinated recipient monitoring of Svealand	SKVVF.SYNOPT<or>REG_Svealands_KKP_synoptiska_karteringar						translate_PROJ
+sample_project_code		REG Sydkustens SRK	SYD	REG Sydkustens SRK	Coordinated recipient monitoring of Sydkusten	SYDK. KUSTK.PROG.<or>REG_Sydkustens_SRK<or>Kontrollprogram Sydkusten						translate_PROJ
+sample_project_code		REG Södermanlands län	DLS	REG Södermanlands län	Regional monitoring, The County Administration Board of Södermanland	Regional övervakning Södermanland 2016-<or>Regional övervakning Södermanland						translate_PROJ
+sample_project_code		REG Södra Hälsinglands kustvatten SRK	LVX	REG Södra Hälsinglands kustvatten SRK	Coordinated recipient monitoring of S Hälsingland	LJUSNAN-VOXNAN<or>SRK LJUSN.-VOX. VVF.<or>RECIP.KONT LJUSNEFJÄRDEN<or>RECIP.KONT SÖDERHFJ.<or>REG_Södra_Hälsinglands_kustvatten_SRK<or>X-län - Södra Hälsingland 2012- Recipientkontroll Kustvatten Makrofyter. <or>X-län - Södra Hälsingland - Recipientkontroll Kustvatten Makrofyter.<or>Ljusnan Voxnan						translate_PROJ
+sample_project_code		REG Sölvesborgs hamn deponering RK	SOH	REG Sölvesborgs hamn deponering RK	Recipient monitoring of Sölvesborgs port	Sölvesborg_ytterhamn_deponeringsplats_SWSöderholmen_RK<or>Sölvesborgs ytterhamn och deponeringsplatsen SW Söderholmen, recipientkontroll.						translate_PROJ
+sample_project_code		REG Torne- och Kalix älvars vattenvårdsförbund SRK	TKV	REG Torne- och Kalix älvars vattenvårdsförbund SRK	Coordinated recipient monitoring of Torne- and Kalixälven	REG_Torne_Kalixälvens_SRK						translate_PROJ
+sample_project_code		REG Täby kommun RK	ABT	REG Täby kommun RK	Recipient monitoring of the Municipality of Täby	Sjöundersökningar i Täby kommun  2013<or>Sjöundersökningar i Täby kommun  2014<or>Vattenundersökningar i Täby						translate_PROJ
+sample_project_code		REG Täfteå RK	ACT	REG Täfteå RK	Recipient monitoring of Täfteå waste water plant  	KONT. PROG. TÄFTEÅ<or>REG_Täfteå_RK						translate_PROJ
+sample_project_code		REG Ume och Vindelälvens SRK	ACU	REG Ume och Vindelälvens SRK	Coordinated recipient monitoring of Ume- and Vindelälven	UME. VINDELÄLVEN<or>SRK.UME.VIND<or>REG_Ume_och_Vindelälvens_SRK<or>REG Ume och vindelälvens SRK						translate_PROJ
+sample_project_code		REG Vindkraft Lillgrund RK	VLI	REG Vindkraft Lillgrund RK	Recipient monitoring of windpower Lillgrund	Kontrollprogram vindkraft Lillgrund						translate_PROJ
+sample_project_code		REG Väröbruk RK	VAB	REG Väröbruk RK	Recipient monitoring of Väröbruk	REG_Väröbruk_RK						translate_PROJ
+sample_project_code		REG Västernorrlands län	YRM	REG Västernorrlands län	Regional monitoring, County Administration Board of Västernorrland	UTÖK. ÖVERV. SUNDSVALL-HÄRNÖSAND<or>REG. ÖVERV. VÄSTERNORRLAND<or>REG_Västernorrlands_län<or>Y-län - Marin dykinventering 2016, Byviken, Härnösand<or>Y-län - Marin dykinventering 2016, Lerviken, Härnösand						translate_PROJ
+sample_project_code		REG Västra Götalands län	VGL	REG Västra Götalands län	Regional monitoring, County Administration Board of Västra Götaland							translate_PROJ
+sample_project_code		REG Västra Hanöbukten SRK	HNO	REG Västra Hanöbukten SRK	Coordinated recipient monitoring of Västra Hanöbukten	HANÖ. KUSTVATTENMILJÖ 2011<or>HANÖB.<or>HANÖB. 2011<or>REG. ÖV. HANÖBUKTEN<or>Regional övervakning i Hanöbukten<or>REG_Västra_Hanöbukten_SRK<or>Västra_Hanöbukten_SRKbottnar.<or>Västra_Hanöbuktens_vattenvårdsförbund_SRK<or>Hanöbukten_SRK<or>Regional övervakning i Hanöbukten från 2011<or>Vattenvårdsförbundet för västra Hanöbukten, recipientkontroll<or>Västra_Hanöbukten_SRK<or>Regional övervakning i Hanöbukten från 2016<or>Hanöbukten_2012, 2014 och 2016 - Regional miljöövervakning av vegetationsklädda bottnar.<or>Hanö 2011 - Regional miljöövervakning av vegetationsklädda bottnar.<or>Hanöbukten 2012 - Regional miljöövervakning av vegetationsklädda bottnar.<or>Hanöbukten 2013 - Regional miljöövervakning av vegetationsklädda<or>Recipientkontroll i Hanöbukten<or>Hanöbukten 2013 - Regional miljöövervakning av vegetationsklädda bottnar.<or>a_Recipientkontroll i Hanöbukten<or>VHVVF<or>Regional MÖ Västra Hanöbukten<or>SRK Västra Hanöbukten 1989-2010						translate_PROJ
+sample_project_code		REG Öresunds vattenvårdsförbund SRK	ORE	REG Öresunds vattenvårdsförbund SRK	Coordinated recipient monitoring of Öresund	ÖRES. KUSTK.PROG.<or>REG_Öresunds_vattenvårdsförbund_SRK<or>Sydlänens Kustundersökningar<or>Sydlänens_Kustundersökningar<or>Kontrollprogram Öresund<or>Kontrollprogram Öresundsbron<or>Öresunds vattenvårdsförbund 2003 och framåt<or> Öresunds Vattenvårdsförbund 2016 och framåt<or>Öresunds vattenvårdsförbund 2003-2015<or>Öresunds Vattenvårdsförbund 2021 och framåt<or>Öresunda Vattenvårdsförbund						translate_PROJ
+sample_project_code		REG Örnsköldsvik SRK	YOS	REG Örnsköldsvik SRK	Coordinated recipient monitoring of Örnsköldsvik							translate_PROJ
+sample_project_code		REG Östergötlands län	ELS	REG Östergötlands län	Regional monitoring, County Administration Board of Österötland	Marin miljöövervakning av vegetationsklädda bottnar i Östergötlands skärgård<or>REG_Östergötlands_län<or>Östergötland 2012 - Marin miljöövervakning av vegetationsklädda bottnar.<or>E-län 2011 - Regional miljöövervakning av vegetationsklädda bottnar.<or>Östergötland 2010 - Marin miljöövervakning av vegetationsklädda bottnar<or>Östergötland 2009 - Marin miljöövervakning av vegetationsklädda bottnar.<or>Östergötland 2010 - Marin miljöövervakning av vegetationsklädda bottnar.<or>Regional övervakning Östergötlands län, 2007-<or>Regional övervakning Östergötlands län<or>Östergötland, regional undersökning						translate_PROJ
+sample_project_code		REG Österåkers kommun	ABO	REG Österåkers kommun	Regional monitoring of the Municipality of Österåker							translate_PROJ
+sample_project_code		PROJ Västernorrland Bottenfaunainventering ECONNET	ECONNET	PROJ Västernorrland Bottenfaunainventering ECONNET	Zoobenthos monitoring ECONNET, County Administration Board of Västernorrland	Bottenfaunainventering Västernorrland 2019_Econnect						translate_PROJ
+sample_project_code		REG Östhammars kommun RK	OFJ	REG Östhammars kommun RK	Recipient monitoring of Östhammar Municipality	ÖSTHFJ. KUSTK. PROG.<or>REG_Östhammars_kommun_RK						translate_PROJ
+sample_project_code		PROJ Ospecificerat	POSP	PROJ Ospecificerat	Unspecified project	OSPEC. PROJ.<or>XXX<or>PROJ_Ospecificerade<or>PROJ Ospecificerade						translate_PROJ
+sample_project_code		POSP	POSP			RMÖ_Inventering_Tromtö						translate_PROJ
+sample_project_code		POSP	POSP			Axmar, Gävleborgs län - vegetationsinventering 2008						translate_PROJ
+sample_project_code		POSP	POSP			Biologisk inventering i Malmfjärden, Kalmar 2011						translate_PROJ
+sample_project_code		POSP	POSP			Biologisk inventering vid Tromtö, Karlskrona kommun						translate_PROJ
+sample_project_code		POSP	POSP			Blekinge 2012 - marina inventeringar						translate_PROJ
+sample_project_code		POSP	POSP			Bottenfaunaprovtagning vid Figeholm 2009. Rapport 2010:5						translate_PROJ
+sample_project_code		POSP	POSP			Bottenfaunaprovtagning vid Verkö, Blekinge. Rapport 2010:9						translate_PROJ
+sample_project_code		POSP	POSP			Bottenfaunaundersökning Kårehamn Rapport 2001:6						translate_PROJ
+sample_project_code		POSP	POSP			Bottenfaunaundersökning söder om Öland Rapport 2001:7						translate_PROJ
+sample_project_code		POSP	POSP			Bottenfaunaundersökning Utgrunden Rapport 2001:5						translate_PROJ
+sample_project_code		POSP	POSP			Botteninventering i Köpingsvik						translate_PROJ
+sample_project_code		POSP	POSP			Botteninventering_Köpingsvik						translate_PROJ
+sample_project_code		POSP	POSP			Deponeringsplats_Tvegölja						translate_PROJ
+sample_project_code		POSP	POSP			D-län - Marinbiologisk vegetationsinventering						translate_PROJ
+sample_project_code		POSP	POSP			Eskön, Gävleborgs län - marin vegetationsinventering 2009						translate_PROJ
+sample_project_code		POSP	POSP			Falsterbohalvöns marina reservat						translate_PROJ
+sample_project_code		POSP	POSP			Farledsmuddring_Västervik						translate_PROJ
+sample_project_code		POSP	POSP			Fastsittande alger och högre växter i Sundsvallsbukten						translate_PROJ
+sample_project_code		POSP	POSP			Fältverifiering av potentiella sandbankar och rev Orust-Tjörn 2012						translate_PROJ
+sample_project_code		POSP	POSP			Fältverifiering av potentiella sandbankar och rev Östergötland 2012						translate_PROJ
+sample_project_code		POSP	POSP			Förundersökning_vindkraftspark						translate_PROJ
+sample_project_code		POSP	POSP			Gålö naturreservat, Stockholms län: Marinbiologisk undersökning och naturvärdesbedömning.						translate_PROJ
+sample_project_code		POSP	POSP			Hallands Väderö marina reservat						translate_PROJ
+sample_project_code		POSP	POSP			Halsefjorden 2009						translate_PROJ
+sample_project_code		POSP	POSP			Haninge 2010 - Marinbiologisk vegetationsinventering och naturvärdesbedömning						translate_PROJ
+sample_project_code		POSP	POSP			Haninge Kommun, Sthlms län - Maringbiologisk vegetationsinventering och naturvärdesbedömning						translate_PROJ
+sample_project_code		POSP	POSP			Hanö 2013 och 2015 - Regional miljöövervakning av vegetationsklädda bottnar.						translate_PROJ
+sample_project_code		POSP	POSP			Hanöbukten - div små dykundersökningar						translate_PROJ
+sample_project_code		POSP	POSP			Hanöbukten, Lunds universitet						translate_PROJ
+sample_project_code		POSP	POSP			Idefjorden						translate_PROJ
+sample_project_code		POSP	POSP			Inledande undersökning vid Nenningesund 2006						translate_PROJ
+sample_project_code		POSP	POSP			Inventering av bottenfauna i Torrö naturreservat, Östergötlands skärgård						translate_PROJ
+sample_project_code		POSP	POSP			Inventering av marina och limniska naturvärden i Östergötland 2012						translate_PROJ
+sample_project_code		POSP	POSP			Inventering av Nordre älv						translate_PROJ
+sample_project_code		POSP	POSP			Inventering av Stigfjorden 2009						translate_PROJ
+sample_project_code		POSP	POSP			Inventering av vegetationsklädda bottnar i det marina naturreservatet Salvorev-Kopparstenarna						translate_PROJ
+sample_project_code		POSP	POSP			Inventering av vegetationsklädda bottnar i Gräsö östra skärgård						translate_PROJ
+sample_project_code		POSP	POSP			Inventering med dropvideo i Västernorrland 2009 - AQBI						translate_PROJ
+sample_project_code		POSP	POSP			Inventering med dropvideo i Östergötland 2009 - AQBI						translate_PROJ
+sample_project_code		POSP	POSP			Inventering med ROV av epibottenfauna för uppföljning av effekterna av det reglerade räktrålfisketi Gullmarn						translate_PROJ
+sample_project_code		POSP	POSP			Inventering vid Vinga Fotö						translate_PROJ
+sample_project_code		POSP	POSP			Inventering Vrångö skärgården 2009						translate_PROJ
+sample_project_code		POSP	POSP			Inventering_Malmfjärden						translate_PROJ
+sample_project_code		POSP	POSP			Inventering_Sturkö_innerskärgård						translate_PROJ
+sample_project_code		POSP	POSP			Inventering_Verkö						translate_PROJ
+sample_project_code		POSP	POSP			Inventering_Virån						translate_PROJ
+sample_project_code		POSP	POSP			Järflotta naturreservat, Stockholms län - inventering av grunda vegetationsklädda områden						translate_PROJ
+sample_project_code		POSP	POSP			Kartering av sex föreslagna referensområden för den regionala miljöövervakningen, Åtgärdsgrupp syd. Kalmar.						translate_PROJ
+sample_project_code		POSP	POSP			Kartering marin miljö Skånes Län / Kartering Rev sandbankar / Kartering Reservat N Bjäre						translate_PROJ
+sample_project_code		POSP	POSP			Kontrollprogram för dagvattenanläggning vid Sjöängen Stora Värtan 2014-2015						translate_PROJ
+sample_project_code		POSP	POSP			Kartering Rev+Sandbankar, MARMONI, kartering flora fauna i Skåne och Blekinge Län						translate_PROJ
+sample_project_code		POSP	POSP			Komplettering till Södermanland naturvärdesinventering och basinventering						translate_PROJ
+sample_project_code		POSP	POSP			LAHOLMSBUKTENS KUSTVATTEN						translate_PROJ
+sample_project_code		POSP	POSP			Yngelprovfiske i Bottniska viken						translate_PROJ
+sample_project_code		POSP	POSP			Lilla Nassa-Gillöga, Stockholms län: Marinbiologisk undersökning						translate_PROJ
+sample_project_code		POSP	POSP			Linjetaxering av akvatisk makrovegetation i yttre Gävlefjärden						translate_PROJ
+sample_project_code		POSP	POSP			Linjetaxering av akvatisk makrovegetation vid Avanäset 2009						translate_PROJ
+sample_project_code		POSP	POSP			Linjetaxering av akvatisk makrovegetation vid Bjuröklubb 2009						translate_PROJ
+sample_project_code		POSP	POSP			Makrofauna öster om Singö (utpekat BSPA-område i Stockholms län)						translate_PROJ
+sample_project_code		POSP	POSP			Mar Res Klasen/Fjaugen 2010						translate_PROJ
+sample_project_code		POSP	POSP			Marin dykinventering 2009, Västernorrlands län						translate_PROJ
+sample_project_code		POSP	POSP			Marin flora på hårdbotten - en inventering i Göteborg 2010						translate_PROJ
+sample_project_code		POSP	POSP			Marin inventering vid Svärdsön i Nacka kommun 2011						translate_PROJ
+sample_project_code		POSP	POSP			Marin inventering vid Virån, Kalmar län. Rapport 2010:6						translate_PROJ
+sample_project_code		POSP	POSP			Marin kartering av Natura 2000 habitaten rev och sandbankar i Västerbottens län - Snöanskärgården och Holmöarna 2012						translate_PROJ
+sample_project_code		POSP	POSP			Marina dykinventeringar av makrofyter 2009, Västernorrlands län.						translate_PROJ
+sample_project_code		POSP	POSP			Marinbiologisk undersökning av djupa bottnar i naturreservaten Nämdö och Lilla Husarn						translate_PROJ
+sample_project_code		POSP	POSP			Marinbiologisk undersökning och naturvärdesbedömning av Nåttarös grundområden						translate_PROJ
+sample_project_code		POSP	POSP			Marinbiologisk undersökning och naturvärdesbedömning av Stora Nassas djupbottnar						translate_PROJ
+sample_project_code		POSP	POSP			Marstrandsskärgården						translate_PROJ
+sample_project_code		POSP	POSP			Mjältön Makrofytinventering 2015						translate_PROJ
+sample_project_code		POSP	POSP			Måseskär						translate_PROJ
+sample_project_code		POSP	POSP			Nacka kommun 2011, Sthlms län - marin vegetationsinventering kring Svärdsö						translate_PROJ
+sample_project_code		POSP	POSP			Nacka kommun, Stockholms län: Marinbiologisk undersökning och naturvärdesbedömning.						translate_PROJ
+sample_project_code		POSP	POSP			Naturvärdesinventering BD-län						translate_PROJ
+sample_project_code		POSP	POSP			Naturvärdesinventering vid Juviken och Lillhavet i Västerbottens län						translate_PROJ
+sample_project_code		POSP	POSP			Naturvärdesinventering vid Kinnbäcksfjärden i Västerbottens län						translate_PROJ
+sample_project_code		POSP	POSP			Naturvärdesinventering vid Ostnäs i Västerbottens län						translate_PROJ
+sample_project_code		POSP	POSP			Naturvärdesinventering vid Tavasten i Västerbottens län						translate_PROJ
+sample_project_code		POSP	POSP			Naturvärdesinventering vid Örefjärden i Västerbottens län						translate_PROJ
+sample_project_code		POSP	POSP			Nogersund muddertipplats rapport 2006:8						translate_PROJ
+sample_project_code		POSP	POSP			Nogersund_muddertipplats						translate_PROJ
+sample_project_code		POSP	POSP			Nåttarö, Stockholms län: Marinbiologisk undersökning och naturvärdesbedömning						translate_PROJ
+sample_project_code		POSP	POSP			Nämdö - L. Husarn naturreservat, Stockholms län - inventering av grunda vegetationsklädda områden						translate_PROJ
+sample_project_code		POSP	POSP			OKG - vegetationskontroll vid tillfälligt kylvattenutsläpp						translate_PROJ
+sample_project_code		POSP	POSP			Orarna, Gävleborgs län - marin vegetationsinventering 2009						translate_PROJ
+sample_project_code		POSP	POSP			Plankton i Svensksundsviken 2010/2011						translate_PROJ
+sample_project_code		POSP	POSP			Platsundersökning inför eventuellt slutförvar av kärnbränsle i Oskarshamn, Simpevarp						translate_PROJ
+sample_project_code		POSP	POSP			Platsundersökning vid Kärnkraftverket i Simpevarp 2003						translate_PROJ
+sample_project_code		POSP	POSP			PMK Blekingekusten 1990 och 1991						translate_PROJ
+sample_project_code		POSP	POSP			Regional inventering vid Svenska Högarna						translate_PROJ
+sample_project_code		POSP	POSP			Sandemar, Stockholms län - basinventering av sandbank						translate_PROJ
+sample_project_code		POSP	POSP			Sanering Oskarshamns hamn <or>Sanering_Oskarshamns_hamn						translate_PROJ
+sample_project_code		POSP	POSP			Singö, Stockholms län: Marinbiologisk undersökning						translate_PROJ
+sample_project_code		POSP	POSP			Siviksfjärden och Norbergsfjärden - marin vegetationsinventering 2009						translate_PROJ
+sample_project_code		POSP	POSP			Skärgården öster om Lindön, Gävleborgs län - marin vegetationsinventering 2009						translate_PROJ
+sample_project_code		POSP	POSP			Slutförvar_Kärnbränsle						translate_PROJ
+sample_project_code		POSP	POSP			Soteskär						translate_PROJ
+sample_project_code		POSP	POSP			Stilleryds_hamn_Kofsa_Nabb						translate_PROJ
+sample_project_code		POSP	POSP			Stockholms skärgård - Marinbiologisk vegetationsinventering samt naturvärdesbedömning						translate_PROJ
+sample_project_code		POSP	POSP			Stora Nassa, Värmdö kommun, Sthlms län: Marinbiologisk undersökning och naturvärdesbedömning						translate_PROJ
+sample_project_code		POSP	POSP			Sturkö innerskärgård marininventering, HIK Rapport 95:3.						translate_PROJ
+sample_project_code		POSP	POSP			Taggen_vindpark						translate_PROJ
+sample_project_code		POSP	POSP			Test_enhuggsmetod_1997						translate_PROJ
+sample_project_code		POSP	POSP			Transektinventering i påverkanområde. Gävle Fjärdar 2008						translate_PROJ
+sample_project_code		POSP	POSP			Trendövervakning mjukbotten Kalmar län						translate_PROJ
+sample_project_code		POSP	POSP			Trendövervakning vegetationsklädda bottnar Gävleborg<or>Trendövervakning vegetationsklädda bottnar Gävleborg 2012						translate_PROJ
+sample_project_code		POSP	POSP			Trendövervakning vid Kronören i Västerbottens län						translate_PROJ
+sample_project_code		POSP	POSP			Trödje-Hilleviksfjärden, Gävleborgs län - översiktlig inventering 2008						translate_PROJ
+sample_project_code		POSP	POSP			Tullviksbäcken, Stockholms län - basinventering						translate_PROJ
+sample_project_code		POSP	POSP			Undersökning av bottenförhållanden vid planerad deponeringsplats för muddermassor, Tvegölja SO Karlskrona, HIK Rapport 95:4.						translate_PROJ
+sample_project_code		POSP	POSP			Undersökning inför muddring Stilleryds hamn och deponeringsplatsen söder om Kofsa Nabb						translate_PROJ
+sample_project_code		POSP	POSP			Vattenfall förundersökning planerad vindkraftspark						translate_PROJ
+sample_project_code		POSP	POSP			Vegetationsinventering Sävarfjärden ULTRA 2009, Västerbottens län.						translate_PROJ
+sample_project_code		POSP	POSP			Vindbruk Taggen, Rapport 2006:9						translate_PROJ
+sample_project_code		POSP	POSP			Vindkraft_Kårehamn						translate_PROJ
+sample_project_code		POSP	POSP			Vindkraft_Södra_Öland						translate_PROJ
+sample_project_code		POSP	POSP			Vindkraftetablering_Utgrunden						translate_PROJ
+sample_project_code		POSP	POSP			Västernorrland marininventering 2008<or>Västernorrland marininventering 2008/Pelagia						translate_PROJ
+sample_project_code		POSP	POSP			Västervik, farledsmuddring. Rapport 2008:5.						translate_PROJ
+sample_project_code		POSP	POSP			Y-län - Marin dykinventering 2013, Höga kusten, Västernorrlands län						translate_PROJ
+sample_project_code		POSP	POSP			Återinventering av skyddade skärgårdslokaler i Södermanlands läns regionala miljöövervakningsprogram						translate_PROJ
+sample_project_code		POSP	POSP			Östergötland 2009 - inventering av vegetation och ankringsskador i naturhamnar.						translate_PROJ
+sample_project_code		POSP	POSP			Projekt 101466 Bratten (ravin och pockmarks)						translate_PROJ
+sample_project_code		POSP	POSP			PROJ Marin Modellering Skåne Blekinge, Lst Skåne, kartering av bottenfauna och -flora i Skåne Län, Kartering Rev+Sandbankar						translate_PROJ
+sample_project_code		POSP	POSP			Forskningsdata Havstenfjord till Askeröfjord 2011						translate_PROJ
+sample_project_code		PROJ Inventering av marina makroalger och marin fauna i Bohuslän 2000: Pater Noster	PANO	PROJ Inventering av marina makroalger och marin fauna i Bohuslän 2000: Pater Noster	Inventory of marine macroalgae and fauna in Bohuslän 2000: Pater Noster	Inventering av marina makroalger och marin fauna i Bohuslän 2000: Pater Noster						translate_PROJ
+sample_project_code		PROJ Inventering av marina makroalger och marin fauna i Bohuslän 2000: Tistlarna	TIST	PROJ Inventering av marina makroalger och marin fauna i Bohuslän 2000: Tistlarna	Inventory of marine macroalgae and fauna in Bohuslän 2000: Tistlarna	Inventering av marina makroalger och marin fauna i Bohuslän 2000: Tistlarna						translate_PROJ
+sampler_type_code		AQU	AQU	Vattenkikare	Aquascope	AQSC						translate_SMTYP
+sampler_type_code		AD	AD	Anchor dredge	Anchor dredge							translate_SMTYP
+sampler_type_code		AGT	AGT	Agassiz-trål	Agassiz trawl							translate_SMTYP
+sampler_type_code		ASK	ASK	Askö gravitationshuggare	Askö gravity corer							translate_SMTYP
+sampler_type_code		ASV	ASV	Flygövervakning	Aerial surveillance							translate_SMTYP
+sampler_type_code		BC	BC	Box-corer	Box-corer							translate_SMTYP
+sampler_type_code		BGN	BGN	Bongonät	Bongo net							translate_SMTYP
+sampler_type_code		BO	BO	Boillot dredge	Boillot dredge							translate_SMTYP
+sampler_type_code		BOT	BOT	Bottentrål	Bottom trawl							translate_SMTYP
+sampler_type_code		BR	BR	Bogorov-Rass-nät	Bogorov-Rass net							translate_SMTYP
+sampler_type_code		CH	CH	Charcot dredge	Charcot dredge							translate_SMTYP
+sampler_type_code		CPOD	CPOD	C-POD	C-POD							translate_SMTYP
+sampler_type_code		CM	CM	Kameramonterad corer	Camera mounted corer							translate_SMTYP
+sampler_type_code		DA	DA	Day grab	Day grab							translate_SMTYP
+sampler_type_code		DC	DC	Dykardriven corer	Diver-operated corer							translate_SMTYP
+sampler_type_code		DD	DD	Borranordning	Drilling device							translate_SMTYP
+sampler_type_code		DIV	DIV	Dykare-samlad	Diver collected							translate_SMTYP
+sampler_type_code		DROP	DROP	Fallfälla	Drop trap							translate_SMTYP
+sampler_type_code		DTR	DTR	Dyktransekt	Diving transects							translate_SMTYP
+sampler_type_code		EK	EK	Ekmanhuggare	Ekman grab							translate_SMTYP
+sampler_type_code		EN	EN	Endoume-muddra	Endoume dredge							translate_SMTYP
+sampler_type_code		FBW	FBW	Ferry box vattenprovtagare	Ferry box water sampler							translate_SMTYP
+sampler_type_code		FRAMENET	FRAMENET	Ram med nätuppsamlare för epibentiska prover	Frame with net collector for epibenthic samples	RamSkrap<or>RSKRAP<or>RAMSKRAP						translate_SMTYP
+sampler_type_code		GC	GC	Gravitationshuggare	Gravity corer							translate_SMTYP
+sampler_type_code		GE	GE	Gemini-huggare	Gemini corer							translate_SMTYP
+sampler_type_code		GFL	GFL	Go-Flo havsvattenprovtagare	Go-Flo seawater sampler							translate_SMTYP
+sampler_type_code		GIL	GIL	Gill nät	Gill net							translate_SMTYP
+sampler_type_code		GOV	GOV	GOV-trål	GOV trawl							translate_SMTYP
+sampler_type_code		GRT	GRT	Granton-trål	Granton trawl							translate_SMTYP
+sampler_type_code		GS	GS	Bottenhuggare	Grab sampler							translate_SMTYP
+sampler_type_code		Gulf3	Gulf3	Viken III	Gulf III							translate_SMTYP
+sampler_type_code		Gulf7	Gulf7	Viken VII	Gulf VII							translate_SMTYP
+sampler_type_code		GX	GX	Gemax corer (for recent gyttja-clays)	Gemax corer (for recent gyttja-clays)							translate_SMTYP
+sampler_type_code		HAN	HAN	Samlas in för hand	Collected by hand							translate_SMTYP
+sampler_type_code		HM	HM	Hamon grab	Hamon grab							translate_SMTYP
+sampler_type_code		HOS	HOS	Slang	Hose	HOSE<or>Hos<or>Hose						translate_SMTYP
+sampler_type_code		HP	HP	Haps corer	Haps corer	HAPS						translate_SMTYP
+sampler_type_code		HYB-TPN	HYB-TPN	Hydro-Bios transparent plast-Nansen-provtagare	Hydro-Bios transparent plastic Nansen sampler							translate_SMTYP
+sampler_type_code		HYD-MPD	HYD-MPD	Hydro-Bios Multi Plankton provtagare - Midi	Hydro-Bios Multi Plankton sampler - Midi							translate_SMTYP
+sampler_type_code		HYD-MPN	HYD-MPN	Hydro-Bios Multi Plankton provtagare - Mini	Hydro-Bios Multi Plankton sampler - Mini							translate_SMTYP
+sampler_type_code		HYD-MPX	HYD-MPX	Hydro-Bios Multi Plankton provtagare - Maxi	Hydro-Bios Multi Plankton sampler - Maxi							translate_SMTYP
+sampler_type_code		IFCB	IFCB	Imaging Flow Cytobot 	Imaging Flow Cytobot 							translate_SMTYP
+sampler_type_code		IW	IW	Iskilskärna	Ice wedge corer							translate_SMTYP
+sampler_type_code		JUDAY	JUDAY	Juday nät	Juday net							translate_SMTYP
+sampler_type_code		KA	KA	Kajak corer	Kajak corer							translate_SMTYP
+sampler_type_code		LM	LM	Limnos sediment corer	Limnos sediment corer							translate_SMTYP
+sampler_type_code		LS	LS	Lister dredge	Lister dredge							translate_SMTYP
+sampler_type_code		LW	LW	Limnos vattenprovtagare	Limnos water sampler							translate_SMTYP
+sampler_type_code		MKS	MKS	Modifierad Knudsen sampler	Modified Knudsen sampler							translate_SMTYP
+sampler_type_code		MOCNESS	MOCNESS	Flera öppnings-/stängningsnät och miljöprovtagningssystem	Multiple Opening/ Closing Net and Environmental Sampling System							translate_SMTYP
+sampler_type_code		MU	MU	Multi corer	Multi corer							translate_SMTYP
+sampler_type_code		MESHB	MESHB	Nätkasse	Mesh bag	Mesh bag						translate_SMTYP
+sampler_type_code		NAN	NAN	Nansen-flaska	Nansen sampler							translate_SMTYP
+sampler_type_code		NC	NC	Niemistö corer	Niemistö corer							translate_SMTYP
+sampler_type_code		ND	ND	Nodules dredge	Nodules dredge							translate_SMTYP
+sampler_type_code		NET	NET	Nät	Net							translate_SMTYP
+sampler_type_code		NSK	NSK	Niskinflaska	Niskin bottle							translate_SMTYP
+sampler_type_code		NT	NT	Naturalists dredge	Naturalists dredge							translate_SMTYP
+sampler_type_code		NZ	NZ	NIOZ core	NIOZ core							translate_SMTYP
+sampler_type_code		OBS-DM	OBS-DM	Observationsdiameter	Observation diametre							translate_SMTYP
+sampler_type_code		OC	OC	Annan core-utrustning (begärandekod från ICES)	Other core device (request code from ICES)							translate_SMTYP
+sampler_type_code		OCU	OCU	Okulär inspektion ovanifrån havsytan	Ocular inspection from above the sea surface							translate_SMTYP
+sampler_type_code		OD	OD	Annan muddringsutrustning (begärandekod från Ices)	Other dredge device (request code from ICES)							translate_SMTYP
+sampler_type_code		OL	OL	Jonasson-Olausen Boxcorer	Jonasson-Olausen Boxcorer							translate_SMTYP
+sampler_type_code		OR	OR	Oscor corer (corer för sandiga sediment)	Oscor corer (corer for sandy sediments)							translate_SMTYP
+sampler_type_code		OS	OS	Annan hugg-provtagningsutrustning (begärandekod från ICES)	Other grab sampling device (request code from ICES)							translate_SMTYP
+sampler_type_code		OXS	OXS	Syresensor	Oxygen sensor							translate_SMTYP
+sampler_type_code		PAR	PAR	Partrål	Pair trawl							translate_SMTYP
+sampler_type_code		PEL	PEL	Pelagisk trål	Pelagic trawl							translate_SMTYP
+sampler_type_code		PHOTO	PHOTO	Fotobaserad bestämning	Photo-based determination	Foto						translate_SMTYP
+sampler_type_code		PMP	PMP	Pump	Pump							translate_SMTYP
+sampler_type_code		PRS	PRS	Ringnot	Purse seines							translate_SMTYP
+sampler_type_code		PS	PS	Ponar core provtagare	Ponar core sampler							translate_SMTYP
+sampler_type_code		PT	PT	Petersen-huggare	Petersen grab							translate_SMTYP
+sampler_type_code		QSM	QSM	Kvantitativ provtagning	Quantitative sampling							translate_SMTYP
+sampler_type_code		RA	RA	Rallier dredge	Rallier dredge							translate_SMTYP
+sampler_type_code		RAK	RAK	Kratta	Rake							translate_SMTYP
+sampler_type_code		RB	RB	Rambergprovtagare	Ramberg sampler	Ramberg Sampler-aclst<or>Rambergrör<or>Ramberg Sampler						translate_SMTYP
+sampler_type_code		RD	RD	Rock dredge	Rock dredge							translate_SMTYP
+sampler_type_code		RN	RN	Rieneck box corer	Rieneck box corer							translate_SMTYP
+sampler_type_code		ROS	ROS	Rosettprovtagare	Rosette sampler							translate_SMTYP
+sampler_type_code		RU	RU	Ruttner provtagare	Ruttner sampler							translate_SMTYP
+sampler_type_code		RUTA	RUTA	Ruta	Square	Ruta						translate_SMTYP
+sampler_type_code		SC	SC	Scripps box corer	Scripps box corer							translate_SMTYP
+sampler_type_code		CTD	CTD	CTD sond	CTD sonde							translate_SMTYP
+sampler_type_code		SCT	SCT	Skrapverktyg	Scraping tool							translate_SMTYP
+sampler_type_code		SHUGG	SHUGG	Specialhuggare med en provtagningsarea på 450 cm2, utformad av fiskeriverket för stationerna 60A2 och 60A3	Special grab with a samling area of 450 cm2	HUGGARE						translate_SMTYP
+sampler_type_code		SL	SL	Selena corer (for recent gyttja-clays)	Selena corer (for recent gyttja-clays)							translate_SMTYP
+sampler_type_code		SM	SM	Smith McIntyre-huggare	Smith McIntyre Grab							translate_SMTYP
+sampler_type_code		SQR	SQR	Areadefinierad kvadrat för epibentisk övervakning	Area defined square for epibenthic monitoring							translate_SMTYP
+sampler_type_code		SRN	SRN	Not och ringnät	Seines and ring net							translate_SMTYP
+sampler_type_code		SNO	SNO	Snorkling	Snorkling							translate_SMTYP
+sampler_type_code		STR	STR	Snorklingstransekt	Snorkling transect							translate_SMTYP
+sampler_type_code		SUSE_TS	SUSE_TS	Rörprovtagare för djurplankton, används av SUSE	Tube sampler for zooplankton used by SUSE							translate_SMTYP
+sampler_type_code		UD	UD	Okänd muddring	Unknown dredge							translate_SMTYP
+sampler_type_code		US	US	Usnel corer	Usnel corer							translate_SMTYP
+sampler_type_code		VC	VC	Vibro-corer	Vibro-corer							translate_SMTYP
+sampler_type_code		WD	WD	Warren-muddring	Warren dredge							translate_SMTYP
+sampler_type_code		VID	VID	Videobaserad bestämning av täckning	Video-based determination of coverage							translate_SMTYP
+sampler_type_code		VIDEO-NET	VIDEO-NET	En kombinerad nät- och videoram som används för visuella observationer	A combined net and video-frame used for visual observations							translate_SMTYP
+sampler_type_code		WAT	WAT	Okänd vattenprovtagare	Unknown water sampler							translate_SMTYP
+sampler_type_code		WP-2	WP-2	WP-2 håv	WP-2 net	WP2						translate_SMTYP
+sampler_type_code		WP-3	WP-3	WP-3 håv	WP-3 net							translate_SMTYP
+sampler_type_code		VS	VS	Valter core provtagare	Valter core sampler							translate_SMTYP
+sampler_type_code		VV	VV	Van Veen-huggare	Van Veen grab							translate_SMTYP
+sampler_type_code		HC	HC	Hand corer	Hand corer							translate_SMTYP

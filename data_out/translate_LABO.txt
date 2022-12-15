@@ -1,0 +1,225 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+laboratory		AB Svensk Laboratoriet	SLKS	AB Svensk Laboratoriet	AB Svensk Laboratoriet			translate_LABO
+laboratory		ABB	ABB	ABB	ABB			translate_LABO
+laboratory		Airicole AB	AIRI	Airicole AB	Airicole AB			translate_LABO
+laboratory		Akvaplan-NIVA A/S	APNN	Akvaplan-NIVA A/S	Akvaplan NIVA group			translate_LABO
+laboratory		Norsk institutt for vannforskning	NIVA	Norsk institutt for vannforskning	Norwegian Institute for Water Research			translate_LABO
+laboratory		Alcontrol AB	ALCON	Alcontrol AB	Alcontrol laboratories	ALcontrol Söderhamn<or>ALcontrol Uddevalla<or>Alcontrol AB Umeå Sweden<or>Alcontrol<or>Alcontrol AB Linköping Sweden Alcontrol AB Sweden<or>ALCON<or>ALcontrol AB<or>ALUS<or>ALSH<or>ALLS<or>		translate_LABO
+laboratory		Alleco Oy	ALLECO	Alleco Oy	ALLECO Oy (Finland)			translate_LABO
+laboratory		ALS Scandinavia	ALSSCA	ALS Scandinavia	ALS Scandinavia			translate_LABO
+laboratory		Analycen AB	ANALYC	Analycen AB	Analycen AB	Analycen Göteborg<or>Analycen Lidköping		translate_LABO
+laboratory		ANSAB	ANBF	ANSAB	ANSAB			translate_LABO
+laboratory		Aquaanalys	AQUAAN	Aquaanalys	Aquaanalys			translate_LABO
+laboratory		AquaBiota	AQBI	AquaBiota	AquaBiota Water Research			translate_LABO
+laboratory		Aquatic Systems Group	ASUK	Aquatic Systems Group	Aquatic Systems Group			translate_LABO
+laboratory		Artdatabanken	ADB	Artdatabanken	Swedish Species Information Centre			translate_LABO
+laboratory		BalticSea2020	BALSEA2020	BalticSea2020	BalticSea2020	Baltic Sea 2020 Kungliga vetenskapsakademien		translate_LABO
+laboratory		Barsebäck Kraft AB	BARSE	Barsebäck Kraft AB	Barsebäck Kraft AB			translate_LABO
+laboratory		BillerudKorsnäs Karlsborg	BILKBG	BillerudKorsnäs Karlsborg	BillerudKorsnas Karlsborg	Billerud Kosrsnäs Karlsborg AB<or>Billerud Korsnäs Karlsborg AB<or>BillerudKorsnäs Karlsborgsverken<or>Billerud Karlsborg AB<or>BillerudKorsnäs AB		translate_LABO
+laboratory		Blekingekustens vattenvårdsförbund	BKVF	Blekingekustens vattenvårdsförbund	Blekingekusten Coalition of Water Conservation	Blekingekustens VVF<or>Blekingekustens Vattenvårdsförbund<or>Blekingekustens vvf<or>Blekinge kustvatten- och luftvårdsförbund<or>Blekinge Kustvatten och Luftvårdsförbund		translate_LABO
+laboratory		Bohuskustens vattenvårdsförbund	BVVF	Bohuskustens vattenvårdsförbund	Bohuskusten Coalition of Water Conservation	Bohuskustens Vattenvårdsförbund<or>Bohuskustens vattenvårds förbund<or>Västkusten vattenvårds förbund<or>Bohusläns vattenvårdsförbund<or>BOS<or>REG Bohuskustens KKP SRK		translate_LABO
+laboratory		BONUS EU-projekt	BON	BONUS EU-projekt	BONUS EU-project			translate_LABO
+laboratory		Boliden Group	BOLIDEN	Boliden Group	Boliden Group	Boliden<or>Boliden Mineral		translate_LABO
+laboratory		Borgholms kommun	BHMKOM	Borgholms kommun	Borgholm Municipality			translate_LABO
+laboratory		Calluna AB	CALLUN	Calluna AB	Calluna AB	CALLUNA AB<or>Calluna		translate_LABO
+laboratory		Castor & Pollux	CASPOL	Castor & Pollux	Castor & Pollux			translate_LABO
+laboratory		Dalälvens vattenvårdsförbund	DVVF	Dalälvens vattenvårdsförbund	Dalälven Coalition of Water Conservation			translate_LABO
+laboratory		Danish Centre for Environment and Energy	DMU	Danish Centre for Environment and Energy	Danish Centre for Environment and Energy	Danmarks Miljøundersøgelser		translate_LABO
+laboratory		Danska Hydrauliska Institutet	DHI	Danska Hydrauliska Institutet	Danish hydraulic institute	VKID<or>DHI Water and Environment		translate_LABO
+laboratory		Domsjö fabriker AB	DOMFAB	Domsjö fabriker AB	Domsjö fabriker AB	Domsjö fabriker		translate_LABO
+laboratory		Edsviken vattensamverkan	EDSVVS	Edsviken vattensamverkan	Edsviken watercollaboration	EDVIK		translate_LABO
+laboratory		Ekologigruppen AB	EKOGRP	Ekologigruppen AB	Ekologigruppen AB			translate_LABO
+laboratory		Europeiska havs- och fiskerifonden	EHFF	Europeiska havs- och fiskerifonden	European Maritime and Fisheries Fund			translate_LABO
+laboratory		Miljöbyrå	AWUK	Miljöbyrå	Environment Agency			translate_LABO
+laboratory		Miljöbyrå Syd	SWUK	Miljöbyrå Syd	Environment Agency Southern			translate_LABO
+laboratory		Envix Nord AB	ENVIX	Envix Nord AB	Envix Nord AB			translate_LABO
+laboratory		Estlands Marina Institut	IMRE	Estlands Marina Institut	Estonian Marine Institute			translate_LABO
+laboratory		EU-kommissionen Horizon 2020	EUKOM	EU-kommissionen Horizon 2020	European Commission Horizon 2020			translate_LABO
+laboratory		Eurofins Ahma Rovaniemi	EFAR	Eurofins Ahma Rovaniemi	Eurofins Ahma Rovaniemi			translate_LABO
+laboratory		Eurofins Danmark A/S	EFDK	Eurofins Danmark A/S	Eurofins Denmark A/S	Eurofins Danmark A/S Albertslund		translate_LABO
+laboratory		Eurofins Environment Sweden AB	EFSW	Eurofins Environment Sweden AB	Eurofins Environment Sweden AB	Eurofins Lidköping<or>Eurofins Stockholm<or>EULD<or>EUSHOLM<or>Eurofins		translate_LABO
+laboratory		Eurofins-Pelagia	EUPE	Eurofins-Pelagia	Eurofins-Pelagia			translate_LABO
+laboratory		Europeiska kommisionen LIFE programmet	LIFE	Europeiska kommisionen LIFE programmet	European comission LIFE programme	EU-kommissionen		translate_LABO
+laboratory		Falma Provtagning	FALMA	Falma Provtagning	Falma Sampling			translate_LABO
+laboratory		Finlands miljöcentral	SYKE	Finlands miljöcentral	Finnish Environment Institute	Finska Miljöinstitutet<or>FEIF		translate_LABO
+laboratory		Fiskeriverket	FIV	Fiskeriverket	Swedish National Board of Fisheries	National Board of Fisheries<or>HRFS Swedish National Board of Fisheries<or>IMRS<or>Fiskeriverket Sverige		translate_LABO
+laboratory		Fiskeriverket Havsfiskelaboratoriet	FIVHL	Fiskeriverket Havsfiskelaboratoriet	Swedish National Board of Fisheries			translate_LABO
+laboratory		Fiskeriverket Kustfiskelaboratoriet	FIVKL	Fiskeriverket Kustfiskelaboratoriet	Swedish National Board of Fisheries			translate_LABO
+laboratory		FITO-Lab	SFIP	FITO-Lab	FITO-Lab	FOLB<or>FITO		translate_LABO
+laboratory		FORMAS	FORMAS	FORMAS	FORMAS			translate_LABO
+laboratory		Forsmarks kraftgrupp AB	FORS	Forsmarks kraftgrupp AB	Forsmarks kraftgrupp AB			translate_LABO
+laboratory		Föreningen Nenningesund	NENNINGE	Föreningen Nenningesund	Nenningesund association			translate_LABO
+laboratory		Gästrike Vatten AB	GASTVAAB	Gästrike Vatten AB	Gästrike Vatten AB			translate_LABO
+laboratory		Gästriklands vattenvårdsförbund	GVVF	Gästriklands vattenvårdsförbund	Gästrikland Coalition of Water Conservation	Gästriklands vattenvårdsförening		translate_LABO
+laboratory		Göteborgs Stad	GBGKOM	Göteborgs Stad	Gothenburg Municipality	Göteborg kommun<or>Göteborgs kommun		translate_LABO
+laboratory		Göteborgs universitet	GU	Göteborgs universitet	University of Gothenburg	IAMK<or>Göteborg Universitet<or>Göteborg University Maringeologiska institutet<or>GUMI		translate_LABO
+laboratory		Hafok AB	HAFOK	Hafok AB	Hafok AB	hafok<or>Hafok		translate_LABO
+laboratory		Haninge kommun	HANKOM	Haninge kommun	Haninge Municipality			translate_LABO
+laboratory		Havs- och vattenmyndigheten	HAV	Havs- och vattenmyndigheten	Swedish Agency for Marine and Water Management	Havs och vattenmyndigheten<or>Havs och Vattenmyndigheten<or>Havs- och Vattenmyndigheten<or>havs och Vattenmyndigheten<or>HaV<or> Hav_extra<or> Hav- och vattenmyndigheten<or>SWAM<or>Hav och Vattenmyndigheten<or>SAMWM<or>Hav		translate_LABO
+laboratory		Havsforskningsinstitutet Finland	IMRF	Havsforskningsinstitutet Finland	Finnish Institute of Marine Research	Finska institutet för Marina vetenskaper		translate_LABO
+laboratory		Helsingsborgs miljöförvaltning	HBGMILJO	Helsingsborgs miljöförvaltning	Helsingborg environmental management	Helsingsborg miljökontor<or>Helsingborgs miljöförvaltning<or>Miljönämnden i Helsingborg		translate_LABO
+laboratory		Hillevik marina fältstation	HILMAR	Hillevik marina fältstation	Hillevik Marine Field Station	Hillevik Marina Fältstation		translate_LABO
+laboratory		Holmen Paper	HOLMPAP	Holmen Paper	Holmen Paper	Holmen Paper AB Hallsta Pappersbruk<or>Holmen Paper AB		translate_LABO
+laboratory		Hushållningssällskapet	HUSH	Hushållningssällskapet	Swedish Rural Economy and Agricultural Societies 	Hushållningssällskapet Rådgivning Nord<or> HUSHRN		translate_LABO
+laboratory		Hydroconsult AB	HYDCON	Hydroconsult AB	Hydroconsult AB			translate_LABO
+laboratory		HydroGIS AB	HYD	HydroGIS AB	HydroGIS AB			translate_LABO
+laboratory		Höga kusten Limnologkonsult	HKLIM	Höga kusten Limnologkonsult	High coast Limnologist consultant			translate_LABO
+laboratory		Höganäs kommun	HOGKOM	Höganäs kommun	Höganäs Municipality			translate_LABO
+laboratory		Intresseföreningen för Nordöstra Hälsinglands SRK	IFNHR	Intresseföreningen för Nordöstra Hälsinglands SRK	Committee of North Eastern Hälsingland Coordinated Recipient Monitoring	Intresseföreningen för Nord Östra Hälsinglands samordnade recipientkontroll<or>Gruppen för samordnad recipientkontroll i NÖ Hälsingland<or>Intresseföreningen för Nordöstra Hälsinglands samordnade recipientkontroll		translate_LABO
+laboratory		IVL Svenska Miljöinstitutet 	SERI	IVL Svenska Miljöinstitutet 	Swedish Environmental Research Institute	Swedish Environmental Research Institute		translate_LABO
+laboratory		JP Aquakonsult KB	JPAQUA	JP Aquakonsult KB	JP Aquakonsult KB			translate_LABO
+laboratory		JP Sedimentkonsult HB	JPSED	JP Sedimentkonsult HB	JP Sedimentkonsult HB			translate_LABO
+laboratory		Kalix kommun	KLXKOM	Kalix kommun	Kalix Municipality			translate_LABO
+laboratory		Kalmar kommun	KALKOM	Kalmar kommun	Kalmar Municipality			translate_LABO
+laboratory		Kalvö Ostron	KALOS	Kalvö Ostron	Kalvö Oyster			translate_LABO
+laboratory		Kalmar läns kustvattenkommitté	KLKK	Kalmar läns kustvattenkommitté	Coastal Committee of Kalmar County	Kalmar läns kustvattenkommitte<or>Kalmar Läns kustvattenkommitté		translate_LABO
+laboratory		Karlshamns hamn AB	KARHAM	Karlshamns hamn AB	Karlshamns Port AB			translate_LABO
+laboratory		Karlskrona kommun	KARKOM	Karlskrona kommun	Karlskrona Municipality			translate_LABO
+laboratory		Kiviks Musteri	KIVI	Kiviks Musteri	Kiviks Musteri			translate_LABO
+laboratory		KM Lab AB	KMLB	KM Lab AB	KM Lab AB			translate_LABO
+laboratory		Kristineberg marina forskningsstation	KMRS	Kristineberg marina forskningsstation	Kristineberg marine research station			translate_LABO
+laboratory		Kolmården	KOLM	Kolmården	Kolmården			translate_LABO
+laboratory		Kristianstads kommun	KRIKOM	Kristianstads kommun	Kristianstads Municipality	Kristianstad kommun		translate_LABO
+laboratory		Kungliga Vetenskapsakademin	KVA	Kungliga Vetenskapsakademin	The Royal Swedish Academy of Sciense	Kungliga vetenskapsakademien		translate_LABO
+laboratory		Kustfilm Nord AB	KUFI	Kustfilm Nord AB	Kustfilm Nord AB			translate_LABO
+laboratory		Lapland Regional Environment Centre	LAPF	Lapland Regional Environment Centre	Lapland Regional Environment Centre			translate_LABO
+laboratory		LeCa Marin	LECA	LeCa Marin	LeCa Marin			translate_LABO
+laboratory		Lidingö Stad	LIDINGO	Lidingö Stad	Lidingö Municipality	Lidingö stad Miljö- och stadsbyggnadskontoret		translate_LABO
+laboratory		Linnéuniversitetet	LNU	Linnéuniversitetet	Linnaeus University	Linneuniversitetet<or>UCKS<or>Kalmar Universitet		translate_LABO
+laboratory		Litoralis Natur AB	LITORALIS	Litoralis Natur AB	Litoralis Nature AB	Litoralis<or>ESJE		translate_LABO
+laboratory		Ljunggren Fiske & Vattenvård AB	LJUNGGREN	Ljunggren Fiske & Vattenvård AB	Ljunggren Fiske & Vattenvård AB	Ljunggren Fiske & Vattenvård AB 		translate_LABO
+laboratory		Livsmedelsverket	SLV	Livsmedelsverket	National Food Agency	Svenska Livsmedelsverket		translate_LABO
+laboratory		Ljusnan-Voxnans vattenvårdsförbund	LVVVF	Ljusnan-Voxnans vattenvårdsförbund	Ljusnan-Voxnan Coalition of Water Conservation	LVVF<or>Ljusnan-Voxnans Vattenvårdsförbund<or>Ljusnan Voxnan		translate_LABO
+laboratory		Ljusterö vatten och fiskevårdsförening	LVFVF	Ljusterö vatten och fiskevårdsförening	Ljusterö Water and Fish Conservation Association			translate_LABO
+laboratory		Lunds Universitet	LUUN	Lunds Universitet	Lund University			translate_LABO
+laboratory		LV-lab	LVLAB	LV-lab	LV-lab			translate_LABO
+laboratory		Lysekils Ostron och Musslor	LYOSMU	Lysekils Ostron och Musslor	Lysekils Oysters and Mussels			translate_LABO
+laboratory		Länsstyrelsen Blekinge	KLST	Länsstyrelsen Blekinge	County Administrative Board of Blekinge	Länsstyrelsen i Blekinge län<or>Länsstyrelsen i Blekinge<or>Länsstyresen i Blekinge		translate_LABO
+laboratory		Länsstyrelsen Gotland	ILST	Länsstyrelsen Gotland	County Administrative Board of Gotland	Länsstyrelsen i Gotlands län<or>Länsstyrelsen i Gotland		translate_LABO
+laboratory		Länsstyrelsen Gävleborg	XLST	Länsstyrelsen Gävleborg	County Administrative Board of Gävleborg	Länsstyrelsen i Gävleborgs län<or>Länsstyrelsen i Gävleborg<or>LST Gävleborg<or> Länsstyrelsen Gävleborgs län		translate_LABO
+laboratory		Länsstyrelsen Halland	NLST	Länsstyrelsen Halland	County Administrative Board of Halland	Länsstyrelsen i Hallands län<or>Länsstyrelsen i Halland<or>länsstyrelsen i Halland<or>Nlst<or>Hallands kustkontroll<or>nlst<or>Länsstyrelsen i halland<or>N lst<or>n lst		translate_LABO
+laboratory		Länsstyrelsen Kalmar	HLST	Länsstyrelsen Kalmar	County Administrative Board of Kalmar	Länsstyrelsen i Kalmar län<or>Länsstyrelsen H län<or>Länsstyrelsen i Kalmar<or>Länsstyrelsen Kalmar län		translate_LABO
+laboratory		Länsstyrelsen Norrbotten	BDLST	Länsstyrelsen Norrbotten	County Administrative Board of Norrbotten	Länsstyrelsen i Norrbottens län<or>BDLAN<or>Länsstyrelsen i Norrbotten<or>LST Norrbotten		translate_LABO
+laboratory		Länsstyrelsen ospecificerad	LST	Länsstyrelsen ospecificerad	County Administrative Board unspecified			translate_LABO
+laboratory		Länsstyrelsen Skåne	MLST	Länsstyrelsen Skåne	County Administrative Board of Skåne	Länsstyrelsen i Skåne<or>Lst Skåne<or>Lst  Skåne<or>Länsstyrelsen i Skåne län<or>Lst I Skåne län<or>Länsstyrelsen skåne		translate_LABO
+laboratory		Länsstyrelsen Stockholm	BLST	Länsstyrelsen Stockholm	County Administrative Board of Stockholm			translate_LABO
+laboratory		Länsstyrelsen Stockholm	ABLST	Länsstyrelsen Stockholm	County Administrative Board of Stockholm	Länsstyrelsen i Stockholms län<or>Länsstyrelsen i Stockholm<or>Länstyrelsen i Stockholm<or>Stockholms län		translate_LABO
+laboratory		Länsstyrelsen Södermanland	DLST	Länsstyrelsen Södermanland	County Administrative Board of Södermanland	Länsstyrelsen i Södermanlands län<or>Länsstyrelsen i Södermanland<or>Länsstyrelsen Södermanlands län		translate_LABO
+laboratory		Länsstyrelsen Uppsala	CLST	Länsstyrelsen Uppsala	County Administrative Board of Uppsala	Länsstyrelsen i Uppsala län<or>Länsstyrelsen i Uppsala<or>Länsstyrelsen Uppsala län<or>LST Uppsala län<or>LST Uppsala		translate_LABO
+laboratory		Länsstyrelsen Västerbotten	ACLST	Länsstyrelsen Västerbotten	County Administrative Board of Västerbotten	Länsstyrelsen i Västerbottens län<or>ACLAN<or>Länsstyrelsen i Västerbotten<or> LST Västerbotten<or>Lst Västerbotten		translate_LABO
+laboratory		Länsstyrelsen Västernorrland	YLST	Länsstyrelsen Västernorrland	County Administrative Board of Västernorrland	Länsstyrelsen i Västernorrlands län<or>Nedre Ångermanälvens SRK<or>Y-LAN<or>Länsstyrelsen i Västernorrland<or>LST Västernorrland<or>Lst Västernorrland<or>Ylst<or>ylst		translate_LABO
+laboratory		Länsstyrelsen Västra Götaland	OLST	Länsstyrelsen Västra Götaland	County Administrative Board of Västra Götaland	Länsstyrelsen i Västra Götalands län<or>Länsstyrelsen i Västra Götaland<or>Länstyrelsen Västra götaland<or>Länstyrelsen Västra Götland<or> Länsstyrelsen Göteborg och Bohuslän<or>Lst_O_Kampanj<or>Lst_O_Koster <or>Lst_O_RMÖ<or>LST_O<or>Koster nationalpark (Lst_O)<or>Koster nationalpark, Lst_O<or>Länstyrelsen Västra Götaland<or>Lst_O		translate_LABO
+laboratory		Länsstyrelsen Östergötland	ELST	Länsstyrelsen Östergötland	County Administrative Board of Östergotland	Länsstyrelsen i Östergötlands län<or>Länsstyrelsen i Östergötland län<or>Länsstyrelsen i Östergötland<or>Länstyrelsen Östergötland		translate_LABO
+laboratory		Marietorps naturskola	MTNS	Marietorps naturskola	Marietorps Environmental school			translate_LABO
+laboratory		Marin Miljöanalys AB	MARMIL	Marin Miljöanalys AB	Marin Miljöanalys AB			translate_LABO
+laboratory		Marin Mätteknik	MMT	Marin Mätteknik	MMT			translate_LABO
+laboratory		Marina läroverket i Stocksund	MARLAR	Marina läroverket i Stocksund	Marina läroverket i Stocksund			translate_LABO
+laboratory		Marine Monitoring AB	MMAB	Marine Monitoring AB	Marine Monitoring AB	MAB		translate_LABO
+laboratory		MeAna konsult Uppsala	MEANA	MeAna konsult Uppsala	MeAna konsult Uppsala			translate_LABO
+laboratory		Medins Havs och Vattenkonsulter	MEDINS	Medins Havs och Vattenkonsulter	MEDINS AB	Medins<or>Medins Biologi AB<or>Medins Havs och Vattenkonsulter AB<or>Medins Havs- och Vattenkonsulter AB		translate_LABO
+laboratory		Metsä Board Sverige AB	METSA	Metsä Board Sverige AB	Metsa Board	Metsä Board Sverige AB Husums Fabrik		translate_LABO
+laboratory		Miljö & Natur Mats Notini AB	MNMN	Miljö & Natur Mats Notini AB	Miljö & Natur Mats Notini AB	Tronerud Miljö och Natur		translate_LABO
+laboratory		Miljölaboratorierna i Norrland	MILANO	Miljölaboratorierna i Norrland	Miljölaboratorierna i Norrland			translate_LABO
+laboratory		Miljölaboratorierna Umeå	MILUME	Miljölaboratorierna Umeå	Miljölaboratorierna Umeå	Miljölaboratorierna - Umeå		translate_LABO
+laboratory		Motala Ströms vattenvårdsförbund	MSVVF	Motala Ströms vattenvårdsförbund	Motala ström Coalition of Water Conservation	MSV<or>Motala Ströms Vattenvårdsförbund		translate_LABO
+laboratory		Mönsterås kommun	MONKOM	Mönsterås kommun	Mönsterås Municipality			translate_LABO
+laboratory		Marine Phytoplankton Consulting	MPC	Marine Phytoplankton Consulting	Marine Phytoplankton Consulting			translate_LABO
+laboratory		Nacka kommun	NACKAKOM	Nacka kommun	Nacka Municipality			translate_LABO
+laboratory		National Marine Fisheries Research Institute (NMFRI)	NMFRI	National Marine Fisheries Research Institute (NMFRI)	National Marine Fisheries Research Institute (NMFRI)			translate_LABO
+laboratory		Nationell datavärd Oceanografi	NODC	Nationell datavärd Oceanografi	National Oceanographic Data Center			translate_LABO
+laboratory		Naturhistoriska riksmuseet	MNHS	Naturhistoriska riksmuseet	Swedish Museum of Natural History	MHNS		translate_LABO
+laboratory		Naturvatten i Roslagen AB	NATVAT	Naturvatten i Roslagen AB	Naturvatten i Roslagen AB			translate_LABO
+laboratory		Naturvårdsverket	SEPA	Naturvårdsverket	Swedish Environmental Protection Agency	NV		translate_LABO
+laboratory		Naturvårdsverket Kustlaboratorium 	LCRS	Naturvårdsverket Kustlaboratorium 	Swedish Environmental Protection Agency Laboratory for Coastal Research 			translate_LABO
+laboratory		Naturvårdsverket Vattenkvalitetslaboratorium	NWLS	Naturvårdsverket Vattenkvalitetslaboratorium	Swedish Environmental Protection Agency Water Quality Laboratory 	Swedish Environmental Protection Agency Naturvårdsverkets Water Quality Laboratory 		translate_LABO
+laboratory		NIRAS Sweden AB	NIRAS	NIRAS Sweden AB	NIRAS Sweden AB	Niras		translate_LABO
+laboratory		Nordisk Analyse Center	NACE	Nordisk Analyse Center	Nordisk Analyse Center			translate_LABO
+laboratory		Nordmalings kommun	NORKOM	Nordmalings kommun	Nordmaling Municipality	Nordmalingskommun		translate_LABO
+laboratory		Nordvästskånes kustvattenkommitté	NVSKK	Nordvästskånes kustvattenkommitté	Coastal Committee of Nordvästra skåne	Nordvästskånes Kustvattenkommitté<or>Nordvästskånes Kustvattenkomitté (NVSKK)<or>Nordvässkånes Kustvattenkommitté (NVSKK)<or>Nordvästskånes Kustvattenkomitté<or>Nordvästra Skånes Kustvattenkommitté<or>Nordvästskånes kustvattenkommitté (NVSKK) 2000 och framåt<or>Nordvästskånes kustvattenkommitte<or> Nordvästskånes Kustvattenkommitte		translate_LABO
+laboratory		Norrköpings kommun	NRKKOM	Norrköpings kommun	Norrköping Municipality			translate_LABO
+laboratory		Norrtälje Energi	NORTENER	Norrtälje Energi	Norrtälje Energy			translate_LABO
+laboratory		Norrtälje kommun	NORRKOM	Norrtälje kommun	Norrtälje Municipality	Norrtälje kommun Vatten- och avloppsavdelningen<or>NORRTA		translate_LABO
+laboratory		Nyköping kommun	NYKOM	Nyköping kommun	Nyköping Municipality			translate_LABO
+laboratory		Nynäshamn kommun	NYNAKOM	Nynäshamn kommun	Nynäshamn Municipality			translate_LABO
+laboratory		Orust Shellfish AB	ORSHEL	Orust Shellfish AB	Orust Shellfish AB			translate_LABO
+laboratory		Oskarshamns kommun	OSKKOM	Oskarshamns kommun	Oskarshamns Municipality			translate_LABO
+laboratory		Oskarshamns Kraftgrupp AB	OKGAB	Oskarshamns Kraftgrupp AB	Oskarshamn Nuclear Power Plant			translate_LABO
+laboratory		Oxelö Energi	OXEN	Oxelö Energi	Oxelö Energy			translate_LABO
+laboratory		Oxelösund hamn	OXHAMN	Oxelösund hamn	Oxelösund Harbor			translate_LABO
+laboratory		PAG Miljöundersökningar	PAG	PAG Miljöundersökningar	PAG Environmental Studies			translate_LABO
+laboratory		Pelagia Miljökonsult AB	PELA	Pelagia Miljökonsult AB	Pelagia Environmental consulting AB	Pelagia Nature & Environment AB		translate_LABO
+laboratory		Piteå Renhållning och Vatten	PIREVA	Piteå Renhållning och Vatten	Piteå Sanitation and Water	PITREV<or>Piteå Renhållning och Vatten AB 		translate_LABO
+laboratory		Piteå kommun	PITKOM	Piteå kommun	Piteå Municipality			translate_LABO
+laboratory		Ringhals AB kärnkraftverk	RINGHALS	Ringhals AB kärnkraftverk	Ringhals nuclear power plant			translate_LABO
+laboratory		Robertsfors kommun	ROBKOM	Robertsfors kommun	Robertsfors Municipality			translate_LABO
+laboratory		SCA Packaging	SCAP	SCA Packaging	SCA Packaging	SCA Packaging Munksund Piteå<or>SCA Munksund<or>SCA Munksund AB		translate_LABO
+laboratory		Scanfjord	SCFJ	Scanfjord	Scanfjord			translate_LABO
+laboratory		Science for Life Laboratory	SCILIFELAB	Science for Life Laboratory	Science for Life Laboratory			translate_LABO
+laboratory		Schweden Splitt AB	SPLITT	Schweden Splitt AB	Schweden Splitt AB			translate_LABO
+laboratory		Sero A/S	SERO	Sero A/S	Sero A/S			translate_LABO
+laboratory		SGS Analytics Sweden	SGS	SGS Analytics Sweden	SGS Analytics Sweden			translate_LABO
+laboratory		Sveriges geologiska undersökning	SGUS	Sveriges geologiska undersökning	Geological Survey of Sweden			translate_LABO
+laboratory		Skellefteå kommun	SKEKOM	Skellefteå kommun	Skellefteå Municipality			translate_LABO
+laboratory		Skog & Sjö i Dalarna	SKSJDA	Skog & Sjö i Dalarna	Skog & Sjö i Dalarna			translate_LABO
+laboratory		Skärgårdsstiftelsen	SKS	Skärgårdsstiftelsen	The Archipelago Foundation			translate_LABO
+laboratory		Smurfit Kappa Kraftliner AB	SKKP	Smurfit Kappa Kraftliner AB	Smurfit Kappa Kraftliner AB	Smurfit Kappa Kraftliner<or>Smurfit Kappa Kraftliner Piteå		translate_LABO
+laboratory		Sollentuna kommun	SOLLKOM	Sollentuna kommun	Sollentuna Municipality	Kommunledningskontoret, Sollentuna kommun<or>Kommunledningskontoret Sollentuna kommun		translate_LABO
+laboratory		SSAB	SSAB	SSAB	SSAB			translate_LABO
+laboratory		Stockholm Vatten AB	SVAB	Stockholm Vatten AB	Stockholm Vatten AB			translate_LABO
+laboratory		Stockholms stad	STHS	Stockholms stad	The city of Stockholm	Stockholm stad		translate_LABO
+laboratory		Stockholms universitet	DEEP	Stockholms universitet	Stockholm University Department of Ecology Environment and Plant Sciences	Stockholm University Systems Ecology<or>SUSE<or>IGSS<or>NSLS<or>Stockholm Universitet		translate_LABO
+laboratory		Stockholms universitets marina forskningscentrum	SMRC	Stockholms universitets marina forskningscentrum	Stockholm University Marine Research Center	Stockholm University Marina Forsknings center		translate_LABO
+laboratory		Sundsvallsbuktens vattenvårdsförening	SVVF	Sundsvallsbuktens vattenvårdsförening	Sundsvallsbukten Coalition of Water Conservation	SBVV<or>Sundsvallsbuktens Vattenvårdsförbund		translate_LABO
+laboratory		Svealands kustvattenvårdsförbund	SKVVF	Svealands kustvattenvårdsförbund	Coastal Committee of Svealand	Svealands Kustvattenvårdsförbund<or>Svealands Kustvattenkommitté		translate_LABO
+laboratory		SWECO	SWECO	SWECO	SWECO	VBB Viak<or>VBB-V<or>VBB		translate_LABO
+laboratory		Svelab Miljölaboratorier AB	SVELAB	Svelab Miljölaboratorier AB	Svelab Miljölaboratorier AB			translate_LABO
+laboratory		Sven Lovén centrum för marina vetenskaper-Kristineberg	SLCK	Sven Lovén centrum för marina vetenskaper-Kristineberg	The Sven Lovén Centre for Marine Sciences-Kristineberg	SLC-K<or>KMRS<or>KMFS		translate_LABO
+laboratory		Sven Lovén centrum för marina vetenskaper-Tjärnö	SLCT	Sven Lovén centrum för marina vetenskaper-Tjärnö	The Sven Lovén Centre for Marine Sciences-Tjärnö	SLC-T<or>University of Gutenburg Marine ecology Tjärnö<or>UGMET<or>UGBEST<or>TMBL<or>Sven lovén centrum för marina vetenskaper-Tjärnö<or>GUMET<or>IAMK		translate_LABO
+laboratory		Svensk Kärnbränslehantering AB	SKB	Svensk Kärnbränslehantering AB	SKB – Swedish Nuclear Fuel and Waste Management Co	SKBAB		translate_LABO
+laboratory		Svensk Ekologikonsult AB	SEK	Svensk Ekologikonsult AB	Swedish Ecological Consultancy AB			translate_LABO
+laboratory		Sveriges lantbruksuniversitet 	SLU	Sveriges lantbruksuniversitet 	Swedish University of Agricultural Sciences	SLU Uppsala Miljöanalys<or>SLUUPP		translate_LABO
+laboratory		Sveriges lantbruksuniversitet Institutionen för akvatiska resurser	SLUA	Sveriges lantbruksuniversitet Institutionen för akvatiska resurser	Swedish University of Agricultural Sciences Department of Aquatic Resources			translate_LABO
+laboratory		Sveriges lantbruksuniversitet - Havsfiskelaboratoriet	SLUHL	Sveriges lantbruksuniversitet - Havsfiskelaboratoriet	Swedish University of Agricultural Sciences - Marine fisheries laboratory			translate_LABO
+laboratory		Sveriges meteorologiska och hydrologiska institut	SMHI	Sveriges meteorologiska och hydrologiska institut	Swedish Meteorological and Hydrological Institute	SMHG		translate_LABO
+laboratory		Sveriges Vattenekologer AB	SVVAEK	Sveriges Vattenekologer AB	Sveriges Vattenekologer AB			translate_LABO
+laboratory		Sydkustens vattenvårdsförbund	SYDVVF	Sydkustens vattenvårdsförbund	Sydkusten Coalition of Water Conservation	Sydkustens Vattenvårdsförbund		translate_LABO
+laboratory		SYNLAB Analytics & Services Sweden AB	SYNLAB	SYNLAB Analytics & Services Sweden AB	SYNLAB Analytics & Services Sweden AB			translate_LABO
+laboratory		Sydvästra stockholmsregionens va-verk AB	SYVAB	Sydvästra stockholmsregionens va-verk AB	Southwest Stockholm region waterwork			translate_LABO
+laboratory		Statens veterinärmedicinska anstalt	SVA	Statens veterinärmedicinska anstalt	National Veterinary Institute	NVI		translate_LABO
+laboratory		Södra Cell Värö massafabrik	VARO	Södra Cell Värö massafabrik	Sodra Pulp Labs			translate_LABO
+laboratory		Sölvesborgs kommun	SOLVKOM	Sölvesborgs kommun	Sölvesborgs Municipality			translate_LABO
+laboratory		Toxicon AB	TOXICO	Toxicon AB	Toxicon AB			translate_LABO
+laboratory		Trelleborgs Kommun	TRELKOM	Trelleborgs Kommun	Trelleborg Municipality			translate_LABO
+laboratory		Tyresö Fiskevårdsförening	TYRFISK	Tyresö Fiskevårdsförening	Tyresö Fiskevårdsförening			translate_LABO
+laboratory		Tyréns AB	TYRENS	Tyréns AB	Tyréns AB	Tyréns		translate_LABO
+laboratory		Tång och Sånt	TASA	Tång och Sånt	Tång och Sånt			translate_LABO
+laboratory		Täby kommun	TABYKOM	Täby kommun	Täby Municipality	Täby kommun Tekniska kontoret<or>Täby kommun, Tekniska kontoret		translate_LABO
+laboratory		Ume- och Vindelälvens vattenvårdsförbund	UVVVF	Ume- och Vindelälvens vattenvårdsförbund	Ume- and Vindelälven Coalition of Water Conservation	Ume/Vindelälvens vattenvårdsförbund<or>Ume/Vindelälvens Vattenvårdsförbund		translate_LABO
+laboratory		Umeå kommun	UMEKOM	Umeå kommun	Umeå Municipality	Umeå kommun (UMEVA)		translate_LABO
+laboratory		Umeå Universitet	UMSC	Umeå Universitet	Umeå University	UMF		translate_LABO
+laboratory		Upplandsstiftelsen	UPPSTIFT	Upplandsstiftelsen	The Uppland Foundation			translate_LABO
+laboratory		Uppsala universitet Campus Gotland	HGOT	Uppsala universitet Campus Gotland	Uppsala University Campus Gotland	Högskolan på Gotland<or>Gotland Högskola		translate_LABO
+laboratory		Uppsala universitet Erkenlab	ERKEN	Uppsala universitet Erkenlab	Uppsala University, Erken laboratory	Erkenlab<or>Erkenlaboratoriet		translate_LABO
+laboratory		WATERS	WATERS	WATERS	WATERS	WATERS - Marine Monitoring		translate_LABO
+laboratory		Vattenfall	VAFALL	Vattenfall	Vattenfall	Vattenfall AB		translate_LABO
+laboratory		Värmdö kommun	VARMKOM	Värmdö kommun	Värmdö Municipality	Värmdö Kommun		translate_LABO
+laboratory		Västkustmusslor	VASTMU	Västkustmusslor	West Coast Mussels			translate_LABO
+laboratory		Vattenlaboratoriet Malmö	VLABMA	Vattenlaboratoriet Malmö	Waterlaboratory Malmö			translate_LABO
+laboratory		Vattenmyndigheten i Bottenviken	VMBOT	Vattenmyndigheten i Bottenviken	Bothnian Bay Water District Authority			translate_LABO
+laboratory		Vattenvårdsförbundet för västra Hanöbukten	VHVVF	Vattenvårdsförbundet för västra Hanöbukten	Västra hanöbukten Coalition of Water Conservation	VVFVHB<or>Västra Hanöbuktens VVF<or>Västra Hanöbuktens vattenvårdsförbund<or>Västra hanöbuktens vattenvårdsförbund<or>VHVF<or>VVFVHB<or>Västra Hanöbuktens VVF<or>Västra Hanöbuktens vattenvårdsförbund<or>Västra hanöbuktens vattenvårdsförbund<or>Vvf för västra Hanöbukten<or>Vattenvårdsförbundet för Västra Hanöbukten		translate_LABO
+laboratory		WEAQ AB	WEAQ	WEAQ AB	WEAQ AB	WEAQ HB		translate_LABO
+laboratory		VA SYD	VASYD	VA SYD	VA SYD			translate_LABO
+laboratory		Veolia	VEOLIA	Veolia	Veolia	Veolia Water AB<or>Veolia Vatten AB		translate_LABO
+laboratory		WSP Environmental	WSP	WSP Environmental	WSP Environmental			translate_LABO
+laboratory		Västerviks kommun	VASKOM	Västerviks kommun	Västerviks Municipality			translate_LABO
+laboratory		Yoldia Environmental Consulting AB	YOLDIA	Yoldia Environmental Consulting AB	Yoldia Environmental Consulting AB	Yoldia Environmental Consulting AB (http://www.yoldia.se/)		translate_LABO
+laboratory		Ålands Fiskförädling AB	ALFISK	Ålands Fiskförädling AB	Ålands fiskförädling			translate_LABO
+laboratory		Öresunds vattenvårdsförbund	OVVF	Öresunds vattenvårdsförbund	Öresund Coalition of Water Conservation	OVF<or>Öresunds Vattenvårdsförbund<or>Ötesunds Vattenvårdsförbund<or>ÖVF<or>Öresunds Vattenvårdsförbund 2016 och framåt<or>Öresund Vattenvårdsförbund<or>Öresunds Vattenvårdsförbund 2021 och framåt<or>Öresunda Vattenvårdsförbund		translate_LABO
+laboratory		Öresundsbrokonsortiet	OKONS	Öresundsbrokonsortiet	Øresundsbro Konsortiet			translate_LABO
+laboratory		Österåkers kommun	OAKOM	Österåkers kommun	Österåkers Municipality			translate_LABO
+laboratory		Östhammars kommun	OSTKOM	Östhammars kommun	Östhammar Municipality			translate_LABO
+laboratory		Halmstad hamn AB	HALHAM	Halmstad hamn AB	Halmstad hamn AB	Halmnstad hamn AB<or>Halmstad hamn		translate_LABO
+laboratory		Dannes Firma	DANNF	Dannes Firma	Dannes Firma	Dannes Firma (Dan Evander)<or>Dannes firma (Dan Evander)		translate_LABO
+laboratory		Ospecificerat	XXX	Ospecificerat	Unspecified			translate_LABO
+laboratory		Ospecificerat forskningsdata	XXF	Ospecificerat forskningsdata	Unspecified research data	Forskningsdata		translate_LABO
+laboratory		Kungsbacka kommun	KUNGKOM	Kungsbacka kommun	Kungsbacka Municipality			translate_LABO
