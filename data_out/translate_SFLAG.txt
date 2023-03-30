@@ -1,0 +1,27 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+species_flag_code		CEN	CEN	Centrales - endast kiselalger	Centrales - diatoms only			translate_SFLAG
+species_flag_code		CF	CF	Likhet med det namngivna taxonet men inte säkert	Resemblance to the taxon named but not certain	cf.<or>cf<or>cf., cf.		translate_SFLAG
+species_flag_code		CPX	CPX	Komplex - mer än ett släkte	Complex - more than one genus	complex<or>cpx		translate_SFLAG
+species_flag_code		CR	CR	Crusta - calcarious crust algae	Crusta - calcarious crust algae			translate_SFLAG
+species_flag_code		CT	CT	Crusta - cartilagineous crust algae	Crusta - cartilagineous crust algae			translate_SFLAG
+species_flag_code		CN	CN	Crusta - ej specifierad	Crusta - not specified			translate_SFLAG
+species_flag_code		FC	FC	Filamentös - grov (alger)	Filamentous - coarse (algae)			translate_SFLAG
+species_flag_code		FF	FF	Filamentös - fin (alger)	Filamentous - fine (algae)			translate_SFLAG
+species_flag_code		GRP	GRP	Grupp - alla arter inom det beskrivna släktet som efter form och storlek liknar den beskrivna arten (PEG)	Group - any species within the described genus resembling by form and size the described species (PEG)	group<or>grp<or>gr		translate_SFLAG
+species_flag_code		INDET	INDET	Obestämd till lägre nivå. Okänt om en eller flera taxa på lägre nivå, dvs vet ej om SP eller SPP.	Indefinite to lower level. Unknown if one or more lower level tariffs, i.e. do not know about SP or SPP.	indet<or>Indet<or>in det		translate_SFLAG
+species_flag_code		NK	NK	Naken - endast dinoflagellater	Naked - dinoflagellates only			translate_SFLAG
+species_flag_code		PEN	PEN	Pennales - endast kiselalger	Pennales - diatoms only			translate_SFLAG
+species_flag_code		SH-E	SH-E	Form beskriven som ellipsoid	Shape described as ellipsoid			translate_SFLAG
+species_flag_code		SH-O	SH-O	Form beskriven som oval	Shape described as oval			translate_SFLAG
+species_flag_code		SH-R	SH-R	Form beskriven som rund	Shape described as round			translate_SFLAG
+species_flag_code		SH-S	SH-S	Form beskriven som sfärisk	Shape described as sphere			translate_SFLAG
+species_flag_code		SP	SP	En art ingår under detta namn	One species is included under this name	sp.<or>SP.<or>sp<or>Gen. sp.		translate_SFLAG
+species_flag_code		SPP	SPP	Flera arter ingår under detta namn	Several species are included under this name	spp<or>spp.<or>SSP		translate_SFLAG
+species_flag_code		SPP-1	SPP-1	Flera arter ingår under detta namn i ett prov och detta är den första arten	Several species are included under this name in one sample and this is the first species			translate_SFLAG
+species_flag_code		SPP-2	SPP-2	Flera arter ingår under detta namn i ett prov och detta är den andra arten	Several species are included under this name in one sample and this is the second species			translate_SFLAG
+species_flag_code		SPP-3	SPP-3	Flera arter ingår under detta namn i ett prov och detta är den tredje arten	Several species are included under this name in one sample and this is the third species			translate_SFLAG
+species_flag_code		SPP-4	SPP-4	Flera arter ingår under detta namn i ett prov och detta är den fjärde arten	Several species are included under this name in one sample and this is the fourth species			translate_SFLAG
+species_flag_code		TH	TH	Thecate - endast dinoflagellater	Thecate - dinoflagellates only			translate_SFLAG
+species_flag_code		UA	UA	Obunden organism	Unattached organism			translate_SFLAG
+species_flag_code		UN	UN	Okänd	Unknown			translate_SFLAG
+species_flag_code						af<or>EG<or>Gen.sp. <or> Gen. sp.<or>frgm<or>s.l.		translate_SFLAG

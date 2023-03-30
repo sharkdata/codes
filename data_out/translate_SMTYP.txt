@@ -105,3 +105,4 @@ sampler_type_code		WP-3	WP-3	WP-3 håv	WP-3 net			translate_SMTYP
 sampler_type_code		VS	VS	Valter core provtagare	Valter core sampler			translate_SMTYP
 sampler_type_code		VV	VV	Van Veen-huggare	Van Veen grab			translate_SMTYP
 sampler_type_code		HC	HC	Hand corer	Hand corer			translate_SMTYP
+sampler_type_code						Kontrollera metodik!<or>rörhämtare.<or>Other<or>HAU		translate_SMTYP

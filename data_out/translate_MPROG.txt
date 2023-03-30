@@ -1,0 +1,18 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+monitoring_program_code		BEEP	BEEP	EU BEEP-projektet i Östersjön (2002-2004)	EU BEEP project in the Baltic (2002-2004)			translate_MPROG
+monitoring_program_code		BMP	BMP	HELCOM övervakningsprogram för Östersjön (BMP)	HELCOM Baltic Monitoring Programme (BMP)			translate_MPROG
+monitoring_program_code		BONUS	BONUS	EU BONUS-projekt (inklusive Beast och Barracuda)	EU BONUS project (including Beast and Barracuda)			translate_MPROG
+monitoring_program_code		CEMP	CEMP	OSPAR:s samordnade miljöövervakningsprogram (CEMP)	OSPAR Coordinated Environmental Monitoring Programme (CEMP)			translate_MPROG
+monitoring_program_code		CMP	CMP	ICES program för övervakning av samarbete (CMP)	ICES Cooperative Monitoring Studies Programme (CMP)			translate_MPROG
+monitoring_program_code		COMB	COMB	HELCOM samarbetsövervakning i Östersjöns marina miljö (COMBINE)	HELCOM Cooperative Monitoring in the Baltic Marine Environment (COMBINE)			translate_MPROG
+monitoring_program_code		EMP	EMP	OSPAR programmet för övervakning av övergödning (EMP)	OSPAR Eutrophication Monitoring Programme (EMP)			translate_MPROG
+monitoring_program_code		JMP	JMP	OSPAR:s gemensamma övervakningsprogram	OSPAR Joint Monitoring Programme (JMP)			translate_MPROG
+monitoring_program_code		MMP	MMP	OSPAR-övervakningsplan (MMP) för Arbetsgruppen för Nordsjön	OSPAR Monitoring Master Plan (MMP) of the North Sea Task Force			translate_MPROG
+monitoring_program_code		NATL	NATL	Nationellt övervakningsprogram	National Monitoring Programme	NAT		translate_MPROG
+monitoring_program_code		NMP	NMP	OSPAR-programmet för övervakning av näringsämnen (NMP) i den gemensamma bedömningen	OSPAR Nutrients Monitoring Programme (NMP) of the Joint Assessment			translate_MPROG
+monitoring_program_code		PROJ	PROJ	Projektdata	Project data			translate_MPROG
+monitoring_program_code		RECIP	RECIP	Mottagarkontroll	Recipient control			translate_MPROG
+monitoring_program_code		SRECIP	SRECIP	Samordnad Mottagarkontroll	Coordinated Recipient control			translate_MPROG
+monitoring_program_code		REG	REG	Regionala data	Regional data			translate_MPROG
+monitoring_program_code		WFD	WFD	Ramdirektivet för vatten	Water Framework Directive			translate_MPROG
+monitoring_program_code		WGA	WGA	ICES arbetsgruppsverksamhet	ICES Working Group activity			translate_MPROG

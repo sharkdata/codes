@@ -1,0 +1,75 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+analytical_laboratory_accreditated		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+analytical_laboratory_accreditated		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+bitemark	delivery_datatype=Epibenthos	Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+bitemark	delivery_datatype=Epibenthos	N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+detached	delivery_datatype=Epibenthos	Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+detached	delivery_datatype=Epibenthos	N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+epibiont	delivery_datatype=Epibenthos	Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+epibiont	delivery_datatype=Epibenthos	N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+matrix_analysed_code		W	W			w		translate_miscellaneous
+method_calculation_uncertainty		U2	U2			Utvidgad mätosäkerhet. Täckningsfaktor 2, konfidensnivå 95%		translate_miscellaneous
+QFLAG Alkalinity	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Alkalinity_2	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Aluminium	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Ammonium NH4-N	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Chlorophyll-a bottle	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Coloured dissolved organic matter CDOM	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Conductivity CTD	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Conductivity_25 bottle	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Current direction	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Current velocity	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Dissolved oxygen O2 bottle	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Dissolved oxygen O2 CTD	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Dissovled organic carbon DOC	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Humus	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Hydrogen sulphide H2S	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Lignin	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Nitrate NO3-N	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Nitrite NO2-N	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Nitrite+Nitrate NO2+NO3-N	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Particulate organic carbon POC	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Particulate organic nitrogen PON	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG pH	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG pH Laboratory	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Phosphate PO4-P	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Pressure CTD	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Salinity bottle	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Salinity CTD	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Secchi depth	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Silicate SiO3-Si	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Temperature bottle	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Temperature CTD	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Temperature pH Laboratory	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Total Nitrogen Tot-N	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Total organic carbon TOC	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Total phosphorus Tot-P	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Urea	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG Yellow substance	delivery_datatype=Physical and Chemical					A		translate_miscellaneous
+QFLAG.Sedimentation rate (dw)	delivery_datatype=Physical and Chemical	S	S			?		translate_miscellaneous
+reported_station_name		SOOP-OK003	SOOP-OK003	SOOP-OK003	SOOP-OK003	SOOP-OK003 Å13	phytoplankton-colorfantasy	translate_miscellaneous
+reported_station_name		SOOP-OK004	SOOP-OK004	SOOP-OK004	SOOP-OK004	SOOP-OK004 Anholt	phytoplankton-colorfantasy	translate_miscellaneous
+reproductive_organs		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+reproductive_organs		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+sample_depth_quality_flag						A	physicalchemical	translate_miscellaneous
+sample_depth_quality_flag						1		translate_miscellaneous
+sample_depth_quality_flag						5		translate_miscellaneous
+sample_photo_code		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+sample_photo_code		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+sampler_area_m2						999<or>-9		translate_miscellaneous
+sampling_laboratory_accreditated		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+sampling_laboratory_accreditated		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+sampling_laboratory_accreditated						Okänt		translate_miscellaneous
+sampling_laboratory_accreditated_phyche	delivery_datatype=Physical and Chemical	Y	Y	Ja	Yes	True		translate_miscellaneous
+secchi_depth_quality_flag						A<or>ca		translate_miscellaneous
+station_photo		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+station_photo		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+taxon_photo		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+taxon_photo		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+transect_video		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+transect_video		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+video_interpreted		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_miscellaneous
+video_interpreted		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_miscellaneous
+water_land_station_type_code		C	C			CW		translate_miscellaneous
+water_land_station_type_code		MO	MO			O		translate_miscellaneous
+water_land_station_type_code		CF	CF			F		translate_miscellaneous

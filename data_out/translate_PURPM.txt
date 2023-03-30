@@ -1,0 +1,8 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+monitoring_purpose_code		B	B	Övervakning av biologiska effekter	Biological effects monitoring			translate_PURPM
+monitoring_purpose_code		E	E	Övervakning av övergödningseffekter	Eutrophication effects monitoring			translate_PURPM
+monitoring_purpose_code		H	H	Riskbedömning av människors hälsa	Human health risk assessment			translate_PURPM
+monitoring_purpose_code		N	N	Inget specifikt syfte	No specific purpose			translate_PURPM
+monitoring_purpose_code		R	R	Forskning	Research			translate_PURPM
+monitoring_purpose_code		S	S	Övervakning av den rumsliga (geografiska) utbredningen	Spatial (geographical) distribution monitoring			translate_PURPM
+monitoring_purpose_code		T	T	Tidsmässig trendövervakning	Temporal trend monitoring			translate_PURPM

@@ -1,0 +1,6 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+positioning_system_code		DEC	DEC	DECCA	DECCA			translate_POSYS
+positioning_system_code		DGP	DGP	Differentiellt globalt positioneringssystem	Differential Global Positioning System	DGPS<or>DPS		translate_POSYS
+positioning_system_code		EST	EST	"Uppskattad (särskilt för ""gamla"" data)"	"Estimated (especially for ""old"" data)"			translate_POSYS
+positioning_system_code		GPS	GPS	Globalt positioneringssystem	Global Positioning System	Plotter gps		translate_POSYS
+positioning_system_code		NOM	NOM	Nominellt (utsedda stationer)	Nominal (designated stations)			translate_POSYS

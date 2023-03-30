@@ -1,0 +1,3 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+#value	parameter=H2S smell	N	N	Nej	No			translate_HSUL_SMELL
+#value	parameter=H2S smell	Y	Y	Ja	Yes			translate_HSUL_SMELL

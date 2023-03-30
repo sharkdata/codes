@@ -1,0 +1,12 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+plankton_sampling_method_code		BTH	BTH	Botten till haloklinen (ingår)	Bottom to halocline (included)			translate_PDMET
+plankton_sampling_method_code		HAU	HAU	Hala	Haul			translate_PDMET
+plankton_sampling_method_code		HTT	HTT	Överst på haloklinen till thermolinen (ingår)	Top of halocline to thermocline (included)			translate_PDMET
+plankton_sampling_method_code		IND	IND	Integrerat prov	Integrated sample			translate_PDMET
+plankton_sampling_method_code		INP	INP	Integrerat prov från fotisk zon	Integrated sample from photic zone			translate_PDMET
+plankton_sampling_method_code		MIX	MIX	Blandat ytskikt	Mixed surface layer			translate_PDMET
+plankton_sampling_method_code		OTH	OTH	Övrigt – kontakta ICES för ny kod	Other - contact ICES for new code			translate_PDMET
+plankton_sampling_method_code		PDD	PDD	Poolat prov från olika djup (1,2,5, 5, 7,5, 10 meter)	Pooled sample from distinct depths (1,2.5, 5, 7.5, 10 metres)			translate_PDMET
+plankton_sampling_method_code		SEP	SEP	Separata djup	Separate depths			translate_PDMET
+plankton_sampling_method_code		TTS	TTS	Toppen av termoklinen till ytan	Top of thermocline to surface			translate_PDMET
+plankton_sampling_method_code						?<or>CLU		translate_PDMET

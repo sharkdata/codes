@@ -1,0 +1,6 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+#NOT_DEFINED_TALGAE	delivery_datatype=Epibenthos	0	0	Används nästan uteslutande för bar gyttjebotten där man kontrollerar med fingret att trådalgger inte förekommer	Used almost exclusively for bare mud bottom where you check with your finger that wire algae does not occur			translate_TALGAE
+#NOT_DEFINED_TALGAE	delivery_datatype=Epibenthos	1	1	Nästan alla rutor där vegetationen ser ren ut (där finns alltid trådar)	Almost all squares where vegetation looks clean (there are always threads)			translate_TALGAE
+#NOT_DEFINED_TALGAE	delivery_datatype=Epibenthos	2	2	Tydliga (>femkronorstora) ansamlingar av trådar	Clear (>five-crown-sized) accumulations of threads			translate_TALGAE
+#NOT_DEFINED_TALGAE	delivery_datatype=Epibenthos	3	3	Kraftig trådalgspåväxt men underliggande vegetation ser frisk ut	Strong wire algae growth but underlying vegetation looks healthy			translate_TALGAE
+#NOT_DEFINED_TALGAE	delivery_datatype=Epibenthos	4	4	Kvävande, underliggande vegetation måste grävas fram och ser ut att må dåligt av täcket, alternativt bar botten med täta sammanhängande trådalgsmattor	Suffocating, underlying vegetation needs to be dug out and looks badly affected by the coverage, or bare bottom with dense contiguous wire algae mats			translate_TALGAE

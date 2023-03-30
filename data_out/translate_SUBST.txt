@@ -1,0 +1,14 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+substrate_code	delivery_datatype=Epibenthos	BD	BD	Block (> 30cm)	Boulders (> 30cm)			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	CM	CM	Blåmussla (Mytilus edulis)	Common Mussel (Mytilus edulis)			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	GR	GR	Grus	Gravel			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	RK	RK	Häll	Rock			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	SD	SD	Sand	Sand			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	SF	SF	Sand (fast botten)	Sand (firm bottom)			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	SH	SH	Skal	Shells			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	SS	SS	Mjukbotten	Soft Substrate (mud)			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	ST	ST	Sten (> 10cm)	Stones (> 10cm)			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	SSI	SSI	Mjuk silt	Soft silt			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	DB	DB	Skräp	Debris			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	BS	BS	Bar substrat	Bare substrate			translate_SUBST
+substrate_code	delivery_datatype=Epibenthos	SG	SG	Skal och grus	Shell gravel			translate_SUBST

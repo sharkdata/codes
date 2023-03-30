@@ -1,0 +1,6 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+matrix_analysed_code	delivery_datatype=Seal pathology	AF	AF	Havsvattenprov - Efter filtrering	Sea water sample - After filtration			translate_MATRX
+matrix_analysed_code	delivery_datatype=Seal pathology	BF	BF	Havsvattenprov - Före filtrering	Sea water sample - Before filtration			translate_MATRX
+matrix_analysed_code	delivery_datatype=Seal pathology	S	S	Provet består av delar från kropp och inte hela kroppen	Sample consists of parts from body and not whole body			translate_MATRX
+matrix_analysed_code	delivery_datatype=Seal pathology	SEDtot	SEDtot	Sediment - obehandlad total	Sediment - untreated total			translate_MATRX
+matrix_analysed_code	delivery_datatype=Seal pathology	W	W	Provet består av hela kroppen	Sample consists of whole body	w		translate_MATRX

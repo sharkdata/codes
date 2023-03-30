@@ -1,0 +1,9 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+sediment_deposition_code		1	1	Ingen sedimentpålagring	No sediment cover			translate_DEPOS
+sediment_deposition_code		2	2	Liten sedimentpålagring	Small sediment cover			translate_DEPOS
+sediment_deposition_code		3	3	Måttlig sedimentpålagring	Moderate sediment cover			translate_DEPOS
+sediment_deposition_code		4	4	Kraftig sedimentpålagring	Substantial sediment cover			translate_DEPOS
+sediment_deposition_code		H	H	Heavy coverage (>70% coverage), motsvarar 4: Kraftig sedimentpålagring i Undersökningstyp: Vegetationsklädda bottnar, ostkust (+++)	Heavy coverage (>70% coverage)			translate_DEPOS
+sediment_deposition_code		L	L	Little coverage (<30% coverage), motsvarar 2: Lite i Undersökningstyp: Vegetationsklädda bottnar, ostkust (+)	Little coverage (<30% coverage)			translate_DEPOS
+sediment_deposition_code		M	M	Moderate coverage (ca. 30-70% coverage), motsvarar 3: Mera i Undersökningstyp: Vegetationsklädda bottnar, ostkust (++)	Moderate coverage (ca. 30-70% coverage)			translate_DEPOS
+sediment_deposition_code		N	N	No deposits,motsvarar 1: Ingen sedimentationspålagring i Undersökningstyp: Vegetationsklädda bottnar, ostkust	No deposits			translate_DEPOS

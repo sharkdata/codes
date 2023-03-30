@@ -1,0 +1,9 @@
+field	filter	public_value	code	swedish	english	synonyms	source
+stratum_code	delivery_datatype=Epibenthos	0.0	0.0	Crusta level (lowest)	Crusta level (lowest)	0,0000<or>0.00<or>0.0000	translate_STRID
+stratum_code	delivery_datatype=Epibenthos	1.0	1.0	Botten vegetationsnivå	Bottom vegetation level	1,0000<or>11<or>1.00<or>1.0000	translate_STRID
+stratum_code	delivery_datatype=Epibenthos	2.0	2.0	Intermediär nivå	Intermediate level	2,0000<or>2.00<or>2.0000	translate_STRID
+stratum_code	delivery_datatype=Epibenthos	3.0	3.0	Canopy + epiphytes	Canopy + epiphytes	3,0000<or>3.00	translate_STRID
+stratum_code	delivery_datatype=Epibenthos	4.0	4.0	Canopy	Canopy	4,0000<or>4.0000	translate_STRID
+stratum_code	delivery_datatype=Epibenthos	5.0	5.0	Epiphytes	Epiphytes	epi	translate_STRID
+stratum_code	delivery_datatype=Epibenthos	6.0	6.0	Lös vegetation	Loose vegetation	6,0000<or>lös	translate_STRID
+stratum_code	delivery_datatype=Epibenthos					???	translate_STRID

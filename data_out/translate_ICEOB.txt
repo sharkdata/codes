@@ -1,0 +1,11 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+ice_observation_code		0	0	Ingen is.	No ice.			translate_ICEOB
+ice_observation_code		1	1	Is förekommer i närheten, men ej identifierad till typ och mängd.	Existing ice, but not identified to type or amount.			translate_ICEOB
+ice_observation_code		2	2	Få isberg, mindre än 10.	Few icebergs, less than 10. 			translate_ICEOB
+ice_observation_code		3	3	Många isberg, mer än 10.	Many icebergs, more than 10. 			translate_ICEOB
+ice_observation_code		4	4	Väldigt öppen eller öppen packis (6/10 täckning eller mindre) mer än 1 nautisk mil från hydrografisk station	Very open or open packice (6/10 cover or less) more than 1 nautical mile frome hydrografic station			translate_ICEOB
+ice_observation_code		5	5	Stängd eller väldigt stängd packis (mer än 6/10 täckning) mer än 1 nautisk mil från hydrogafisk station	Closed or very closed packice (more than 6/10 cover) more than 1 nautical mile frome hydrografic station			translate_ICEOB
+ice_observation_code		6	6	Väldigt öppen eller öppen packis (6/10 täckning eller mindre); hydrografisk observation i packis eller mindre än 1 nautisk mil bort från packis. 	Very open or open packice (6/10 cover or less) less than 1 nautical mile frome hydrografic station			translate_ICEOB
+ice_observation_code		7	7	Stängd eller väldigt stängd packis (mer än 6/10 täckning); hydrografisk observation i packis eller mindre än 1 nautisk mil bort från packis. 	Closed or very closed packice (more than 6/10 cover) less than 1 nautical mile frome hydrografic station			translate_ICEOB
+ice_observation_code		8	8	Hydrografisk observation i väldigt hög koncentration av packis, polaris eller fastis, etc. (Observationer utförda från isöar, drivande is, isomgärdad fartyg, fastis eller liknande förhållande.	Hydrografic observation in very high concentration of packice, polarice or thick ice (Observations done from islands of ice, drift ice, ship surrounded by ice or simmilar  situations.			translate_ICEOB
+ice_observation_code		9	9	Inga observationer av is (P.g.a begränsad sikt eller is ej ingår som observerad parameter eller annan orsak) 	No observations of ice (because of limited visability or that ice is not a parameter for observation)			translate_ICEOB

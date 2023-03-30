@@ -1,0 +1,6 @@
+field	filter	public_value	code	swedish	english	synonyms	ices	nerc_name	nerc_id	comments	source
+trophic_type_code		NS	NS	Ej specificerat	Not specified			not specified	http://vocab.nerc.ac.uk/collection/S13/current/S1319/		translate_TRPHY
+trophic_type_code		AM	AM	Autotrof/Mixotrof art	Autotrophic/Mixotrophic species						translate_TRPHY
+trophic_type_code		AU	AU	Autotrof art	Autotrophic species	Au	AU	autotrophic	http://vocab.nerc.ac.uk/collection/S13/current/S135/		translate_TRPHY
+trophic_type_code		HT	HT	Heterotrof art	Heterotrophic species	H	HT	heterotrophic	http://vocab.nerc.ac.uk/collection/S13/current/S1312/		translate_TRPHY
+trophic_type_code		MX	MX	Mixotrof art	Mixotrophic species	M	MX	heterotrophic+autotrophic	http://vocab.nerc.ac.uk/collection/S13/current/S1314/		translate_TRPHY

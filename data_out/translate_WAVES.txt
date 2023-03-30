@@ -1,0 +1,11 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+wave_observation_code		0	0	Uppskattad våghöjd: 0 m, Spegelblank sjö.	estimated wave height : 0 m			translate_WAVES
+wave_observation_code		1	1	Uppskattad våghöjd: 0 - 0,1 m. Små fiskfjällsliknande krusningar utan skum.	estimated wave height: 0 - 0.1 m			translate_WAVES
+wave_observation_code		2	2	Uppskattad våghöjd: 0,1 - 0,5 m. Vågkammarna börjar bryta,  glasaktigt skum.	estimated wave height: 0.1 - 0.5 m			translate_WAVES
+wave_observation_code		3	3	Uppskattad våghöjd: 0,5 - 1,25 m. Längre vågor,  flerstädes vita skumkammar.	estimated wave height: 0.5 - 1.25 m			translate_WAVES
+wave_observation_code		4	4	Uppskattad våghöjd: 1,25 - 2,5 m. Vågorna mer utpräglade och länga,  överallt vita skumkammar.	estimated wave height: 1.25 - 2.5 m			translate_WAVES
+wave_observation_code		5	5	Uppskattad våghöjd: 2,5 - 4 m. Större vågberg,  vita skumkammar breder ut sig över större ytor.	estimated wave height: 2.5 - 4 m			translate_WAVES
+wave_observation_code		6	6	Uppskattad våghöjd: 4 - 6m. Sjön tornar upp sig och bryter,  skummet ordnar upp sig i strimmor i vindens riktning.	estimated wave height: 4 - 6m			translate_WAVES
+wave_observation_code		7	7	Uppskattad våghöjd: 6 - 9m. Vågbergens längd och höjd betydande.	estimated wave height: 6 - 9m			translate_WAVES
+wave_observation_code		8	8	Uppskattad våghöjd: 9 - 14 m. Höga vågberg med långa brottsjöar,  havsytan i stort sett vit av skum. 	estimated wave height: 9 - 14 m			translate_WAVES
+wave_observation_code		9	9	Ej observerat.	Not observed			translate_WAVES

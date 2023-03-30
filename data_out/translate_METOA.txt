@@ -1,0 +1,45 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+analysis_method_code		AAS	AAS	Atomabsorptionsspektrometri	Atomic Absorption Spectrometry			translate_METOA
+analysis_method_code		CLC	CLC	Coulter-räknare	Coulter counter			translate_METOA
+analysis_method_code		CNA	CNA	Kol-/kväveanalysator - CHN-analysator	Carbon/nitrogen analyser - CHN analyzer			translate_METOA
+analysis_method_code		CND	CND	Konduktometrisk analys	Conductometric analysis			translate_METOA
+analysis_method_code		COL	COL	Kolorimetriska metoder	Colourimetric methods			translate_METOA
+analysis_method_code		DSV	DSV	Torr siktning	Dry sieving			translate_METOA
+analysis_method_code		FLM	FLM	Fluorometrisk bestämning	Fluorometric determination			translate_METOA
+analysis_method_code		GC-AED	GC-AED	Gaskromatografi - atomemissionsdetektering	Gas chromotography - atomic emission detection			translate_METOA
+analysis_method_code		GC-ECD	GC-ECD	Gaskromatografi - elektronfångningsdetektor	Gas chromotography - electron capture detector			translate_METOA
+analysis_method_code		GC-EI	GC-EI	Gaskromatografi - jonisering av elektronpåverkan	Gas chromotography - electron impact ionization			translate_METOA
+analysis_method_code		GC-FPD	GC-FPD	GC- Flamfotometrisk detektor	GC- Flame photometric detector			translate_METOA
+analysis_method_code		GC-KAT	GC-KAT	Gaskromatografi - katharometer	Gas chromotography - katharometer			translate_METOA
+analysis_method_code		GC-MS	GC-MS	Gaskromatografi - masspektrometri	Gas chromotography - mass spectrometry			translate_METOA
+analysis_method_code		GC-MSD	GC-MSD	Gaskromatografi - masselektiv detektor	Gas chromotography - mass selective detector			translate_METOA
+analysis_method_code		GC-NCI	GC-NCI	Gaskromatografi - negativ kemisk jonisering	Gas chromotography - negative chemical ionization			translate_METOA
+analysis_method_code		GC-PFPD	GC-PFPD	GC- Pulserande flamfotometrisk detektor	GC- Pulsed flame photometric detector			translate_METOA
+analysis_method_code		GRS	GRS	Grov undersökning	Gross examination			translate_METOA
+analysis_method_code		GRV	GRV	Gravimetrisk	Gravimetric			translate_METOA
+analysis_method_code		HPLC	HPLC	Högpresterande vätskekromatografi	High performance liquid chromotography			translate_METOA
+analysis_method_code		HPLC-FD	HPLC-FD	HPLC - fluorescensdetektor	HPLC - fluorescence detector			translate_METOA
+analysis_method_code		HPLC-MS	HPLC-MS	HPLC - masspektrometri	HPLC - mass spectrometry			translate_METOA
+analysis_method_code		HPLC-UV	HPLC-UV	HPLC - UV-detektor	HPLC - UV detector			translate_METOA
+analysis_method_code		IMA	IMA	Bildanalys	Image analysis			translate_METOA
+analysis_method_code		IN SITU	IN SITU	In situ-metod för primärproduktionsmätningar	In situ method for primary production measurements			translate_METOA
+analysis_method_code		INCUBATOR	INCUBATOR	Inkubatormetod för primärproduktionsmätningar	Incubator method for primary production measurements			translate_METOA
+analysis_method_code		INCUBAT_BPD	INCUBAT_BPD	Inkubatormetod som används för att beräkna den totala primärproduktionen vid olika djup	Incubator method used to calculate the total primary production at different dephts			translate_METOA
+analysis_method_code		ISE	ISE	Jonselektiv elektrod	Ion selective electrode			translate_METOA
+analysis_method_code		LOR	LOR	Lorenzen klorofyll-a analys	Lorenzen chlorophyll-a assay			translate_METOA
+analysis_method_code		MIC-EM	MIC-EM	Mikroskop - elektronmikroskop	Microscope - electron microscope			translate_METOA
+analysis_method_code		MIC-LM	MIC-LM	Mikroskop - ljusmikroskop	Microscope - light microscope	MIC_LM		translate_METOA
+analysis_method_code		MIT-TM	MIT-TM	Molekylär identifieringsteknik	Molecular identification technique			translate_METOA
+analysis_method_code		MS	MS	Masspektrometri	Mass spectrometry			translate_METOA
+analysis_method_code		OXE	OXE	Syreelektrod	Oxygen electrode			translate_METOA
+analysis_method_code		PH	PH	pH elektrod	pH electrode			translate_METOA
+analysis_method_code		PSA	PSA	Analysator för partikelstorlek	Particle Size Analyzer			translate_METOA
+analysis_method_code		SMD	SMD	Smedes metod	Smedes method			translate_METOA
+analysis_method_code		SPEC	SPEC	Spektrofotometri	Spectrophotometry	Spektrofotometri (UV/Vis)<or>Spektrofotometer<or>Spektrofotometrisk bestämning efter extraktion med etanol.<or>Spektrofotometrisk bestämning av CDOM (färgat löst organiskt material).<or>Spektrofotometrisk best. metylenblått		translate_METOA
+analysis_method_code		SPEC-IR	SPEC-IR	Spektrofotometri - infraröd	Spectrophotometry - infrared			translate_METOA
+analysis_method_code		THR	THR	Termometer / temperaturanordning	Thermometer / temperature device	Termometer		translate_METOA
+analysis_method_code		TITR	TITR	Titreringsmetod	Titration method	Titrimetrisk<or>Titrering<or>titrimetri<or>Titrimetri		translate_METOA
+analysis_method_code		UTM	UTM	Utermöhl-teknik	Utermöhl technique			translate_METOA
+analysis_method_code		WINK	WINK	Bestämning av löst syre med hjälp av Winkler-titrering	Determination of dissolved oxygen by Winkler titration	Winkleranalys<or>Winkler<or>WNK		translate_METOA
+analysis_method_code		WSV	WSV	Våt siktning	Wet sieving			translate_METOA
+analysis_method_code						S<or>INS<or>F		translate_METOA

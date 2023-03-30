@@ -1,0 +1,5 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+#NOT_DEFINED_COV_EST	delivery_datatype=Epibenthos	1	1	Enstaka exemplar (Upp till 5% täckning)	Isolated specimen (Up to 5% cover)		Grunda	translate_COV_EST
+#NOT_DEFINED_COV_EST	delivery_datatype=Epibenthos	2	2	Sparsam, ganska vanlig (ca 5 till 20%)	More or less common (aproximatly 5 to 20%)		Grunda	translate_COV_EST
+#NOT_DEFINED_COV_EST	delivery_datatype=Epibenthos	3	3	Vanlig (20 till 70%)	Common (20 till 70%)		Grunda	translate_COV_EST
+#NOT_DEFINED_COV_EST	delivery_datatype=Epibenthos	4	4	Dominerande (mer än 70%)	Dominating (more than 70%)		Grunda	translate_COV_EST

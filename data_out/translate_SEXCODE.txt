@@ -1,0 +1,7 @@
+field	filter	public_value	code	swedish	english	synonyms	ices	nerc_name	nerc_id	comments	source
+sex_code		F	F	Hona	Female		F	female	http://vocab.nerc.ac.uk/collection/S10/current/S102/		translate_SEXCODE
+sex_code		H	H	Hermafrodit	Hermaphrodite		H	hermaphrodite	http://vocab.nerc.ac.uk/collection/S10/current/S107/		translate_SEXCODE
+sex_code		I	I	Omogen	Immature		I				translate_SEXCODE
+sex_code		M	M	Hane	Male		M	male	http://vocab.nerc.ac.uk/collection/S10/current/S103/		translate_SEXCODE
+sex_code		U	U	Obestämd	Undetermined	u	U	indeterminate	http://vocab.nerc.ac.uk/collection/S10/current/S105/		translate_SEXCODE
+sex_code		X	X	Blandad	Mixed		MX	male+female	http://vocab.nerc.ac.uk/collection/S10/current/S108/		translate_SEXCODE

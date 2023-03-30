@@ -1,0 +1,9 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+water_land_station_type_code		C	C	WFD Kustvatten	WFD Coastal water	CW		translate_WLTYP
+water_land_station_type_code		CE	CE	Kustvatten (flodmynning)	Coastal water (estuary)			translate_WLTYP
+water_land_station_type_code		CF	CF	Kustvatten (fjord)	Coastal water (fjord)	F		translate_WLTYP
+water_land_station_type_code		CR	CR	Kustvatten (flod)	Coastal water (river)			translate_WLTYP
+water_land_station_type_code		L	L	Landstation	Land station			translate_WLTYP
+water_land_station_type_code		MO	MO	Havsvatten (öppet hav)	Marine water (open sea)	O		translate_WLTYP
+water_land_station_type_code		T	T	WFD Vatten i övergångszon	WFD Transitional water			translate_WLTYP
+water_land_station_type_code		TT	TT	Vatten i övergångszon (tidvatten)	Transitional water (tidal)			translate_WLTYP

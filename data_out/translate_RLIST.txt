@@ -1,0 +1,4 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+species_reference_list		DYNTAXA	DYNTAXA	Vetenskapligt namn enligt Artdatabankens databas Dyntaxa. OBS! används endast om namn saknas i datavärdens artlistor.	Sientific name according to Artdatabankens database Dyntaxa. Is only used if name is missing in datahost species list.			translate_RLIST
+species_reference_list		ER	ER	Vetenskapligt namn enligt ERMS/WoRMS. OBS! används endast om namn saknas i datavärdens artlistor.	Sientific name according to ERMS/WoRMS. Is only used if name is missing in datahost species list.			translate_RLIST
+species_reference_list		ITLN	ITLN	Vetenskapligt namn enligt ITIS. OBS! används endast om namn saknas i datavärdens artlistor.	Sientific name according to ITIS. Is only used if name is missing in datahost species list.			translate_RLIST

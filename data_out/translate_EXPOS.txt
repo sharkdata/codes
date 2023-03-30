@@ -1,0 +1,8 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+station_exposure	delivery_datatype=Epibenthos	Ultra sheltered	Ultra sheltered	Ultraskyddat	Ultra sheltered			translate_EXPOS
+station_exposure	delivery_datatype=Epibenthos	Extremely sheltered	Extremely sheltered	Extremt skyddat	Extremely sheltered			translate_EXPOS
+station_exposure	delivery_datatype=Epibenthos	Very sheltered	Very sheltered	Mycket skyddat	Very sheltered			translate_EXPOS
+station_exposure	delivery_datatype=Epibenthos	Sheltered	Sheltered	Skyddat	Sheltered			translate_EXPOS
+station_exposure	delivery_datatype=Epibenthos	Moderately exposed	Moderately exposed	Måttligt exponerat	Moderately exposed			translate_EXPOS
+station_exposure	delivery_datatype=Epibenthos	Exposed	Exposed	Exponerat	Exposed			translate_EXPOS
+station_exposure	delivery_datatype=Epibenthos	Very exposed	Very exposed	Mycket exponerat	Very exposed			translate_EXPOS

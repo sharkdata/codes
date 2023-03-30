@@ -1,0 +1,4 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+#NOT_DEFINED_CNTRY		77	77	Sverige	Sweden			translate_CNTRY
+#NOT_DEFINED_CNTRY		26	26	Danmark	Denmark			translate_CNTRY
+#NOT_DEFINED_CNTRY		34	34	Finland	Finland			translate_CNTRY

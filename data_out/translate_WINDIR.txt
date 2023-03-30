@@ -1,0 +1,40 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+wind_direction_code		0.0	0.0	Vindstilla	Calm	Lugnt<or>Null<or>Stiltje<or>BLEKE<or>STILJTE<or>lugnt-NW<or>lugnt- SW<or>lugnt-W<or>Lugnt-W<or>stilla<or>0.0		translate_WINDIR
+wind_direction_code		1.0	1.0	5° - 14°	5° - 14°	01		translate_WINDIR
+wind_direction_code		2.0	2.0	15° - 24°	15° - 24°	N-NE<or>NNE<or>NNO<or>02		translate_WINDIR
+wind_direction_code		3.0	3.0	25° - 34°	25° - 34°	03		translate_WINDIR
+wind_direction_code		4.0	4.0	35° - 44°	35° - 44°	04		translate_WINDIR
+wind_direction_code		5.0	5.0	45° - 54°	45° - 54°	NE<or>NO<or>nE<or>05		translate_WINDIR
+wind_direction_code		6.0	6.0	55° - 64°	55° - 64°	06		translate_WINDIR
+wind_direction_code		7.0	7.0	65° - 74°	65° - 74°	ONO<or>ENE<or>07		translate_WINDIR
+wind_direction_code		8.0	8.0	75° - 84°	75° - 84°	08		translate_WINDIR
+wind_direction_code		9.0	9.0	85° - 94°	85° - 94°	O<or>E<or>90<or>09		translate_WINDIR
+wind_direction_code		10.0	10.0	95° - 104°	95° - 104°			translate_WINDIR
+wind_direction_code		11.0	11.0	105° - 114°	105° - 114°	ESE<or>OSO<or>E-SE		translate_WINDIR
+wind_direction_code		12.0	12.0	115° - 124°	115° - 124°			translate_WINDIR
+wind_direction_code		13.0	13.0	125° - 134°	125° - 134°			translate_WINDIR
+wind_direction_code		14.0	14.0	135° - 144°	135° - 144°	SE<or>S0<or>SO<or>E-S<or>ES		translate_WINDIR
+wind_direction_code		15.0	15.0	145° - 154°	145° - 154°			translate_WINDIR
+wind_direction_code		16.0	16.0	155° - 164°	155° - 164°	SSE<or>SSO		translate_WINDIR
+wind_direction_code		17.0	17.0	165° - 174°	165° - 174°			translate_WINDIR
+wind_direction_code		18.0	18.0	175° - 184°	175° - 184°	S<or>s<or>SS<or>180		translate_WINDIR
+wind_direction_code		19.0	19.0	185° - 194°	185° - 194°			translate_WINDIR
+wind_direction_code		20.0	20.0	195° - 204°	195° - 204°			translate_WINDIR
+wind_direction_code		21.0	21.0	205° - 214°	205° - 214°	SSV<or>SSW<or>S-SW<or>SW-S		translate_WINDIR
+wind_direction_code		22.0	22.0	215° - 224°	215° - 224°	220		translate_WINDIR
+wind_direction_code		23.0	23.0	225° - 234°	225° - 234°	WS<or>S-W<or>W-S<or>SV<or>SW		translate_WINDIR
+wind_direction_code		24.0	24.0	235° - 244°	235° - 244°			translate_WINDIR
+wind_direction_code		25.0	25.0	245° - 254°	245° - 254°	SW-W<or>SVB<or>W-SW<or>WSW<or>VSV		translate_WINDIR
+wind_direction_code		26.0	26.0	255° - 264°	255° - 264°			translate_WINDIR
+wind_direction_code		27.0	27.0	265° - 274°	265° - 274°	V<or>W		translate_WINDIR
+wind_direction_code		28.0	28.0	275° - 284°	275° - 284°			translate_WINDIR
+wind_direction_code		29.0	29.0	285° - 294°	285° - 294°			translate_WINDIR
+wind_direction_code		30.0	30.0	295° - 304°	295° - 304°	W-NW<or>VNV<or>WNW		translate_WINDIR
+wind_direction_code		31.0	31.0	305° - 314°	305° - 314°			translate_WINDIR
+wind_direction_code		32.0	32.0	315° - 324°	315° - 324°	NV<or>NW<or>WN<or>N/W		translate_WINDIR
+wind_direction_code		33.0	33.0	325° - 334°	325° - 334°			translate_WINDIR
+wind_direction_code		34.0	34.0	335° - 344°	335° - 344°	NNV<or>NNW<or>N-NW		translate_WINDIR
+wind_direction_code		35.0	35.0	345° - 354°	345° - 354°			translate_WINDIR
+wind_direction_code		36.0	36.0	355° - 4°	355° - 4°	NN<or>N		translate_WINDIR
+wind_direction_code		99.0	99.0	Växlande	Variable	SE - SW<or>E-W<or>SVO<or>NE-SW<or>VAR<or>NE-W<or>220° -250°<or>N-SW<or>NO-NW<or>ONO till VNV<or>NE-NW<or>EN<or>VARIABLE<or>N-SW.<or>NNE-W<or>NW-SW<or>E-SW<or>Växlande.<or>VXL<or>VX<or>Avtagande		translate_WINDIR
+wind_direction_code						?		translate_WINDIR

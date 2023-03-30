@@ -1,0 +1,12 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+cloud_observation_code		0	0	Inga moln	No clouds	0/8<or>0/0<or>0/8, sol<or>0/8 - 0/3		translate_CLOUD
+cloud_observation_code		1	1	1/8 eller mindre, men ej noll	1/8 or less, but not zero	sol<or>enstaka tussar<or>enstaka moln		translate_CLOUD
+cloud_observation_code		2	2	2/8	2/8	lite moln<or>soligt med lätta moln<or>Lite moln<or>lite tunna moln		translate_CLOUD
+cloud_observation_code		3	3	3/8	3/8	0/8 - 4/8		translate_CLOUD
+cloud_observation_code		4	4	4/8	4/8	4/8 - 5/8<or>växlande molnighet		translate_CLOUD
+cloud_observation_code		5	5	5/8	5/8			translate_CLOUD
+cloud_observation_code		6	6	6/8	6/8			translate_CLOUD
+cloud_observation_code		7	7	7/8 eller mer, men ej 8/8	7/8 or more, but not 8/8	Start Mulet, stop sol med spridda moln<or>8/8 - 6/8		translate_CLOUD
+cloud_observation_code		8	8	8/8	8/8	moln<or>Mulet, disigt, 5°C<or>Mulet<or>helt molnigt<or>Grådisigt, 5°C<or>Mulet och mörkt<or>molnigt<or>heltäckande<or>8, 2		translate_CLOUD
+cloud_observation_code		9	9	Ej observerad	Not observed	1/8 - 8/8<or>0/8 - 8/8<or>0/8 - 7/8<or>8/8 - 0/8<or>8/8 - -> 0/8<or>1/8 -->8/8<or>God sikt		translate_CLOUD
+cloud_observation_code		10	10	Växlande	Baffling	växlande<or>mulet med regn på morgonen, sol vid lunch<or>2/8 - 8/8<or>start: mulet 5°C, stopp: sol 7°C<or>8/8 - 4/8		translate_CLOUD

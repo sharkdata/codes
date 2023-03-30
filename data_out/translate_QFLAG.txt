@@ -1,0 +1,11 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+quality_flag		<	<	Värdet understiger mätområdets undre gräns (även kallat rapporteringsgräns)	Value is under the lower limit of the measurement range (also called limit of quantification)			translate_QFLAG
+quality_flag		>	>	Värdet överstiger mätområdets övre gräns	Value exceeds the upper limit of the measurement range			translate_QFLAG
+quality_flag		B	B	Dåligt/ felaktigt värde	Bad/wrong value			translate_QFLAG
+quality_flag		Blank	Blank	Data kontrollerad av datavärd eller av dataleverantör.	Data controlled by data host or by data deliverer.			translate_QFLAG
+quality_flag		E	E	Misstänkt extremvärde som kontrollerats och funnits korrekt. 	Suspect extreme value that is checked and OK			translate_QFLAG
+quality_flag		M	M	Värde saknas	Value missing			translate_QFLAG
+quality_flag		R	R	Uppskattat värde (genom interpolation eller extrapolation) 	Interpolation or Extrapolation	I		translate_QFLAG
+quality_flag		S	S	Misstänkt värde - anses misstänkt baserat på kvalitetskontroll eller brister i provtagning/ analys	Suspect value - defined suspect based on quality control or poor sampling and analysis	?		translate_QFLAG
+quality_flag		Z	Z	Nollvärde per definition (t.ex. syrehalt när svavelväte påvisas).	Zero value per definition (ex. oxygen levels or hydrogen sulfid detected).			translate_QFLAG
+quality_flag						C<or>D<or>F<or>0<or>Blank<or>1<or>A		translate_QFLAG

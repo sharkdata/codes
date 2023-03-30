@@ -1,0 +1,5 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+finding_circumstances	delivery_datatype=Seal pathology	FD	FD	Funnen död	Found dead			translate_FCST
+finding_circumstances	delivery_datatype=Seal pathology	FG	FG	Fiskeredskap	Fishing gear			translate_FCST
+finding_circumstances	delivery_datatype=Seal pathology	FO	FO	Funnen övrigt	Found other			translate_FCST
+finding_circumstances	delivery_datatype=Seal pathology	LH	LH	Legal jakt	Legal hunt			translate_FCST

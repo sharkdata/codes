@@ -1,0 +1,5 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+obspoint	delivery_datatype=Grey seal	L	L	Observationen gjordes från land	Observation made from Land	L &		translate_OBSPOINT
+obspoint	delivery_datatype=Grey seal	S	S	Observationen gjordes från fartyg	Observation made from Ship	B<or>B &		translate_OBSPOINT
+obspoint	delivery_datatype=Grey seal	A	A	Observationen gjordes från flyg	Observation made from Aeroplane	F		translate_OBSPOINT
+obspoint	delivery_datatype=Grey seal					BU		translate_OBSPOINT

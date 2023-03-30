@@ -1,0 +1,3 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+#NOT_DEFINED_STATUS_TRANSECT_CRITERIA		N	N	Den provtagna transekten uppfyller inte kraven för bedömningsgrunderna	The sampled transect does not fulfill the requirements for the assessment criteria	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_STATUS_TRANSECT_CRITERIA
+#NOT_DEFINED_STATUS_TRANSECT_CRITERIA		Y	Y	Den provtagna transekten uppfyller kraven för bedömningskriterierna	The sampled transect does fulfill the requirements for the assessment criteria	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_STATUS_TRANSECT_CRITERIA

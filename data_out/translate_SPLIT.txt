@@ -1,0 +1,5 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+sample_splitting_code		S	S	Stempel	Stempel			translate_SPLIT
+sample_splitting_code		F	F	Folsom	Folsom			translate_SPLIT
+sample_splitting_code		M	M	Motodo	Motodo			translate_SPLIT
+sample_splitting_code		K	K	Kott	Kott			translate_SPLIT

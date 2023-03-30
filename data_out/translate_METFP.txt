@@ -1,0 +1,20 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+preservation_method_code		ACD	ACD	Försurning	Acidification			translate_METFP
+preservation_method_code		ALU	ALU	Basisk lugol	Alkaline lugol			translate_METFP
+preservation_method_code		BOU	BOU	Bouins vätska	Bouin's fluid			translate_METFP
+preservation_method_code		CHL	CHL	Kloroform (=triklormetan)	Chloroform (=trichloromethane)			translate_METFP
+preservation_method_code		CLU	CLU	Sur lugol	Acid lugol	Acid lugol<or>Clu		translate_METFP
+preservation_method_code		DTR	DTR	Dietrick fixativ (10% formaldehyd, 28.5% EtOH, 2% glacial acetic acid)	Dietrick fixative (10% formaldehyde, 28.5% EtOH, 2% glacial acetic acid)			translate_METFP
+preservation_method_code		ETH	ETH	Etanol	Ethanol			translate_METFP
+preservation_method_code		ETHG	ETHG	Etanol (95%) med Glycerol (till 90% etanol innehåll)	Ethanol (95%) with Glycerol (to 90% ethanol content)			translate_METFP
+preservation_method_code		F4B	F4B	Fomaldehyd - 4% buffrad formaldehyd (ph 7-8)	Fomaldehye - 4% buffered formaldehyde (ph 7-8)			translate_METFP
+preservation_method_code		FET	FET	Formalin - neutralt buffrat formalin 10% + etanol	Formalin - neutral buffered formalin 10% + ethanol			translate_METFP
+preservation_method_code		FOR	FOR	Formaldehyd	Formaldehyde			translate_METFP
+preservation_method_code		HCL	HCL	Försurning med HCL	Acidification with HCL			translate_METFP
+preservation_method_code		HNO	HNO	Försurning med HNO3	Acidification with HNO3			translate_METFP
+preservation_method_code		IMS	IMS	Industriell metylerad sprit	Industrial methylated spirits			translate_METFP
+preservation_method_code		ISO	ISO	Isopropanol	Isopropanol			translate_METFP
+preservation_method_code		LUG	LUG	Neutral lugol	Neutral lugol			translate_METFP
+preservation_method_code		NBF	NBF	Formalin - neutralt buffrat formalin 10%	Formalin - neutral buffered formalin 10%			translate_METFP
+preservation_method_code		NON	NON	Ingen fixeringsmetod använd eftersom det är levande prov	No fixation method used			translate_METFP
+preservation_method_code		GLU	GLU	Glutaraldehyd	Glutaraldehyde			translate_METFP

@@ -1,0 +1,19 @@
+field	filter	public_value	code	swedish	english	synonyms	ices	nerc_name	nerc_id	comments	source
+dev_stage_code		AD	AD	Vuxen	Adult	Ad	AD	adult	http://vocab.nerc.ac.uk/collection/S11/current/S1116/		translate_STAGE
+dev_stage_code		C1	C1	Copepodite I	Copepodite I	C 1	COP1	copepodites C1	http://vocab.nerc.ac.uk/collection/S11/current/S111/		translate_STAGE
+dev_stage_code		C2	C2	Copepodite II	Copepodite II	C 2	COP2	copepodites C2	http://vocab.nerc.ac.uk/collection/S11/current/S117/		translate_STAGE
+dev_stage_code		C3	C3	Copepodite III	Copepodite III	C 3	COP3	copepodites C3	http://vocab.nerc.ac.uk/collection/S11/current/S118/		translate_STAGE
+dev_stage_code		C4	C4	Copepodite IV	Copepodite IV	C 4	COP4	copepodites C4	http://vocab.nerc.ac.uk/collection/S11/current/S1110/		translate_STAGE
+dev_stage_code		C5	C5	Copepodite V	Copepodite V	C 5	COP5	copepodites C5	http://vocab.nerc.ac.uk/collection/S11/current/S1112/		translate_STAGE
+dev_stage_code		C1-C3	C1-C3	Copepodite I - Copepodite III	Copepodite I - Copepodite III		C1	copepodites C1-3	http://vocab.nerc.ac.uk/collection/S11/current/S113/		translate_STAGE
+dev_stage_code		C4-C5	C4-C5	Copepodite IV - Copepodite V	Copepodite IV - Copepodite V		C4	copepodites C4-5	http://vocab.nerc.ac.uk/collection/S11/current/S1111/		translate_STAGE
+dev_stage_code		CN	CN	Copepodite (stadie ej specificerat)	Copepodite (stage not specified)		CN	copepodites	http://vocab.nerc.ac.uk/collection/S11/current/S115/		translate_STAGE
+dev_stage_code		EG	EG	Ägg	Egg		EG	egg	http://vocab.nerc.ac.uk/collection/S11/current/S1122/		translate_STAGE
+dev_stage_code		EM	EM	Embryo	Embryo		EM				translate_STAGE
+dev_stage_code		IM	IM	Förstadium/ej fullt utvecklad	Immature/sub-adult		IM	immature	http://vocab.nerc.ac.uk/collection/S11/current/S1171/		translate_STAGE
+dev_stage_code		JV	JV	Juvenil	Juvenile	jv	JV	juvenile	http://vocab.nerc.ac.uk/collection/S11/current/S1127/		translate_STAGE
+dev_stage_code		LV	LV	Larv	Larvae	larvae<or>LD<or>Ld	LV	larvae	http://vocab.nerc.ac.uk/collection/S11/current/S1128/		translate_STAGE
+dev_stage_code		MX	MX	Blandad för poolade exemplar	Mixed for pooled specimens						translate_STAGE
+dev_stage_code		NP	NP	Nauplius	Nauplius		NP	nauplii	http://vocab.nerc.ac.uk/collection/S11/current/S1130/		translate_STAGE
+dev_stage_code		NS	NS	Ej specifierad	Not specified	ns	NS	not specified	http://vocab.nerc.ac.uk/collection/S11/current/S1131/		translate_STAGE
+		nan					U	indeterminate	http://vocab.nerc.ac.uk/collection/S10/current/S105/		translate_STAGE

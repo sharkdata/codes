@@ -1,0 +1,11 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+weather_observation_code		0	0	Klart (inga moln på någon nivå)	Clear sky (no clouds at all)			translate_WEATH
+weather_observation_code		1	1	Delvis molnigt (splittrat eller uppsprucket molntäcke)	Partly cloudy (shattered clouds)			translate_WEATH
+weather_observation_code		2	2	Sammanhängande lager av moln. Används när den totala mängden moln är 7/8 eller mer.	Cloudy sky with no clear sky visible.			translate_WEATH
+weather_observation_code		3	3	Sandstorm, damstorm eller snöstorm	Sand storm, dust storm eller snow storm			translate_WEATH
+weather_observation_code		4	4	Dimma eller dis	Fog or haze			translate_WEATH
+weather_observation_code		5	5	Duggregn	Drizzle			translate_WEATH
+weather_observation_code		6	6	Regn	Rain			translate_WEATH
+weather_observation_code		7	7	Snö eller snöblandat regn	Snow or rain mixed with snow			translate_WEATH
+weather_observation_code		8	8	Skurar	Hail of rain			translate_WEATH
+weather_observation_code		9	9	Ej observerat	Not observed			translate_WEATH

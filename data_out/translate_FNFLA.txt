@@ -1,0 +1,3 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+fauna_flora_found		N	N	Nej	No	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0		translate_FNFLA
+fauna_flora_found		Y	Y	Ja	Yes	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1		translate_FNFLA

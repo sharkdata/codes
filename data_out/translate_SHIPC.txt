@@ -1,0 +1,202 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	ices_biology	ices_physical_and_chemical	source
+platform_code		7719	7719	Leverantör (SMHI)	Supplier (SMHI)					translate_SHIPC
+platform_code		7740	7740	Kustbevakningens fartyg (SMHI)	Coast Guard Vessels (SMHI)	40				translate_SHIPC
+platform_code		7768	7768	Andrea (SMHI)	Andrea (SMHI)					translate_SHIPC
+platform_code		7774	7774	Scoter (SMHI)	Scoter (SMHI)	74		AA15		translate_SHIPC
+platform_code		7775	7775	Sigurd Golje (SMHI)	Sigurd Golje (SMHI)					translate_SHIPC
+platform_code		7780	7780	SMHI-Aranda (SMHI)	SMHI-Aranda (SMHI)	80				translate_SHIPC
+platform_code		7782	7782	Farstugrunden (SMHI)	Farstugrunden (SMHI)					translate_SHIPC
+platform_code		7783	7783	Bohuskust-8689 (SMHI)	Bohuskust-8689 (SMHI)	83				translate_SHIPC
+platform_code		7784	7784	Brofjorden (SMHI)	Brofjorden (SMHI)					translate_SHIPC
+platform_code		7785	7785	Läsö Nord/Trindel (SMHI)	Läsö Nord/Trindel (SMHI)					translate_SHIPC
+platform_code		7786	7786	Svensk-USSR-expeditioner (SMHI)	Swedish-USSR Expeditions (SMHI)					translate_SHIPC
+platform_code		7788	7788	Trindeln (SMHI)	Trindeln (SMHI)	88				translate_SHIPC
+platform_code		7790	7790	FLERA FARTYG (ICES)	MULTIPLE SHIPS (ICES)			AA30		translate_SHIPC
+platform_code		7791	7791	UMF 001 (SMHI)	UMF 001 (SMHI)			AA33		translate_SHIPC
+platform_code		7792	7792	UMF 206 (Spårfordon) (SMHI)	UMF 206 (Track vehicle) (SMHI)					translate_SHIPC
+platform_code		7796	7796	SLV (SMHI)	SLV (SMHI)	96				translate_SHIPC
+platform_code		7797	7797	Nya Varvet (SMHI)	Nya Varvet (SMHI)					translate_SHIPC
+platform_code		ZZ99	ZZ99	OKÄNT (ICES)	UNKNOWN (ICES)	AA30<or>UN<or>7798<or>7799<or>77SO<or>98<or>AA30<or>UN		AA30		translate_SHIPC
+platform_code		26DA	26DA	Dana (ICES)	Dana (ICES)					translate_SHIPC
+platform_code		26YT	26YT	M/V Tender (ICES)	M/V Tender (ICES)					translate_SHIPC
+platform_code		34AR	34AR	Aranda (ICES)	Aranda (ICES)	3401<or>34A3				translate_SHIPC
+platform_code		347V	347V	MERI (ICES)	MERI (ICES)					translate_SHIPC
+platform_code		34EB	34EB	AURI (ICES)	AURI (ICES)					translate_SHIPC
+platform_code		771A	771A	SYGIN (ICES)	SYGIN (ICES)					translate_SHIPC
+platform_code		773A	773A	ANTARCTIC (ICES)	ANTARCTIC (ICES)					translate_SHIPC
+platform_code		77A2	77A2	ANTARCTIC (ICES)	ANTARCTIC (ICES)					translate_SHIPC
+platform_code		77AA	77AA	Atle (ICES)	Atle (ICES)					translate_SHIPC
+platform_code		77AB	77AB	ALBANIA (ICES)	ALBANIA (ICES)					translate_SHIPC
+platform_code		77AC	77AC	ANNIE JOHNSON (ICES)	ANNIE JOHNSON (ICES)					translate_SHIPC
+platform_code		77AD	77AD	ANTONIA JOHNSON (ICES)	ANTONIA JOHNSON (ICES)					translate_SHIPC
+platform_code		77AE	77AE	AXEL JOHNSON (ICES)	AXEL JOHNSON (ICES)					translate_SHIPC
+platform_code		58CO	58CO	COLOR FANTASY (ICES)	COLOR FANTASY (ICES)					translate_SHIPC
+platform_code		77AF	77AF	MARGARET JOHNSON (ICES)	MARGARET JOHNSON (ICES)					translate_SHIPC
+platform_code		77AG	77AG	AGNE (ICES)	AGNE (ICES)					translate_SHIPC
+platform_code		77AH	77AH	ERONA (ICES)	ERONA (ICES)					translate_SHIPC
+platform_code		77AI	77AI	SAN FRANCISCO (ICES)	SAN FRANCISCO (ICES)					translate_SHIPC
+platform_code		77AJ	77AJ	SAXEN (ICES)	SAXEN (ICES)					translate_SHIPC
+platform_code		77AK	77AK	TV04 (ICES)	TV04 (ICES)					translate_SHIPC
+platform_code		77AL	77AL	ALBATROSS (ICES)	ALBATROSS (ICES)					translate_SHIPC
+platform_code		77AM	77AM	TV044 (ICES)	TV044 (ICES)					translate_SHIPC
+platform_code		77AN	77AN	TV103 (ICES)	TV103 (ICES)					translate_SHIPC
+platform_code		77AO	77AO	ARCONA (ICES)	ARCONA (ICES)					translate_SHIPC
+platform_code		77AP	77AP	TV105 (ICES)	TV105 (ICES)					translate_SHIPC
+platform_code		77AQ	77AQ	TV171 (ICES)	TV171 (ICES)					translate_SHIPC
+platform_code		77AR	77AR	ARGOS (ICES)	ARGOS (ICES)	14				translate_SHIPC
+platform_code		77AS	77AS	TV227 (ICES)	TV227 (ICES)					translate_SHIPC
+platform_code		77AT	77AT	TV241 (ICES)	TV241 (ICES)					translate_SHIPC
+platform_code		77AU	77AU	TV243 (ICES)	TV243 (ICES)					translate_SHIPC
+platform_code		77AV	77AV	TV245 (ICES)	TV245 (ICES)					translate_SHIPC
+platform_code		77AW	77AW	TV246 (ICES)	TV246 (ICES)					translate_SHIPC
+platform_code		77AX	77AX	TV248 (ICES)	TV248 (ICES)					translate_SHIPC
+platform_code		77AY	77AY	TV249 (ICES)	TV249 (ICES)					translate_SHIPC
+platform_code		77AZ	77AZ	TV257 (ICES)	TV257 (ICES)					translate_SHIPC
+platform_code		77BA	77BA	TV260 (ICES)	TV260 (ICES)					translate_SHIPC
+platform_code		77BB	77BB	TV271 (ICES)	TV271 (ICES)					translate_SHIPC
+platform_code		77BC	77BC	TV273 (ICES)	TV273 (ICES)					translate_SHIPC
+platform_code		77BD	77BD	TV274 (ICES)	TV274 (ICES)					translate_SHIPC
+platform_code		77BE	77BE	TV276 (ICES)	TV276 (ICES)					translate_SHIPC
+platform_code		77BF	77BF	TV278 (ICES)	TV278 (ICES)					translate_SHIPC
+platform_code		77BG	77BG	TV281 (ICES)	TV281 (ICES)					translate_SHIPC
+platform_code		77BH	77BH	TV282 (ICES)	TV282 (ICES)					translate_SHIPC
+platform_code		77BI	77BI	TV283 (ICES)	TV283 (ICES)					translate_SHIPC
+platform_code		77BJ	77BJ	TV03 (ICES)	TV03 (ICES)					translate_SHIPC
+platform_code		77BK	77BK	NORLAND (ICES)	NORLAND (ICES)					translate_SHIPC
+platform_code		77BL	77BL	TV258 (ICES)	TV258 (ICES)					translate_SHIPC
+platform_code		77BM	77BM	TV255 (ICES)	TV255 (ICES)					translate_SHIPC
+platform_code		77BN	77BN	TV101 (ICES)	TV101 (ICES)					translate_SHIPC
+platform_code		77BO	77BO	Bornö (ICES)	Bornö (ICES)					translate_SHIPC
+platform_code		77BP	77BP	ELGAREN (ICES)	ELGAREN (ICES)					translate_SHIPC
+platform_code		77BQ	77BQ	TV259 (ICES)	TV259 (ICES)					translate_SHIPC
+platform_code		77BR	77BR	TV254 (ICES)	TV254 (ICES)					translate_SHIPC
+platform_code		77BS	77BS	ATLANTIC CINDERELLA (ICES)	ATLANTIC CINDERELLA (ICES)					translate_SHIPC
+platform_code		77BT	77BT	GAASSTEN (ICES)	GAASSTEN (ICES)					translate_SHIPC
+platform_code		77BU	77BU	SJOLLEN (ICES)	SJOLLEN (ICES)	BU				translate_SHIPC
+platform_code		77BV	77BV	RIGOLETTO (ICES)	RIGOLETTO (ICES)	BV				translate_SHIPC
+platform_code		77BW	77BW	DAG SKAER (ICES)	DAG SKAER (ICES)					translate_SHIPC
+platform_code		77BX	77BX	STOVE TRADER (ICES)	STOVE TRADER (ICES)					translate_SHIPC
+platform_code		77BY	77BY	BARKEN (ICES)	BARKEN (ICES)					translate_SHIPC
+platform_code		77BZ	77BZ	BELLATRIX (ICES)	BELLATRIX (ICES)					translate_SHIPC
+platform_code		77CA	77CA	TV01 (ICES)	TV01 (ICES)					translate_SHIPC
+platform_code		77CB	77CB	Arne Tiselius (ICES)	Arne Tiselius (ICES)	23				translate_SHIPC
+platform_code		77CR	77CR	OSCAR II (ICES)	OSCAR II (ICES)					translate_SHIPC
+platform_code		77DA	77DA	DAN BROSTROEM (ICES)	DAN BROSTROEM (ICES)					translate_SHIPC
+platform_code		77DN	77DN	Oden (ICES)	Oden (ICES)	DN				translate_SHIPC
+platform_code		77DY	77DY	DYNEKIL (ICES)	DYNEKIL (ICES)					translate_SHIPC
+platform_code		77EL	77EL	ELISA	ELISA					translate_SHIPC
+platform_code		77ES	77ES	Esox (ICES)	Esox (ICES)					translate_SHIPC
+platform_code		77ET	77ET	BETTY (ICES)	BETTY (ICES)					translate_SHIPC
+platform_code		77EX	77EX	Inger Express (ICES)	Inger Express (ICES)					translate_SHIPC
+platform_code		77EY	77EY	Eystrasalt (ICES)	Eystrasalt (ICES)					translate_SHIPC
+platform_code		77F1	77F1	TOR FLANDRIA (ICES)	TOR FLANDRIA (ICES)					translate_SHIPC
+platform_code		77F2	77F2	TOR SELANDIA (ICES)	TOR SELANDIA (ICES)					translate_SHIPC
+platform_code		77FA	77FA	FALSTERBOREV (ICES)	FALSTERBOREV (ICES)					translate_SHIPC
+platform_code		77FI	77FI	FINNGRUNDET (ICES)	FINNGRUNDET (ICES)					translate_SHIPC
+platform_code		77FK	77FK	Franklin (ICES)	Franklin (ICES)	28<or>Franklin				translate_SHIPC
+platform_code		77FL	77FL	Fladen fyrskepp (ICES)	Fladen fyrskepp (ICES)					translate_SHIPC
+platform_code		77FR	77FR	Frej (ICES)	Frej (ICES)					translate_SHIPC
+platform_code		77FS	77FS	FASTA STATIONER (ICES)	FIXED STATIONS (ICES)					translate_SHIPC
+platform_code		77FY	77FY	Fyrbyggaren (ICES)	Fyrbyggaren (ICES)					translate_SHIPC
+platform_code		77GA	77GA	Gråsuggan (ICES)	Gråsuggan (ICES)	GA				translate_SHIPC
+platform_code		77GI	77GI	Grisbadarne (ICES)	Grisbadarne (ICES)					translate_SHIPC
+platform_code		77GL	77GL	GLADAN (ICES)	GLADAN (ICES)					translate_SHIPC
+platform_code		77GR	77GR	GRUNDKALLEN (ICES)	GRUNDKALLEN (ICES)					translate_SHIPC
+platform_code		77HA	77HA	HATTAN (ICES)	HATTAN (ICES)					translate_SHIPC
+platform_code		77HL	77HL	HELLIG OLAV (ICES)	HELLIG OLAV (ICES)					translate_SHIPC
+platform_code		77HN	77HN	HANNA (ICES)	HANNA (ICES)					translate_SHIPC
+platform_code		77HP	77HP	Helikopter (ICES)	Helicopter (ICES)	78<or>KD<or>7778				translate_SHIPC
+platform_code		77HR	77HR	HAVRINGE (ICES)	HAVRINGE (ICES)					translate_SHIPC
+platform_code		77HV	77HV	H. M. VEKSTADSFARTYG (ICES)	H. M. VEKSTADSFARTYG (ICES)					translate_SHIPC
+platform_code		77IC	77IC	ALICE (ICES)	ALICE (ICES)					translate_SHIPC
+platform_code		77JJ	77JJ	JO-JO II (ICES)	JO-JO II (ICES)					translate_SHIPC
+platform_code		77K1	77K1	KBV102 (ICES)	KBV102 (ICES)	77KI				translate_SHIPC
+platform_code		77K2	77K2	KBV592 (Svävare) (ICES)	KBV592 (Hovercraft) (ICES)	K2<or>7779				translate_SHIPC
+platform_code		77K3	77K3	KBV290 (ICES)	KBV290 (ICES)					translate_SHIPC
+platform_code		77K4	77K4	KBV04 (ICES)	KBV04 (ICES)	K4				translate_SHIPC
+platform_code		77K5	77K5	KBV005 (ICES)	KBV005 (ICES)	K5				translate_SHIPC
+platform_code		77K6	77K6	KBV010 (ICES)	KBV010 (ICES)					translate_SHIPC
+platform_code		77K7	77K7	KBV046 (ICES)	KBV046 (ICES)					translate_SHIPC
+platform_code		77K8	77K8	KBV105 (ICES)	KBV105 (ICES)					translate_SHIPC
+platform_code		77K9	77K9	KBV181 (ICES)	KBV181 (ICES)	K9				translate_SHIPC
+platform_code		77KA	77KA	KBV047 (ICES)	KBV047 (ICES)	7771				translate_SHIPC
+platform_code		77KB	77KB	KBV 001 Poseidon (ICES)	KBV 001 Poseidon (ICES)	KBV 001 Poseidon<or>1				translate_SHIPC
+platform_code		77KC	77KC	KBV 002 Triton (ICES)	KBV 002 Triton (ICES)	2				translate_SHIPC
+platform_code		77KD	77KD	KBV590 (Svävare) (ICES)	KBV590 (Hovercraft) (ICES)	7762				translate_SHIPC
+platform_code		77KG	77KG	KALKGRUNDET (ICES)	KALKGRUNDET (ICES)					translate_SHIPC
+platform_code		77KL	77KL	UTKLIPPAN (ICES)	UTKLIPPAN (ICES)					translate_SHIPC
+platform_code		77KO	77KO	KOPPARSTENARNA (ICES)	KOPPARSTENARNA (ICES)					translate_SHIPC
+platform_code		77LA	77LA	Limanda (ICES)	Limanda (ICES)					translate_SHIPC
+platform_code		77LE	77LE	BLENDA (ICES)	BLENDA (ICES)					translate_SHIPC
+platform_code		77LN	77LN	LANDSORT (ICES)	LANDSORT (ICES)					translate_SHIPC
+platform_code		77LS	77LS	Belos (ICES)	Belos (ICES)	L,S				translate_SHIPC
+platform_code		77LT	77LT	Baltica (ICES)	Baltica (ICES)					translate_SHIPC
+platform_code		77LY	77LY	Lotty (ICES)	Lotty (ICES)	LY				translate_SHIPC
+platform_code		77MO	77MO	MORILD (ICES)	MORILD (ICES)					translate_SHIPC
+platform_code		77MW	77MW	Moonshadow (ICES)	Moonshadow (ICES)	81				translate_SHIPC
+platform_code		77MP	77MP	M/V Performer (SMHI)	M/V Performer (SMHI)					translate_SHIPC
+platform_code		77NA	77NA	Arctica (ICES)	Arctica (ICES)	77Svävare				translate_SHIPC
+platform_code		77NC	77NC	Ancylus (ICES)	Ancylus (ICES)	22				translate_SHIPC
+platform_code		77NE	77NE	Nereus (ICES)	Nereus (ICES)	24				translate_SHIPC
+platform_code		77NJ	77NJ	NJORD (ICES)	NJORD (ICES)					translate_SHIPC
+platform_code		77NP	77NP	NEPTUNUS AF TAEBY (ICES)	NEPTUNUS AF TAEBY (ICES)					translate_SHIPC
+platform_code		77NS	77NS	KBV201 (ICES)	KBV201 (ICES)					translate_SHIPC
+platform_code		77NT	77NT	ANHOLT (ICES)	ANHOLT (ICES)					translate_SHIPC
+platform_code		77NV	77NV	Örlogsfartyg (ICES)	Naval Vessels (ICES)					translate_SHIPC
+platform_code		77ON	77ON	ORION (ICES)	ORION (ICES)					translate_SHIPC
+platform_code		77OR	77OR	Olands Rev (ICES)	Olands Rev (ICES)					translate_SHIPC
+platform_code		77OS	77OS	OSKARSGRUNDET (ICES)	OSKARSGRUNDET (ICES)					translate_SHIPC
+platform_code		77PA	77PA	PARALLA (ICES)	PARALLA (ICES)					translate_SHIPC
+platform_code		77PN	77PN	PATER NOSTER (ICES)	PATER NOSTER (ICES)					translate_SHIPC
+platform_code		77RA	77RA	RIMBAUD (ICES)	RIMBAUD (ICES)					translate_SHIPC
+platform_code		77RN	77RN	RAN (ICES)	RAN (ICES)					translate_SHIPC
+platform_code		77SA	77SA	Scandica (ICES)	Scandica (ICES)					translate_SHIPC
+platform_code		77SB	77SB	SVINBADAN (ICES)	SVINBADAN (ICES)					translate_SHIPC
+platform_code		77SC	77SC	Svanic (ICES)	Svanic (ICES)	15				translate_SHIPC
+platform_code		77SG	77SG	SKAGGALD (ICES)	SKAGGALD (ICES)					translate_SHIPC
+platform_code		77SH	77SH	SHUTTLE KARLSTAD (ICES)	SHUTTLE KARLSTAD (ICES)					translate_SHIPC
+platform_code		77SI	77SI	Sensorita (ICES)	Sensorita (ICES)	30				translate_SHIPC
+platform_code		77SK	77SK	Skagerak (ICES)	Skagerak (ICES)	11				translate_SHIPC
+platform_code		77SL	77SL	Sabella (ICES)	Sabella (ICES)	S,L				translate_SHIPC
+platform_code		77SN	77SN	Sensor (ICES)	Sensor (ICES)	18<or>7718				translate_SHIPC
+platform_code		77SP	77SP	LEVERANTÖR (ICES)	SUPPLIER (ICES)					translate_SHIPC
+platform_code		77SR	77SR	SEGERO (ICES)	SEGERO (ICES)					translate_SHIPC
+platform_code		77SS	77SS	SVENSKUND (ICES)	SVENSKUND (ICES)					translate_SHIPC
+platform_code		77ST	77ST	Sea Terrier (ICES)	Sea Terrier (ICES)	87				translate_SHIPC
+platform_code		77SU	77SU	Havsmätare (ICES)	Ocean Surveyor (ICES)					translate_SHIPC
+platform_code		77SV	77SV	SVENSKA BJORN (ICES)	SVENSKA BJORN (ICES)					translate_SHIPC
+platform_code		77SY	77SY	SYDOSBROTTEN (ICES)	SYDOSBROTTEN (ICES)					translate_SHIPC
+platform_code		77SX	77SX	Scoter BD-län (SMHI)	Scoter BD-län (SMHI)					translate_SHIPC
+platform_code		77SZ	77SZ	Svenska fartyg (SMHI)	Swedish Vessels (SMHI)					translate_SHIPC
+platform_code		77T1	77T1	TV102 (ICES)	TV102 (ICES)					translate_SHIPC
+platform_code		77T2	77T2	TV256 (ICES)	TV256 (ICES)					translate_SHIPC
+platform_code		77T3	77T3	TV253 (ICES)	TV253 (ICES)					translate_SHIPC
+platform_code		77T4	77T4	TV244 (ICES)	TV244 (ICES)					translate_SHIPC
+platform_code		77T5	77T5	TV116 (ICES)	TV116 (ICES)					translate_SHIPC
+platform_code		77T6	77T6	TV 216 (ICES)	TV 216 (ICES)					translate_SHIPC
+platform_code		77T7	77T7	TV277 (ICES)	TV277 (ICES)					translate_SHIPC
+platform_code		77T8	77T8	TV172 (ICES)	TV172 (ICES)					translate_SHIPC
+platform_code		77T9	77T9	TV284 (ICES)	TV284 (ICES)					translate_SHIPC
+platform_code		77TA	77TA	Tändaren (ICES)	Tändaren (ICES)					translate_SHIPC
+platform_code		77TH	77TH	Thetis (ICES)	Thetis (ICES)					translate_SHIPC
+platform_code		77TI	77TI	Triad (ICES)	Triad (ICES)					translate_SHIPC
+platform_code		77TP	77TP	Transpaper (ICES)	Transpaper (ICES)	TP				translate_SHIPC
+platform_code		77TR	77TR	Tor (ICES)	Tor (ICES)					translate_SHIPC
+platform_code		77TV	77TV	TV252 (ICES)	TV252 (ICES)					translate_SHIPC
+platform_code		77UA	77UA	Ulla Rinman (ICES)	Ulla Rinman (ICES)					translate_SHIPC
+platform_code		77UR	77UR	Aurelia (ICES)	Aurelia (ICES)					translate_SHIPC
+platform_code		77UT	77UT	Norrbylabb (ICES)	Norrbylabb (ICES)	76<or>7776				translate_SHIPC
+platform_code		77V2	77V2	TV285 (ICES)	TV285 (ICES)					translate_SHIPC
+platform_code		77V3	77V3	TV287 (ICES)	TV287 (ICES)					translate_SHIPC
+platform_code		77VA	77VA	Vidar (ICES)	Vidar (ICES)					translate_SHIPC
+platform_code		77VB	77VB	VARBERG (ICES)	VARBERG (ICES)					translate_SHIPC
+platform_code		77VD	77VD	VADEROBOD (ICES)	VADEROBOD (ICES)					translate_SHIPC
+platform_code		77VE	77VE	VEGA (ICES)	VEGA (ICES)					translate_SHIPC
+platform_code		77VI	77VI	VINGA (ICES)	VINGA (ICES)					translate_SHIPC
+platform_code		77VS	77VS	Oscar von Sydow (ICES)	Oscar von Sydow (ICES)	25				translate_SHIPC
+platform_code		77VV	77VV	VI (ICES)	VI (ICES)					translate_SHIPC
+platform_code		77WX	77WX	Electra af Asko (ICES)	Electra af Asko (ICES)					translate_SHIPC
+platform_code		77XV	77XV	R/V Botnica (ICES)	R/V Botnica (ICES)	XV				translate_SHIPC
+platform_code		77SE	77SE	SVEA (ICES)	SVEA (ICES)	7710				translate_SHIPC
+platform_code		77YM	77YM	Ymer (ICES)	Ymer (ICES)	YM				translate_SHIPC
+platform_code						77HO<or>77HC<or>HE<or>HC<or>A<or>99SC<or>99DV				translate_SHIPC

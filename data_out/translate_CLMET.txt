@@ -1,0 +1,3 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+calculation_method		F	F	Flödesmätaravläsning	Flowmeter reading			translate_CLMET
+calculation_method		H	H	Draglängd	Haul length			translate_CLMET

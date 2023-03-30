@@ -1,0 +1,4 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+method_calculation_uncertainty	delivery_datatype=Physical and Chemical,Chlorophyll	%	%	Procentuell osäkerhet	Percentage uncertainty			translate_METCU
+method_calculation_uncertainty	delivery_datatype=Physical and Chemical,Chlorophyll	SD	SD	Standard avvikelse (+/-)	Standard deviation (+/-)			translate_METCU
+method_calculation_uncertainty	delivery_datatype=Physical and Chemical,Chlorophyll	U2	U2	Utvidgad mätosäkerhet (U) med täckningsfaktor 2 (OSPAR riktlinje)	Expanded uncertainty (U) coverage factor 2 (OSPAR guideline)	Utvidgad mätosäkerhet. Täckningsfaktor 2, konfidensnivå 95%		translate_METCU

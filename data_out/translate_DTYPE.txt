@@ -1,0 +1,19 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+delivery_datatype		Bacterioplankton	BACTPL	Bakterieplankton	Bacterioplankton			translate_DTYPE
+delivery_datatype		Chlorophyll	CHLA	Klorofyllhalt 	Chlorophyll			translate_DTYPE
+delivery_datatype		Grey seal	GSEAL	Gråsäl 	Grey seal			translate_DTYPE
+delivery_datatype		Harbour seal	HSEAL	Knubbsäl 	Harbour seal			translate_DTYPE
+delivery_datatype		Jellyfish	JELLYF	Geléplankton	Jellyfish			translate_DTYPE
+delivery_datatype		Physical and Chemical	PHYCHE	Fysikalisk och kemisk data	Physical and chemical			translate_DTYPE
+delivery_datatype		Epibenthos	EB	Vegetationsklädda bottnar	Epibenthos			translate_DTYPE
+delivery_datatype		Phytoplankton	PP	Växtplankton	Phytoplankton			translate_DTYPE
+delivery_datatype		PlanktonBarcoding	PBARCOD	Plankton DNA streckkodning	PlanktonBarcoding			translate_DTYPE
+delivery_datatype		Picoplankton	PICOP	Picoplankton	Picoplankton			translate_DTYPE
+delivery_datatype		Primary production	PRIMPROD	Primärproduktion	Primary production			translate_DTYPE
+delivery_datatype		Profile	PROFILE	Högupplöst profildata	High resolution profile data			translate_DTYPE
+delivery_datatype		Ringed seal	RSEAL	Vikaresäl	Ringed seal			translate_DTYPE
+delivery_datatype		Seal pathology	SEALPAT	Sälpatologi 	Seal pathology			translate_DTYPE
+delivery_datatype		Sedimentation	SED	Sedimentation	Sedimentation			translate_DTYPE
+delivery_datatype		Zoobenthos	ZB	Mjukbottenfauna	Zoobenthos			translate_DTYPE
+delivery_datatype		Zooplankton	ZP	Djurplankton	Zooplankton			translate_DTYPE
+delivery_datatype		Harbour Porpoise	HARPOR	Tumlare	Harbour porpoise			translate_DTYPE

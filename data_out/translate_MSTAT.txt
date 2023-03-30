@@ -1,0 +1,8 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+monitoring_station_type_code		B	B	WFD B - Baslinje/referensstation	WFD B - Baseline/Reference station			translate_MSTAT
+monitoring_station_type_code		IH-H	IH-H	Hamn där påverkan är antifoulanter, eldningsolja/petroleumprodukter	Harbour where impact is antifoulants, fuel oil/petroleum products			translate_MSTAT
+monitoring_station_type_code		IP-B	IP-B	Där påverkan är förbränning av fossila bränslen/icke-kärnkraftverk	Where impact is fossil fuel burning/non-nuclear power plant			translate_MSTAT
+monitoring_station_type_code		IH-C	IH-C	Där påverkan är kemisk/farmaceutisk industri	Where impact is chemical/pharmaceutical industry			translate_MSTAT
+monitoring_station_type_code		ID	ID	Påverkas direkt av störningar som muddring eller trålning	Impacted directly from disruptions such as dredging or trawling			translate_MSTAT
+monitoring_station_type_code		RP	RP	WFD R(PHY) – Representativt för allmänna villkor för näringsämnen/organiskt material	WFD R(PHY) - Representative of general conditions for nutrients/organic matter			translate_MSTAT
+monitoring_station_type_code		IP-N	IP-N	Där påverkan är av kärnkraftverk	Where impact is nuclear power plant			translate_MSTAT

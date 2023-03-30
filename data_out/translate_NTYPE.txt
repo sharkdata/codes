@@ -1,0 +1,12 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+station_N2000_code		1110	1110	Sublittorala sandbankar	Sublittoral sandbanks			translate_NTYPE
+station_N2000_code		1130	1130	Estuarier	Estuaries			translate_NTYPE
+station_N2000_code		1150	1150	Natura 2000-habitatet Laguner (ospecificerat)	Natura 2000 habitat Lagoons (unspecified)			translate_NTYPE
+station_N2000_code		1151	1151	Laguner vid rörlig kust, d.v.s. avgränsade av sandrevlar eller liknande som flyttas	Lagoons at movable coast, i.e. bounded by sandbars or similar that are moved			translate_NTYPE
+station_N2000_code		1152	1152	Lagunartade vikar med smala sund	Lagoon-like bays with narrow straits			translate_NTYPE
+station_N2000_code		1153	1153	Flada eller förstadium till flada på landhöjningskust	Flada or precursor to flada on land uplifting coast			translate_NTYPE
+station_N2000_code		1154	1154	Glo eller gloflada på landhöjningskust	Glo or gloflada on land uplifting coast			translate_NTYPE
+station_N2000_code		1160	1160	Natura 2000-habitatet Stora grunda vikar och sund	Natura 2000 habitat Large shallow bays and straits			translate_NTYPE
+station_N2000_code		1170	1170	Rev	Reefs			translate_NTYPE
+station_N2000_code		1620	1620	Skär och små öar i Östersjön	Baltic sea islets and small islands			translate_NTYPE
+station_N2000_code		1650	1650	Natura 2000-habitatet Smala vikar i Östersjön	Natura 2000 habitat Narrow bays in the Baltic Sea			translate_NTYPE

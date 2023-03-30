@@ -1,0 +1,89 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+#parameter		ABUND	ABUND	Förekomst (dvs. antal per område)	Abundance (i.e. numbers per area)			translate_PARAM
+#parameter		AL	AL	Aluminium	Aluminium			translate_PARAM
+#parameter		ALKY	ALKY	Total alkalinitet	Total alkalinity			translate_PARAM
+#parameter		AMON	AMON	Ammonium (NH4-N)	Ammonium (NH4-N)			translate_PARAM
+#parameter		BMAFDWT	BMAFDWT	Biomassa - askfri torrvikt	Biomass - ash free dry weight			translate_PARAM
+#parameter		BMCCONT	BMCCONT	Biomassa - kolinnehåll	Biomass - carbon content			translate_PARAM
+#parameter		BMCEVOL	BMCEVOL	Biomassa - cellvolym (um3)	Biomass - cell volume (um3)			translate_PARAM
+#parameter		CDOM	CDOM	Färgat upplöst organiskt material	Colored dissolved organic matter			translate_PARAM
+#parameter		CHLA_MGM3	CHLA_MGM3	Klorofyll a koncentration (mg/m3 = ug/l)	Chlorophyll a concentration (mg/m3 = ug/l)			translate_PARAM
+#parameter		CINOR	CINOR	oorganiskt kol	Inorganic carbon			translate_PARAM
+#parameter		CNDC_25	CNDC_25	Konduktivitet_25-(vattenhämtare) vid 25 °C	Electrical conductivity at 25 °C			translate_PARAM
+#parameter		CNDC_CTD	CNDC_CTD	Konduktivitet-CTD	Conductivity-CTD			translate_PARAM
+#parameter		CONC	CONC	Koncentration	Concentration			translate_PARAM
+#parameter		CORG	CORG	Organiskt kol	Organic carbon			translate_PARAM
+#parameter		COUNTNR	COUNTNR	Förekomstnummer (antal räknade)	Abundance number (number counted)			translate_PARAM
+#parameter		COVER_AREA	COVER_AREA	Täckyta (m2)	Cover area (m2)			translate_PARAM
+#parameter		CPHL	CPHL	Klorofyll-a	Chlorophyll-a			translate_PARAM
+#parameter		CPHLC	CPHLC	Klorofyll-a (SCOR/UNESCO-metod)	Chlorophyll-a (SCOR/UNESCO method)			translate_PARAM
+#parameter		CPHLL	CPHLL	Klorofyll-a(Lorenz-metod)	Chlorophyll-a (Lorenz method)			translate_PARAM
+#parameter		CTOT	CTOT	Totalt kol	Total carbon			translate_PARAM
+#parameter		CURVEL	CURVEL	Strömhastighet 	Current velocity			translate_PARAM
+#parameter		DEPH	DEPH	Djup (provtagning)	Depth (of sampling)			translate_PARAM
+#parameter		DEPOS_AREA	DEPOS_AREA	Område täckt med deponerat material (m2)	Area covered with deposited material (m2)			translate_PARAM
+#parameter		DISPT	DISPT	Avstånd från punktkällan (MATRX=SI)	Distance from point source (MATRX=SI)			translate_PARAM
+#parameter		DISTS	DISTS	Avstånd till land (MATRX=SI)	Distance to shore (MATRX=SI)			translate_PARAM
+#parameter		DOXY	DOXY	Löst syre	Dissolved oxygen			translate_PARAM
+#parameter		DOXY_BTL	DOXY_BTL	Syrgashalt (vattenhämtare)	Dissolved oxygen (bottle)			translate_PARAM
+#parameter		DOXY_CTD	DOXY_CTD	Syrgashalt-(CTD)	Dissolved oxygen (CTD)			translate_PARAM
+#parameter		DRYWT	DRYWT	Torrvikt	Dry weight			translate_PARAM
+#parameter		ESTSR	ESTSR	Uppskattad sedimenteringshastighet (ex. mm/år) (MATRX=SI)	Estimated sedimentation rate (ex. mm/year) (MATRX=SI)			translate_PARAM
+#parameter		GSMF1000	GSMF1000	Kornstorlek Massfraktion <1000 mikron	Grain Size Mass Fraction <1000 micron			translate_PARAM
+#parameter		GSMF20	GSMF20	Kornstorlek Massfraktion <20 mikron	Grain Size Mass Fraction <20 micron			translate_PARAM
+#parameter		GSMF500	GSMF500	Kornstorlek Massfraktion <500 mikron	Grain Size Mass Fraction <500 micron			translate_PARAM
+#parameter		GSMF63	GSMF63	Kornstorlek Massfraktion <63 mikron	Grain Size Mass Fraction <63 micron			translate_PARAM
+#parameter		GSMF90	GSMF90	Kornstorlek Massfraktion <90 mikron	Grain Size Mass Fraction <90 micron			translate_PARAM
+#parameter		H2S	H2S	Svavelväte	Hydrogen sulphide			translate_PARAM
+#parameter		HUMUS	HUMUS	Humus	Humus			translate_PARAM
+#parameter		K	K	Kalium	Potassium			translate_PARAM
+#parameter		LNMAX	LNMAX	Längd (max) (i kombination med matrx)	Length (max) (in combination with matrx)			translate_PARAM
+#parameter		LNMEA	LNMEA	Längd (medelvärde eller individ) (i kombination med matrx)	Length (mean or individual) (in combination with matrx)			translate_PARAM
+#parameter		LNMIN	LNMIN	Längd (min) (i kombination med matrx)	Length (min) (in combination with matrx)			translate_PARAM
+#parameter		LOIGN	LOIGN	Förlust vid antändning	Loss on ignition			translate_PARAM
+#parameter		N	N	Kväve	Nitrogen			translate_PARAM
+#parameter		nan		Natrium	Sodium			translate_PARAM
+#parameter		NORG	NORG	Organiskt kväve (N)	Organic nitrogen (N)			translate_PARAM
+#parameter		NTOT	NTOT	Totalt kväve (N)	Total nitrogen (N)			translate_PARAM
+#parameter		NTRA	NTRA	Nitrat (NO3-N)	Nitrate (NO3-N)			translate_PARAM
+#parameter		NTRI	NTRI	Nitrit (NO2-N)	Nitrite (NO2-N)			translate_PARAM
+#parameter		NTRZ	NTRZ	Nitrat + nitrit (-N)	Nitrate + nitrite (-N)			translate_PARAM
+#parameter		PH	PH	Vätejonkoncentration (pH)	Hydrogen ion concentration (pH)			translate_PARAM
+#parameter		PH_LAB	PH_LAB	pH Laboratorium	pH Laboratorium			translate_PARAM
+#parameter		PH_LAB_TEMP	PH_LAB_TEMP	Temperatur, pH Laboratorium	Temperature, pH Laboratorium			translate_PARAM
+#parameter		PHOS	PHOS	Fosfat (PO4-P)	Phosphate (PO4-P)			translate_PARAM
+#parameter		POC	POC	Partikulärt organiskt kol	Particulate organic carbon			translate_PARAM
+#parameter		PON	PON	Partikulärt Organiskt Kväve (PON)	Particulate Organic Nitrogen			translate_PARAM
+#parameter		POPDEN	POPDEN	Populationstäthet	Population density			translate_PARAM
+#parameter		PRES_CTD	PRES_CTD	Tryck-(CTD)	Pressure-(CTD)			translate_PARAM
+#parameter		PTOT	PTOT	Totalt fosfor (P)	Total phosphorus (P)			translate_PARAM
+#parameter		REDOX	REDOX	Redox potential	Redox potential			translate_PARAM
+#parameter		S	S	Svavel	Sulfur			translate_PARAM
+#parameter		SALT_BTL	SALT_BTL	Salinitet-(vattenhämtare)	Salinity-(bottle)			translate_PARAM
+#parameter		SALT_CTD	SALT_CTD	Salinitet-(CTD)	Salinity-(CTD)			translate_PARAM
+#parameter		SDEPL	SDEPL	Sedimentdjup från ytan (lägre)	Sediment depth from surface (lower)			translate_PARAM
+#parameter		SDEPU	SDEPU	Sedimentdjup från ytan (övre)	Sediment depth from surface (upper)			translate_PARAM
+#parameter		SECCHI	SECCHI	Secchi-djup	Secchi depth			translate_PARAM
+#parameter		SED_AL	SED_AL	Sediment aluminiumhalt (% av våtvikt)	Sediment aluminum content (% of wet weight)			translate_PARAM
+#parameter		SED_C	SED_C	Sediment kolhalt (% av våtvikt)	Sediment carbon content (% of wet weight)			translate_PARAM
+#parameter		SED_FE	SED_FE	Sediment järnhalt (% av våtvikt)	Sediment iron content (% of wet weight)			translate_PARAM
+#parameter		SED_MG	SED_MG	Sediment magnesiumhalt (% av våtvikt)	Sediment magnesium content (% of wet weight)			translate_PARAM
+#parameter		SED_MN	SED_MN	Sediment manganhalt (ppm våtvikt)	Sediment manganese content (ppm of wet weight)			translate_PARAM
+#parameter		SED_N	SED_N	Kvävehalt i sediment (% av våtvikten)	Sediment nitrogen content (% of wet weight)			translate_PARAM
+#parameter		SED_P	SED_P	Sediment fosforhalt (% av våtvikt)	Sediment phosphorus content (% of wet weight)			translate_PARAM
+#parameter		SED_RATE_DW	SED_RATE_DW	Sedimentationshastighet	Sedimentation rate			translate_PARAM
+#parameter		SED_SI	SED_SI	Sediment kiselhalt (% av våtvikt)	Sediment silicon content (% of wet weight)			translate_PARAM
+#parameter		SIO3-SI	SIO3-SI	Silikatkisel	Silicate			translate_PARAM
+#parameter		TEMP	TEMP	Temperatur	Temperature			translate_PARAM
+#parameter		TEMP_BTL	TEMP_BTL	Temperatur-(vattenhämtare)	Temperature-(bottle)			translate_PARAM
+#parameter		TEMP_CTD	TEMP_CTD	Temperatur-(CTD)	Temperature-(CTD)			translate_PARAM
+#parameter		TOC	TOC	Total Organiskt Kol	Total organic carbon			translate_PARAM
+#parameter		TURB	TURB	Turbiditet	Turbidity			translate_PARAM
+#parameter		WATLD	WATLD	Vattennivåavvikelse (MATRX = SI)	Water level deviation (MATRX=SI)			translate_PARAM
+#parameter		WAVHT	WAVHT	Våghöjd (MATRX=SI)	Wave height (MATRX=SI)			translate_PARAM
+#parameter		WAVXP	WAVXP	Vågexponering (hämta) (MATRX=SI)	Wave exposure (fetch) (MATRX=SI)			translate_PARAM
+#parameter		WETWT	WETWT	Våtvikt	Wet weight			translate_PARAM
+#parameter		WINSP	WINSP	Vindhastighet (ex. meter/sekund) (MATRX=SI)	Wind speed (ex. meters/second) (MATRX=SI)			translate_PARAM
+#parameter		WTMAX	WTMAX	Vikt (max) (i kombination med matrx)	Weight (max) (in combination with matrx)			translate_PARAM
+#parameter		WTMEA	WTMEA	Vikt (medelvärde eller individ) (i kombination med matrx)	Weight (mean or individual) (in combination with matrx)			translate_PARAM
+#parameter		WTMIN	WTMIN	Viktt (min) (i kombination med matrx)	Weight (min) (in combination with matrx)			translate_PARAM

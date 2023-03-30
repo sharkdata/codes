@@ -1,0 +1,10 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+#NOT_DEFINED_METST		AWT	AWT	Omgivande vattentemperatur	Ambient water temperature			translate_METST
+#NOT_DEFINED_METST		DF20	DF20	Djupfrysning -20 grader Celsius	Deep freeze -20 degrees Celsius			translate_METST
+#NOT_DEFINED_METST		DF70	DF70	Djupfrysning -70 grader Celsius	Deep freeze -70 degrees Celsius			translate_METST
+#NOT_DEFINED_METST		FR	FR	Frusen	Frozen			translate_METST
+#NOT_DEFINED_METST		LN	LN	Flytande kväve	Liquid nitrogen			translate_METST
+#NOT_DEFINED_METST		nan		Ej tillämpligt	Not applicable			translate_METST
+#NOT_DEFINED_METST		RD	RD	Rumstemperatur i mörker	Room temperature in dark			translate_METST
+#NOT_DEFINED_METST		RF	RF	Kylskåp	Refrigerator			translate_METST
+#NOT_DEFINED_METST		RT	RT	Rumstemperatur	Room temperature			translate_METST

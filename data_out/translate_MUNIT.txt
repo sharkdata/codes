@@ -1,0 +1,63 @@
+field	filter	public_value	code	swedish	english	synonyms	ices	nerc_name	nerc_id	comments	source
+#unit		%	%	Procent	Percent						translate_MUNIT
+#unit		% (dry weight)	% (dry weight)	Procent av torrvikt	Percent of dry weight						translate_MUNIT
+#unit		C	C	Grader celcius	Degrees celcius						translate_MUNIT
+#unit		cells/l	cells/l	Celler/liter	Cells/litre						translate_MUNIT
+#unit		cm	cm	Centimeter	Centimeter						translate_MUNIT
+#unit		d	d	Dag	Day						translate_MUNIT
+#unit		g	g	Gram	Gram		g	Grams	http://vocab.nerc.ac.uk/collection/P06/current/UGRM/		translate_MUNIT
+#unit		g/anlyzed unit	g/anlyzed unit	Gram per analyserad enhet	Gram per analyzed unit						translate_MUNIT
+#unit		g/g	g/g	Gram/gram	Gram/gram						translate_MUNIT
+#unit		g/kg	g/kg	Gram/kilogram	Gram/kilogram						translate_MUNIT
+#unit		g/l	g/l	Gram/liter	Gram/liter						translate_MUNIT
+#unit		g/m2/day	g/m2/day	Gram/kvadratmeter/ dag	Gram/square meter/ day						translate_MUNIT
+#unit		hr	hr	Timme	Hour						translate_MUNIT
+#unit		ind/analyzed unit	ind/analyzed unit	Antal individer räknade per analyserad enhet	Number of individuals counted per analyzed unit						translate_MUNIT
+#unit		kg	kg	Kilogram	Kilogram		kg	Kilograms	http://vocab.nerc.ac.uk/collection/P06/current/KGXX/		translate_MUNIT
+#unit		kmE	kmE	Kilometer österut (hämta)	Kilometers East (fetch)						translate_MUNIT
+#unit		kmN	kmN	Kilometer norrut (hämta)	Kilometers North (fetch)						translate_MUNIT
+#unit		kmNE	kmNE	Kilometer nordost (hämta)	Kilometers Northeast (fetch)						translate_MUNIT
+#unit		kmNW	kmNW	Kilometer nordväst (hämta)	Kilometers Northwest (fetch)						translate_MUNIT
+#unit		kmS	kmS	Kilometer söderut (hämta)	Kilometers South (fetch)						translate_MUNIT
+#unit		kmSE	kmSE	Kilometer sydost (hämta)	Kilometers Southeast (fetch)						translate_MUNIT
+#unit		kmSW	kmSW	Kilometer sydväst (hämta)	Kilometers Southwest (fetch)						translate_MUNIT
+#unit		kmW	kmW	Kilometer västerut (hämta)	Kilometers West (fetch)						translate_MUNIT
+#unit		m	m	Meter	Meter						translate_MUNIT
+#unit		m2	m2	Kvadratmeter	Square meter						translate_MUNIT
+#unit		mg	mg	Milligram	Milligram						translate_MUNIT
+#unit		mg/g	mg/g	Milligram/gram	Milligram/gram						translate_MUNIT
+#unit		mg/kg	mg/kg	Milligram/kilogram	Milligram/kilogram						translate_MUNIT
+#unit		mg/l	mg/l	Milligram/liter	Milligram/liter		mg/l	Milligrams per litre	http://vocab.nerc.ac.uk/collection/P06/current/UMGL/		translate_MUNIT
+#unit		mg/m3 (ug/l)	mg/m3 (ug/l)	Milligram/cubic meter = microgram/liter	Milligram/kubikmeter = mikrogram/liter		mg/m3	Milligrams per cubic metre	http://vocab.nerc.ac.uk/collection/P06/current/UMMC/		translate_MUNIT
+#unit		mg/ml	mg/ml	Milligram/milliliter	Milligram/milliliter						translate_MUNIT
+#unit		mhos	mhos	Millihos	Millihos						translate_MUNIT
+#unit		mhos/m	mhos/m	Mhos/meter	Mhos/meter						translate_MUNIT
+#unit		ml	ml	Milliliter	Milliliter						translate_MUNIT
+#unit		mm	mm	Millimeter	Millimeter						translate_MUNIT
+#unit		mo	mo	Mol	Moles						translate_MUNIT
+#unit		mo/l	mo/l	Mol/liter	Moles/liter						translate_MUNIT
+#unit		mV	mV	Millivolt	Millivolt						translate_MUNIT
+#unit		ng	ng	Nanogram	Nanogram						translate_MUNIT
+#unit		ng/g	ng/g	Nanogram/gram	Nanogram/gram						translate_MUNIT
+#unit		ng/l	ng/l	Nanogram/liter	Nanogram/liter						translate_MUNIT
+#unit		ng/ml	ng/ml	Nanogram/milliliter	Nanogram/milliliter						translate_MUNIT
+#unit		nm/mo	nm/mo	Nanomol/mol	Nanomole/mole						translate_MUNIT
+#unit		nr/i	nr/i	Antal per individ	Number per individual						translate_MUNIT
+#unit		nr/m2	nr/m2	Antal individer per kvadratmeter	Number of individuals per square meter		nr/m2	Number per square metre	http://vocab.nerc.ac.uk/collection/P06/current/UPMS/		translate_MUNIT
+#unit		nr25cell	nr25cell	Antal 25-cellgrupper	Number of 25 cell group						translate_MUNIT
+#unit		nrcells	nrcells	Antal celler	Number of cells						translate_MUNIT
+#unit		nrcol	nrcol	Antal kolonier	Number of colonies						translate_MUNIT
+#unit		nrfil100	nrfil100	Antal filament 100 um	Number of filaments 100 um						translate_MUNIT
+#unit		pg	pg	Pikogram	Picogram						translate_MUNIT
+#unit		ppm	ppm	Delar per miljon	Parts per million						translate_MUNIT
+#unit		ppm (dry weight)	ppm (dry weight)	Delar per miljon torrvikt	Parts per million of dry weight						translate_MUNIT
+#unit		ppt	ppt	Delar per tusen	Parts per thousand						translate_MUNIT
+#unit		st	st	Skede	Stage						translate_MUNIT
+#unit		ug	ug	Mikrogram	Microgram						translate_MUNIT
+#unit		ug/analyzed unit	ug/analyzed unit	Mikrogram per analyserad enhet	Microgram per analyzed unit						translate_MUNIT
+#unit		ug/g	ug/g	Mikrogram/gram	Microgram/gram						translate_MUNIT
+#unit		ug/kg	ug/kg	Mikrogram/kilogram	Microgram/kilogram						translate_MUNIT
+#unit		ug/m3	ug/m3	Mikrogram/kubikmeter	Microgram/cubic meter						translate_MUNIT
+#unit		um3	um3	Kubikmikrometer	Cubic micrometer						translate_MUNIT
+#unit		w	w	Vecka	Week						translate_MUNIT
+#unit		y	y	År	Year						translate_MUNIT

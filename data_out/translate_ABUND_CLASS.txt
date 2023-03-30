@@ -1,0 +1,10 @@
+field	filter	public_value	code	swedish	english	synonyms	comments	source
+#value	parameter=Abundance class	1	1	Påvisad	Observed			translate_ABUND_CLASS
+#value	parameter=Abundance class	2	2	Flera celler	Several cells			translate_ABUND_CLASS
+#value	parameter=Abundance class	3	3	1-10%	1-10%			translate_ABUND_CLASS
+#value	parameter=Abundance class	4	4	10-50%	10-50%			translate_ABUND_CLASS
+#value	parameter=Abundance class	5	5	50-100%	50-100%			translate_ABUND_CLASS
+#value	parameter=Abundance class	1ROV	1ROV	1-3 individer	1-3 individuals			translate_ABUND_CLASS
+#value	parameter=Abundance class	2ROV	2ROV	4-15 individer	4-15 individuals			translate_ABUND_CLASS
+#value	parameter=Abundance class	4ROV	4ROV	16-100 individer 	16-100 individuals			translate_ABUND_CLASS
+#value	parameter=Abundance class	8ROV	8ROV	Taxa som helt dominerar någon bit av transekten	Taxa that totaly dominates the transect			translate_ABUND_CLASS
