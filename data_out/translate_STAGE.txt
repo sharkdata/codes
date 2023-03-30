@@ -16,4 +16,4 @@ dev_stage_code		LV	LV	Larv	Larvae	larvae<or>LD<or>Ld	LV	larvae	http://vocab.nerc
 dev_stage_code		MX	MX	Blandad för poolade exemplar	Mixed for pooled specimens						translate_STAGE
 dev_stage_code		NP	NP	Nauplius	Nauplius		NP	nauplii	http://vocab.nerc.ac.uk/collection/S11/current/S1130/		translate_STAGE
 dev_stage_code		NS	NS	Ej specifierad	Not specified	ns	NS	not specified	http://vocab.nerc.ac.uk/collection/S11/current/S1131/		translate_STAGE
-		nan					U	indeterminate	http://vocab.nerc.ac.uk/collection/S10/current/S105/		translate_STAGE
+dev_stage_code		<use_nerc_name>					U	indeterminate	http://vocab.nerc.ac.uk/collection/S10/current/S105/		translate_STAGE

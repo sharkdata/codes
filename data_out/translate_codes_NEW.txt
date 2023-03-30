@@ -1502,7 +1502,7 @@ dev_stage_code		LV	LV	Larv	Larvae	larvae<or>LD<or>Ld						translate_STAGE		LV	la
 dev_stage_code		MX	MX	Blandad för poolade exemplar	Mixed for pooled specimens							translate_STAGE				
 dev_stage_code		NP	NP	Nauplius	Nauplius							translate_STAGE		NP	nauplii	http://vocab.nerc.ac.uk/collection/S11/current/S1130/
 dev_stage_code		NS	NS	Ej specifierad	Not specified	ns						translate_STAGE		NS	not specified	http://vocab.nerc.ac.uk/collection/S11/current/S1131/
-		nan										translate_STAGE		U	indeterminate	http://vocab.nerc.ac.uk/collection/S10/current/S105/
+dev_stage_code		<use_nerc_name>										translate_STAGE		U	indeterminate	http://vocab.nerc.ac.uk/collection/S10/current/S105/
 #NOT_DEFINED_STATUS_TRANSECT_CRITERIA		N	N	Den provtagna transekten uppfyller inte kraven för bedömningsgrunderna	The sampled transect does not fulfill the requirements for the assessment criteria	NO<or>no<or>No<or>nej<or>Nej<or>NEJ<or>n<or>0						translate_STATUS_TRANSECT_CRITERIA				
 #NOT_DEFINED_STATUS_TRANSECT_CRITERIA		Y	Y	Den provtagna transekten uppfyller kraven för bedömningskriterierna	The sampled transect does fulfill the requirements for the assessment criteria	YES<or>yes<or>Yes<or>ja<or>Ja<or>JA<or>j<or>J<or>y<or>1						translate_STATUS_TRANSECT_CRITERIA				
 stratum_code	delivery_datatype=Epibenthos	0.0	0.0	Crusta level (lowest)	Crusta level (lowest)	0,0000<or>0.00<or>0.0000						translate_STRID				
