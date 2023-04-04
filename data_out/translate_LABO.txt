@@ -102,7 +102,7 @@ laboratory		Länsstyrelsen Halland	NLST	Länsstyrelsen Halland	County Administrati
 laboratory		Länsstyrelsen Kalmar	HLST	Länsstyrelsen Kalmar	County Administrative Board of Kalmar	Länsstyrelsen i Kalmar län<or>Länsstyrelsen H län<or>Länsstyrelsen i Kalmar<or>Länsstyrelsen Kalmar län		1853.0	translate_LABO
 laboratory		Länsstyrelsen Norrbotten	BDLST	Länsstyrelsen Norrbotten	County Administrative Board of Norrbotten	Länsstyrelsen i Norrbottens län<or>BDLAN<or>Länsstyrelsen i Norrbotten<or>LST Norrbotten		3464.0	translate_LABO
 laboratory		Länsstyrelsen ospecificerad	LST	Länsstyrelsen ospecificerad	County Administrative Board unspecified				translate_LABO
-laboratory		Länsstyrelsen Skåne	MLST	Länsstyrelsen Skåne	County Administrative Board of Skåne	Länsstyrelsen i Skåne<or>Lst Skåne<or>Lst  Skåne<or>Länsstyrelsen i Skåne län<or>Lst I Skåne län<or>Länsstyrelsen skåne		626.0	translate_LABO
+laboratory		Länsstyrelsen Skåne	MLST	Länsstyrelsen Skåne	County Administrative Board of Skåne	Länsstyrelsen i Skåne<or>Lst Skåne<or>Lst  Skåne<or>Länsstyrelsen i Skåne län<or>Lst I Skåne län<or>Länsstyrelsen skåne<or>LST_M		626.0	translate_LABO
 laboratory		Länsstyrelsen Stockholm	ABLST	Länsstyrelsen Stockholm	County Administrative Board of Stockholm	Länsstyrelsen i Stockholms län<or>Länsstyrelsen i Stockholm<or>Länstyrelsen i Stockholm<or>Stockholms län		3468.0	translate_LABO
 laboratory		Länsstyrelsen Stockholm	BLST	Länsstyrelsen Stockholm	County Administrative Board of Stockholm			3468.0	translate_LABO
 laboratory		Länsstyrelsen Södermanland	DLST	Länsstyrelsen Södermanland	County Administrative Board of Södermanland	Länsstyrelsen i Södermanlands län<or>Länsstyrelsen i Södermanland<or>Länsstyrelsen Södermanlands län		4776.0	translate_LABO
