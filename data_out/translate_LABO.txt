@@ -218,7 +218,7 @@ laboratory		Värmdö kommun	VARMKOM	Värmdö kommun	Värmdö Municipality	Värmdö Kommu
 laboratory		Västerviks kommun	VASKOM	Västerviks kommun	Västerviks Municipality				translate_LABO
 laboratory		Västkustmusslor	VASTMU	Västkustmusslor	West Coast Mussels				translate_LABO
 laboratory		WATERS	WATERS	WATERS	WATERS	WATERS - Marine Monitoring			translate_LABO
-laboratory		WEAQ AB	WEAQ	WEAQ AB	WEAQ AB	WEAQ HB		3989.0	translate_LABO
+laboratory		WEAQ AB	WEAQ	WEAQ AB	WEAQ AB	WEAQ HB<or>Weaq		3989.0	translate_LABO
 laboratory		WSP Environmental	WSP	WSP Environmental	WSP Environmental				translate_LABO
 laboratory		Yoldia Environmental Consulting AB	YOLDIA	Yoldia Environmental Consulting AB	Yoldia Environmental Consulting AB	Yoldia Environmental Consulting AB (http://www.yoldia.se/)		4717.0	translate_LABO
 laboratory		Ålands Fiskförädling AB	ALFISK	Ålands Fiskförädling AB	Ålands fiskförädling				translate_LABO
